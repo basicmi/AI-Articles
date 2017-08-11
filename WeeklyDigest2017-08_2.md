@@ -33,7 +33,7 @@
 > - Want better development and debugging experience
 > - Love all things Pythonic
 
-**3 [The mostly complete chart of Neural Networks, explained](https://medium.com/towards-data-science/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)**
+**3. [The mostly complete chart of Neural Networks, explained](https://medium.com/towards-data-science/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)**
 
 >The zoo of neural network types grows exponentially. One needs a map to navigate between many emerging architectures and approaches.
 Fortunately, Fjodor van Veen from Asimov institute compiled a wonderful cheatsheet on NN topologies. If you are not new to Machine Learning, you should have seen it before:
