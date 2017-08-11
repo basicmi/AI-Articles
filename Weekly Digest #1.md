@@ -1,6 +1,6 @@
 ## Weekly Digest #1
 
-1. [PyTorch vs TensorFlow — spotting the difference](https://medium.com/towards-data-science/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b). 
+1. [PyTorch vs TensorFlow — spotting the difference](https://medium.com/towards-data-science/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b). :sparkles:
 > In this post I want to explore some of the key similarities and differences between two popular deep learning frameworks: PyTorch and TensorFlow. Why those two and not the others? There are many deep learning frameworks and many of them are viable tools, I chose those two just because I was interested in comparing them specifically.
 > - Difference #0 — adoption
 > - Difference #1 — dynamic vs static graph definition
