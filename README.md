@@ -47,4 +47,4 @@ deeplearn.js is an open-source library that brings machine learning building blo
 
 :smiling_imp: **[THE RISE OF AI IS FORCING GOOGLE AND MICROSOFT TO BECOME CHIPMAKERS](https://www.wired.com/story/the-rise-of-ai-is-forcing-google-and-microsoft-to-become-chipmakers)**
 
-### [Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)
+### [Weekly Digest Aug. 2017 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_1.md)
