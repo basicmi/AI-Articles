@@ -43,6 +43,6 @@ Fortunately, Fjodor van Veen from Asimov institute compiled a wonderful cheatshe
 
 deeplearn.js is an open-source library that brings machine learning building blocks to the web, allowing you to train neural networks in a browser or run pre-trained models in inference mode.
 
-6. [THE RISE OF AI IS FORCING GOOGLE AND MICROSOFT TO BECOME CHIPMAKERS](https://www.wired.com/story/the-rise-of-ai-is-forcing-google-and-microsoft-to-become-chipmakers) :alien:
+6. [THE RISE OF AI IS FORCING GOOGLE AND MICROSOFT TO BECOME CHIPMAKERS](https://www.wired.com/story/the-rise-of-ai-is-forcing-google-and-microsoft-to-become-chipmakers) :poop:
 
 
