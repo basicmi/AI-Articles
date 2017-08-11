@@ -30,6 +30,7 @@ Fortunately, Fjodor van Veen from Asimov institute compiled a wonderful cheatshe
 
 3. [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463).
 > Over the past few months, I have been collecting AI cheat sheets. From time to time I share them with friends and colleagues and recently I have been getting asked a lot, so I decided to organize and share the entire collection. To make things more interesting and give context, I added descriptions and/or excerpts for each major topic.
-
+![Neural Network Zoo](image/neuralnetworks.png)
+> In this story, I will go through every mentioned topology and try to explain how it works and where it is used. Ready? Let’s go!
 
 
