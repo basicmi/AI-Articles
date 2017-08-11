@@ -1,2 +1,1 @@
-# Machine-Learning-Articles
-Machine Learning related articles worth your time
+Machine Learning Hardware related articles worth your time
