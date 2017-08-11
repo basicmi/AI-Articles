@@ -16,7 +16,10 @@
 > - Want rich learning resources in various forms (TensorFlow has entire an MOOC)
 > - Want or need to use Tensorboard
 > - Need to use large-scale distributed model training
+
 > PyTorch is still a young framework which is getting momentum fast. You may find it a good fit if you:
 > - Do research or your production non-functional requirements are not very demanding
 > - Want better development and debugging experience
 > - Love all things Pythonic
+
+
