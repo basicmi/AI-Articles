@@ -8,15 +8,15 @@
 > - Difference #3 — Visualization
 > - Difference #4 — Deployment
 > - Difference #5 — A Framework or a library
-> #Conclusion
+> # Conclusion
 > TensorFlow is very powerful and mature deep learning library with strong visualization capabilities and several options to use for high-level model development. It has production-ready deployment options and support for mobile platforms. TensorFlow is a good option if you:
-> Develop models for production
-> Develop models which need to be deployed on mobile platforms
-> Want good community support and comprehensive documentation
-> Want rich learning resources in various forms (TensorFlow has entire an MOOC)
-> Want or need to use Tensorboard
-> Need to use large-scale distributed model training
+> - Develop models for production
+> - Develop models which need to be deployed on mobile platforms
+> - Want good community support and comprehensive documentation
+> - Want rich learning resources in various forms (TensorFlow has entire an MOOC)
+> - Want or need to use Tensorboard
+> - Need to use large-scale distributed model training
 > PyTorch is still a young framework which is getting momentum fast. You may find it a good fit if you:
-> Do research or your production non-functional requirements are not very demanding
-> Want better development and debugging experience
-> Love all things Pythonic
+> - Do research or your production non-functional requirements are not very demanding
+> - Want better development and debugging experience
+> - Love all things Pythonic
