@@ -1,6 +1,6 @@
 ## Weekly Digest 2017-08 \#3
 
-**My Article [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)**
+**My Article: [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)**
 
 **1. [The Fatal Flaw of AI Implementation](http://sloanreview.mit.edu/article/the-fatal-flaw-of-ai-implementation/)**
 
