@@ -20,6 +20,7 @@ When do you ignore the machine learning output?  Training employees to work with
 **5. [Beijing’s AI Strategy: Old-School Central Planning with a Futuristic Twist](https://www.cfr.org/blog/beijings-ai-strategy-old-school-central-planning-futuristic-twist)**
 
 **6. [Machines just revealed the evolution of language](https://www.eurekalert.org/pub_releases/2017-08/dr-mjr080717.php)**
+> Machine learning scientists at Disney Research have developed a new innovative model that uncovers how the meanings of words change over time.
 
 **7. [Artificial Intelligence: Putting Machines to Work for the Spies](https://www.usnews.com/news/national-news/articles/2017-08-10/artificial-intelligence-putting-machines-to-work-for-the-spies)**
 > The U.S. military continues to introduce AI technologies into new dimensions of warfare, and the government hasn't yet created laws that completely govern when a computer can make its own decision to carry out lethal actions.
