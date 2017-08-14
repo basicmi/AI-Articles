@@ -2,6 +2,8 @@
 
 ## Weekly Digest 2017-08 \#3
 
+**My Article: [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)**
+
 **1. [The Fatal Flaw of AI Implementation](http://sloanreview.mit.edu/article/the-fatal-flaw-of-ai-implementation/)**
 
 > It points out that humans need to be trained to understand probabilistic output. We are used to crisp clear rule driven software that generates direct outputs, not probabilities. Probabilities aren't hard to deal with when the computer says 95% chance but, how do you move forward when the machine says 50% or 60% chance? 
