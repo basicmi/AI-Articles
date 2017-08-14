@@ -25,6 +25,7 @@ When do you ignore the machine learning output?  Training employees to work with
 > The U.S. military continues to introduce AI technologies into new dimensions of warfare, and the government hasn't yet created laws that completely govern when a computer can make its own decision to carry out lethal actions.
 
 **8. [Why continuous learning is key to AI](https://www.oreilly.com/ideas/why-continuous-learning-is-key-to-ai?imm_mid=0f571b&cmp=em-data-na-na-newsltr_ai_20170814)**
+>There will back-to-back half-day tutorials on reinforcement learning at the upcoming Artificial Intelligence Conference in San Francisco: Building reinforcement learning applications with Ray and Introduction to reinforcement learning.
 
 **9. [Jeff Dean’s Lecture for YC AI](https://blog.ycombinator.com/jeff-deans-lecture-for-yc-ai/?imm_mid=0f571b&cmp=em-data-na-na-newsltr_ai_20170814)**
 > Jeff Dean is a Google senior fellow in the Research Group, where he leads the Google Brain project. Here is a video (and slides) of a talk he gave, "Intelligent Systems with Large Scale Deep Learning." It's a decent intro to AI, with some hints about how Google expects AI to move forward.
