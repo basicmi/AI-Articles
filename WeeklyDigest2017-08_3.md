@@ -18,6 +18,7 @@ When do you ignore the machine learning output?  Training employees to work with
 > Written from a more financial and market analysis point of view, this analysis of the MobileEye acqusition lays out a nice case for how Intel might make a strong A.I. related comeback.
 
 **5. [Beijing’s AI Strategy: Old-School Central Planning with a Futuristic Twist](https://www.cfr.org/blog/beijings-ai-strategy-old-school-central-planning-futuristic-twist)**
+> China's new artificial intelligence strategy is a signal that Beijing wants to be a leader in AI. How it gets there is a different story.
 
 **6. [Machines just revealed the evolution of language](https://www.eurekalert.org/pub_releases/2017-08/dr-mjr080717.php)**
 > Machine learning scientists at Disney Research have developed a new innovative model that uncovers how the meanings of words change over time.
