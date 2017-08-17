@@ -1,4 +1,4 @@
-## Weekly Digest 2017-08 \#3
+## Weekly Digest 2017-08 \#4
 
 **My Article: [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)**
 
