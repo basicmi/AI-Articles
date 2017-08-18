@@ -21,3 +21,8 @@ Just try it!
 - Automatically transform the computation graph to minimize memory utilization, optimize data layout and fuse computation patterns
 - Provide an end-to-end compilation from existing front-end frameworks down to bare-metal hardware, all the way up to browser executable javascripts.
 
+**4 [AI, Native Supercomputing and The Revival of Moore's Law](https://arxiv.org/abs/1705.05983)**
+
+> Based on Alan Turing's proposition on AI and computing machinery, which shaped Computing as we know it today, the new AI computing machinery should comprise a universal computer and a universal learning machine. The later should understand linear algebra natively to overcome the slowdown of Moore's law. In such a universal learnig machine, a computing unit does not need to keep the legacy of a universal computing core. The data can be distributed to the computing units, and the results can be collected from them through Collective Streaming, reminiscent of Collective Communication in Supercomputing. It is not necessary to use a GPU-like deep memory hierarchy, nor a TPU-like fine-grain mesh.
+
+
