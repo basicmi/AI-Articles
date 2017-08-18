@@ -12,3 +12,12 @@
 > We all love anime characters and are tempted to create our own, but most of us cannot do that because we are not professional artists. What if anime characters could be generated automatically at a professional level of quality? Imagine that you could just specify attributes (such as blonde/twin tailed/smiling), and have an anime character with your customizations generated without any further intervention!
 
 Just try it!
+
+**3. [TVM: An End to End IR Stack for Deploying the Deep Learning Workloads to Hardwares](http://tvmlang.org/2017/08/17/tvm-release-announcement.html)**
+
+> We are excited to announce the launch of TVM as solution to this problem. TVM is a novel framework that can:
+
+- Represent and optimize the common deep learning computation workloads for CPUs, GPUs and other specialized hardware
+- Automatically transform the computation graph to minimize memory utilization, optimize data layout and fuse computation patterns
+- Provide an end-to-end compilation from existing front-end frameworks down to bare-metal hardware, all the way up to browser executable javascripts.
+
