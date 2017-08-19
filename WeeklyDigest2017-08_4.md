@@ -25,4 +25,10 @@ Just try it!
 
 > Based on Alan Turing's proposition on AI and computing machinery, which shaped Computing as we know it today, the new AI computing machinery should comprise a universal computer and a universal learning machine. The later should understand linear algebra natively to overcome the slowdown of Moore's law. In such a universal learnig machine, a computing unit does not need to keep the legacy of a universal computing core. The data can be distributed to the computing units, and the results can be collected from them through Collective Streaming, reminiscent of Collective Communication in Supercomputing. It is not necessary to use a GPU-like deep memory hierarchy, nor a TPU-like fine-grain mesh.
 
+**5. [We are making on-device AI ubiquitous](https://www.qualcomm.com/news/onq/2017/08/16/we-are-making-device-ai-ubiquitous)**
+
+> We envision a world where devices, machines, automobiles, and things are much more intelligent, simplifying and enriching our daily lives. They will be able to perceive, reason, and take intuitive actions based on awareness of the situation, improving just about any experience and solving problems that to this point we’ve either left to the user, or to more conventional algorithms.
+
+
+
 
