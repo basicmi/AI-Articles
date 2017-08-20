@@ -1,6 +1,6 @@
 ## Weekly Digest 2017-08 \#4
 
-**My Article: [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)**
+**[A List of Chip/IP for Deep Learning (keep updating)](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)**
 
 **1. [AI artist conjures up convincing fake worlds from memories](https://www.newscientist.com/article/2143784-ai-artist-conjures-up-convincing-fake-worlds-from-memories/)**
 
