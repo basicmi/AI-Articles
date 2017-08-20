@@ -1,4 +1,4 @@
-# Interesting stuff of AI/Machin learning/Deep Learning
+# Interesting stuff of AI/Machine learning/Deep Learning
 
 ## Weekly Digest 2017-08 \#4
 
