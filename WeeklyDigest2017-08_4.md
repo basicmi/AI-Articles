@@ -33,4 +33,8 @@ Just try it!
 >Even if we wanted to stop super-intelligent machines from slaughtering us all, we can’t. Why? Because they don’t exist and you can’t create a solution for a problem that doesn’t exist.
 >So let’s focus on issues that really matter today instead of ones that won’t matter for 50 or 100 years. Or else we won’t need Terminators to wipe us out.
 
+**7. [Machine Learning](https://github.com/dformoso/machine-learning-mindmap) and [Deep Learning](https://github.com/dformoso/deeplearning-mindmap) Mindmap and Cheatsheet**
+>A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
+
+
 
