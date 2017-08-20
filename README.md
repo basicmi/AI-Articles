@@ -42,6 +42,6 @@ Just try it!
 
 Very good introduction of three waves of AI: Handcraft Knowledge, Statistical Learning and Contextual Adaptation, with a short video and slides.
 
-### [Weekly Digest Aug. 2017 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_1.md)
-### [Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)
-### [Weekly Digest Aug. 2017 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)
+**[Weekly Digest Aug. 2017 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_1.md)**
+**[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
+**[Weekly Digest Aug. 2017 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
