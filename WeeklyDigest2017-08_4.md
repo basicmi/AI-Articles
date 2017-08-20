@@ -37,6 +37,7 @@ Just try it!
 >A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 
 **8. [DARPA Perspective on AI](https://www.darpa.mil/about-us/darpa-perspective-on-ai)**
+
 Very good introduction the three waves of AI, Handcraft Knowledge, Statistical Learning, Contextual Adaptation with a short video and slides.
 
 
