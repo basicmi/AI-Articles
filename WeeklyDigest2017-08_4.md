@@ -38,7 +38,7 @@ Just try it!
 
 **8. [DARPA Perspective on AI](https://www.darpa.mil/about-us/darpa-perspective-on-ai)**
 
-Very good introduction the three waves of AI, Handcraft Knowledge, Statistical Learning, Contextual Adaptation with a short video and slides.
+Very good introduction of three waves of AI: Handcraft Knowledge, Statistical Learning and Contextual Adaptation, with a short video and slides.
 
 
 
