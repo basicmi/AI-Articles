@@ -4,7 +4,21 @@
 
 **1. [China’s Plan for World Domination in AI Isn’t So Crazy After All](https://www.bloomberg.com/amp/news/articles/2017-08-14/china-s-plan-for-world-domination-in-ai-isn-t-so-crazy-after-all)**
 
+> China has vast amounts of data, and big companies, startups, and the government are plowing money into the field. Data is key, and access to it has always been easier in China.
+
 **2. [Chinese AI chip startup gets $100 million investment:](https://www.chinamoneynetwork.com/2017/08/18/chinas-state-development-investment-corp-leads-100m-round-in-ai-chip-maker-cambricon)**
+
+> Chinese chip startup Cambricon has pulled in $100 million in a new investment round from a fund linked to the Chinese government’s State Development and Investment Corp, as well as funding from companies like Alibaba and Lenovo.
+
+
+**3. [The growing Amazon Web Services AI Cloud:](https://aws.amazon.com/macie/)**
+
+> Amazon, which operates the largest cloud computing service in AWS, is beginning to thread machine learning capabilities throughout its many services. The latest Macie, a ML service that trawls through files stored in AWS, using machine learning to look for sensitive data (personally identifiable information, intellectual property, etc) in a semi-supervised way. Seems like RegEx on steroids.
+
+**4. [An inside look at Ford’s $1 billion bet on Argo AI](https://www.theverge.com/2017/8/16/16155254/argo-ai-ford-self-driving-car-autonomous)**
+
+> Argo AI is a startup that appeared seemingly out of nowhere six months ago, with $1 billion in backing from Ford. Its goal is to deliver the technology for fully autonomous vehicles to Ford by 2021.
+
 
 
 
