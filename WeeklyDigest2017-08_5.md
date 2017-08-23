@@ -19,6 +19,7 @@
 
 > Argo AI is a startup that appeared seemingly out of nowhere six months ago, with $1 billion in backing from Ford. Its goal is to deliver the technology for fully autonomous vehicles to Ford by 2021.
 
+**5.[China’s Bitmain dominates bitcoin mining. Now it wants to cash in on artificial intelligence](https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/)**
 
-
+> Bitmain’s newest product, the Sophon, may or may not take over deep learning. But by giving it such a name Zhan and his Bitmain co-founder, Jihan Wu, have signaled to the world their intentions. The Sophon unit will include Bitmain’s first piece of bespoke silicon for a revolutionary AI technology. If things go to plan, thousands of Bitmain Sophon units soon could be training neural networks in vast data centers around the world.
 
