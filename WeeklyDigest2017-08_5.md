@@ -23,3 +23,5 @@
 
 > Bitmain’s newest product, the Sophon, may or may not take over deep learning. But by giving it such a name Zhan and his Bitmain co-founder, Jihan Wu, have signaled to the world their intentions. The Sophon unit will include Bitmain’s first piece of bespoke silicon for a revolutionary AI technology. If things go to plan, thousands of Bitmain Sophon units soon could be training neural networks in vast data centers around the world.
 
+**6. [DARPA tunes machine learning to radio signals](https://gcn.com/articles/2017/08/14/darpa-rf-machine-learning.aspx)**
+DARPA looks to develop a machine learning system that can interpret the radio spectrum, identify useful signals, and remove noise automatically.
