@@ -1,6 +1,6 @@
 ## Weekly Digest 2017-09 \#1
 
-**[A List of Chip/IP for Deep Learning (keep updating)](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)**
+**[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
 **1. [Online neural doodle](http://likemo.net)**
 
