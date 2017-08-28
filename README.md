@@ -2,7 +2,7 @@
 
 ## Weekly Digest 2017-08 \#5
 
-**[A List of Chip/IP for Deep Learning (keep updating)](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)**
+**[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
 **1. [China’s Plan for World Domination in AI Isn’t So Crazy After All](https://www.bloomberg.com/amp/news/articles/2017-08-14/china-s-plan-for-world-domination-in-ai-isn-t-so-crazy-after-all)**
 
