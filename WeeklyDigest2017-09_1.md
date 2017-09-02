@@ -14,4 +14,5 @@ The drawing process is now reduced to sketching a five color doodle, everything 
 **3. [How does physics connect to machine learning? ](https://jaan.io/how-does-physics-connect-machine-learning/)**
 > Physics and machine learning are intricately connected, but making the overlaps precise is not easy. If you have a Physics background and want to break into ML, this post is for you.
 
-
+**4. [HERE’S HOW BOSCH TEACHES CARS TO SEE USING ARTIFICIAL INTELLIGENCE](https://www.digitaltrends.com/cars/bosch-artificial-intelligence-autonomous-cars/)**
+> AI by Bosch is the brains behind many self-driving car platforms, and to see how it works — and how a car sees the world around it — the company gave us a chance to briefly explore the German countryside in one of its prototypes. It turns out Andy Warhol and the future of mobility have more in common than you might think.
