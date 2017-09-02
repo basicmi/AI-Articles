@@ -16,3 +16,7 @@ The drawing process is now reduced to sketching a five color doodle, everything 
 
 **4. [HERE’S HOW BOSCH TEACHES CARS TO SEE USING ARTIFICIAL INTELLIGENCE](https://www.digitaltrends.com/cars/bosch-artificial-intelligence-autonomous-cars/)**
 > AI by Bosch is the brains behind many self-driving car platforms, and to see how it works — and how a car sees the world around it — the company gave us a chance to briefly explore the German countryside in one of its prototypes. It turns out Andy Warhol and the future of mobility have more in common than you might think.
+
+**5. [‘Cortana, Open Alexa,’ Amazon Says. And Microsoft Agrees.](https://www.nytimes.com/2017/08/30/technology/amazon-alexa-microsoft-cortana.html)**
+> In an unusual partnership, Amazon and Microsoft are working together to extend the abilities of their voice-controlled digital assistants.
+> For the past year, the two companies have been coordinating behind the scenes to make Alexa and Cortana communicate with each other. The partnership, which the companies plan to announce early Wednesday, will allow people to summon Cortana using Alexa, and vice versa, by the end of the year.
