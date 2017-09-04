@@ -2,7 +2,7 @@
 
 ## Weekly Digest 2017-09 \#1
 
-**[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
+**[A list of ICs and IPs for AI, Machine Learning and Deep Learning.(keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
 **1. [Tools To Design CNNs](https://semiengineering.com/tools-to-design-cnns/)**
 > If neural networking architectures are simpler than a CPU, why is it so difficult to create them?
