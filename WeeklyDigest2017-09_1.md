@@ -20,3 +20,7 @@ The drawing process is now reduced to sketching a five color doodle, everything 
 **5. [‘Cortana, Open Alexa,’ Amazon Says. And Microsoft Agrees.](https://www.nytimes.com/2017/08/30/technology/amazon-alexa-microsoft-cortana.html)**
 > In an unusual partnership, Amazon and Microsoft are working together to extend the abilities of their voice-controlled digital assistants.
 > For the past year, the two companies have been coordinating behind the scenes to make Alexa and Cortana communicate with each other. The partnership, which the companies plan to announce early Wednesday, will allow people to summon Cortana using Alexa, and vice versa, by the end of the year.
+
+**6. [ETHICS COMMISSION AUTOMATED AND CONNECTED DRIVING](https://www.bmvi.de/SharedDocs/EN/Documents/G/ethic-commission-report.pdf)**
+> In June, the ethics commission of the German Federal Ministry of Transport and Digital Infrastructure released guidelines (German language guidelines) for self-driving vehicles (English language summary). At the time, German Federal Minister Dobrint touted the “pioneering” work as the “first guidelines in the world for automated driving” addressing these ethical issues. Now, the Ministry has announced it will implement those guidelines.
+
