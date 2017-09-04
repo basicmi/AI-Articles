@@ -2,9 +2,12 @@
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
-**1. [Online neural doodle](http://likemo.net)**
-> Can you draw like Monet? You probably can not. In fact you can with a little help of modern technologies. This little application presents the finest scientific approach which lets you to draw like famous artists. 
-The drawing process is now reduced to sketching a five color doodle, everything else is done by a neural network.
+**1. [Tools To Design CNNs](https://semiengineering.com/tools-to-design-cnns/)**
+> If neural networking architectures are simpler than a CPU, why is it so difficult to create them?
+> Samer Hijazi, senior design engineering architect in the IP group at Cadence, said that in the near future, for CNN technology to propagate properly, there are two products that need to — and will — come to market.
+First, new hardware architectures are needed. These will show up as chips and as IP, and will become available to the chip and system designers. Second, enhanced tools are in the works that both enable design of CNNs and allow optimization of the network from a power point of view to automate network design for power-conscious applications.
+> Other tool companies are currently taking the approach of using compression and pruning techniques in existing development tools and hardware in order to reduce bandwidth and computations, noted Gordon Cooper, product marketing manager for Synopsys’ embedded vision processors.
+> “What will probably happen is a start up company will come along and build the right tool that helps divide things up,” Allen said. “Then it will go in that direction. Part of the reason I say start up company is because the EDA companies or the hardware companies really don’t have enough knowledge or insight into the way applications are run to be able to come up and do something like that. And the application guys really don’t have enough insight into the problems of power or that power even is a problem to come around and focus on it. So it will probably be someone that spans the two that comes along and comes up with something in there at some point.”
 
 **2. [Inside Waymo's Secret World for Training Self-Driving Cars](https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/)**
 > An exclusive look at how Alphabet understands its most ambitious artificial intelligence project
@@ -34,6 +37,7 @@ The drawing process is now reduced to sketching a five color doodle, everything 
 > Neural networks, in particular recurrent neural networks (RNNs), are now at the core of the leading approaches to language understanding tasks such as language modeling, machine translation and question answering. In Attention Is All You Need we introduce the Transformer, a novel neural network architecture based on a self-attention mechanism that we believe to be particularly well-suited for language understanding. 
 > In our paper, we show that the Transformer outperforms both recurrent and convolutional models on academic English to German and English to French translation benchmarks. On top of higher translation quality, the Transformer requires less computation to train and is a much better fit for modern machine learning hardware, speeding up training by up to an order of magnitude.
 
-**10. [Tools To Design CNNs](https://semiengineering.com/tools-to-design-cnns/)**
-> If neural networking architectures are simpler than a CPU, why is it so difficult to create them?
+**10. [Online neural doodle](http://likemo.net)**
+> Can you draw like Monet? You probably can not. In fact you can with a little help of modern technologies. This little application presents the finest scientific approach which lets you to draw like famous artists. 
+The drawing process is now reduced to sketching a five color doodle, everything else is done by a neural network.
 
