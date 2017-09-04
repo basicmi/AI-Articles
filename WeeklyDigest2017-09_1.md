@@ -24,8 +24,7 @@ The drawing process is now reduced to sketching a five color doodle, everything 
 > In June, the ethics commission of the German Federal Ministry of Transport and Digital Infrastructure released guidelines (German language guidelines) for self-driving vehicles (English language summary). At the time, German Federal Minister Dobrint touted the “pioneering” work as the “first guidelines in the world for automated driving” addressing these ethical issues. Now, the Ministry has announced it will implement those guidelines.
 
 **7. [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)**
-> ...make both calculations and graphs. Both sorts of output should be studied; each will contribute to understanding.
-- F. J. Anscombe, 1973 (and echoed in nearly all talks about data visualization...)
+> ...make both calculations and graphs. Both sorts of output should be studied; each will contribute to understanding. \- F. J. Anscombe, 1973 (and echoed in nearly all talks about data visualization...)
 
 **8. [Data Alone Isn’t Ground Truth](https://medium.com/@angebassa/data-alone-isnt-ground-truth-9e733079dfd4)**
 > In an age where "data is the new oil" and the competitive advantage of A.I. companies is in the data sets they have, it is important to keep in mind the limitations of data.
