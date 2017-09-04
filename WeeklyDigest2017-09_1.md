@@ -30,10 +30,10 @@ The drawing process is now reduced to sketching a five color doodle, everything 
 **8. [Data Alone Isn’t Ground Truth](https://medium.com/@angebassa/data-alone-isnt-ground-truth-9e733079dfd4)**
 > In an age where "data is the new oil" and the competitive advantage of A.I. companies is in the data sets they have, it is important to keep in mind the limitations of data.
 
-**9.[Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)**
+**9. [Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)**
 > Neural networks, in particular recurrent neural networks (RNNs), are now at the core of the leading approaches to language understanding tasks such as language modeling, machine translation and question answering. In Attention Is All You Need we introduce the Transformer, a novel neural network architecture based on a self-attention mechanism that we believe to be particularly well-suited for language understanding. 
 > In our paper, we show that the Transformer outperforms both recurrent and convolutional models on academic English to German and English to French translation benchmarks. On top of higher translation quality, the Transformer requires less computation to train and is a much better fit for modern machine learning hardware, speeding up training by up to an order of magnitude.
 
-
-
+**10. [Tools To Design CNNs](https://semiengineering.com/tools-to-design-cnns/)**
+> If neural networking architectures are simpler than a CPU, why is it so difficult to create them?
 
