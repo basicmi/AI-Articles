@@ -30,8 +30,10 @@ First, new hardware architectures are needed. These will show up as chips and as
 > ...make both calculations and graphs. Both sorts of output should be studied; each will contribute to understanding. 
 \- F. J. Anscombe, 1973 (and echoed in nearly all talks about data visualization...)
 
-**8. [Data Alone Isn’t Ground Truth](https://medium.com/@angebassa/data-alone-isnt-ground-truth-9e733079dfd4)**
-> In an age where "data is the new oil" and the competitive advantage of A.I. companies is in the data sets they have, it is important to keep in mind the limitations of data.
+**8. [Deep Learning (DLSS) and Reinforcement Learning (RLSS) Summer School, Montreal 2017](http://videolectures.net/deeplearning2017_montreal/)**
+> The Deep Learning Summer School (DLSS) is aimed at graduate students and industrial engineers and researchers who already have some basic knowledge of machine learning (and possibly but not necessarily of deep learning) and wish to learn more about this rapidly growing field of research.
+> In collaboration with DLSS we will hold the first edition of the Montreal Reinforcement Learning Summer School (RLSS). RLSS will cover the basics of reinforcement learning and show its most recent research trends and discoveries, as well as present an opportunity to interact with graduate students and senior researchers in the field.
+> The school is intended for graduate students in Machine Learning and related fields. Participants should have advanced prior training in computer science and mathematics, and preference will be given to students from research labs affiliated with the CIFAR program on Learning in Machines and Brains.
 
 **9. [Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)**
 > Neural networks, in particular recurrent neural networks (RNNs), are now at the core of the leading approaches to language understanding tasks such as language modeling, machine translation and question answering. In Attention Is All You Need we introduce the Transformer, a novel neural network architecture based on a self-attention mechanism that we believe to be particularly well-suited for language understanding. 
