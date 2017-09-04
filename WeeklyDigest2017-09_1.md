@@ -3,7 +3,6 @@
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
 **1. [Online neural doodle](http://likemo.net)**
-
 > Can you draw like Monet? You probably can not. In fact you can with a little help of modern technologies. This little application presents the finest scientific approach which lets you to draw like famous artists. 
 The drawing process is now reduced to sketching a five color doodle, everything else is done by a neural network.
 
@@ -23,4 +22,18 @@ The drawing process is now reduced to sketching a five color doodle, everything 
 
 **6. [ETHICS COMMISSION AUTOMATED AND CONNECTED DRIVING](https://www.bmvi.de/SharedDocs/EN/Documents/G/ethic-commission-report.pdf)**
 > In June, the ethics commission of the German Federal Ministry of Transport and Digital Infrastructure released guidelines (German language guidelines) for self-driving vehicles (English language summary). At the time, German Federal Minister Dobrint touted the “pioneering” work as the “first guidelines in the world for automated driving” addressing these ethical issues. Now, the Ministry has announced it will implement those guidelines.
+
+**7. [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)**
+> ...make both calculations and graphs. Both sorts of output should be studied; each will contribute to understanding.
+- F. J. Anscombe, 1973 (and echoed in nearly all talks about data visualization...)
+
+**8. [Data Alone Isn’t Ground Truth](https://medium.com/@angebassa/data-alone-isnt-ground-truth-9e733079dfd4)**
+> In an age where "data is the new oil" and the competitive advantage of A.I. companies is in the data sets they have, it is important to keep in mind the limitations of data.
+
+**9.[Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)**
+> Neural networks, in particular recurrent neural networks (RNNs), are now at the core of the leading approaches to language understanding tasks such as language modeling, machine translation and question answering. In Attention Is All You Need we introduce the Transformer, a novel neural network architecture based on a self-attention mechanism that we believe to be particularly well-suited for language understanding. 
+> In our paper, we show that the Transformer outperforms both recurrent and convolutional models on academic English to German and English to French translation benchmarks. On top of higher translation quality, the Transformer requires less computation to train and is a much better fit for modern machine learning hardware, speeding up training by up to an order of magnitude.
+
+
+
 
