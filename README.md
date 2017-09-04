@@ -1,42 +1,54 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2017-08 \#5
+## Weekly Digest 2017-09 \#1
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
-**1. [China’s Plan for World Domination in AI Isn’t So Crazy After All](https://www.bloomberg.com/amp/news/articles/2017-08-14/china-s-plan-for-world-domination-in-ai-isn-t-so-crazy-after-all)**
+**1. [Tools To Design CNNs](https://semiengineering.com/tools-to-design-cnns/)**
+> If neural networking architectures are simpler than a CPU, why is it so difficult to create them?
+> Samer Hijazi, senior design engineering architect in the IP group at Cadence, said that in the near future, for CNN technology to propagate properly, there are two products that need to — and will — come to market.
+First, new hardware architectures are needed. These will show up as chips and as IP, and will become available to the chip and system designers. Second, enhanced tools are in the works that both enable design of CNNs and allow optimization of the network from a power point of view to automate network design for power-conscious applications.
+> Other tool companies are currently taking the approach of using compression and pruning techniques in existing development tools and hardware in order to reduce bandwidth and computations, noted Gordon Cooper, product marketing manager for Synopsys’ embedded vision processors.
+> “What will probably happen is a start up company will come along and build the right tool that helps divide things up,” Allen said. “Then it will go in that direction. Part of the reason I say start up company is because the EDA companies or the hardware companies really don’t have enough knowledge or insight into the way applications are run to be able to come up and do something like that. And the application guys really don’t have enough insight into the problems of power or that power even is a problem to come around and focus on it. So it will probably be someone that spans the two that comes along and comes up with something in there at some point.”
 
-> China has vast amounts of data, and big companies, startups, and the government are plowing money into the field. Data is key, and access to it has always been easier in China.
+**2. [Inside Waymo's Secret World for Training Self-Driving Cars](https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/)**
+> An exclusive look at how Alphabet understands its most ambitious artificial intelligence project
+> In a corner of Alphabet’s campus, there is a team working on a piece of software that may be the key to self-driving cars. No journalist has ever seen it in action until now. They call it Carcraft, after the popular game World of Warcraft.
 
-**2. [Chinese AI chip startup gets $100 million investment:](https://www.chinamoneynetwork.com/2017/08/18/chinas-state-development-investment-corp-leads-100m-round-in-ai-chip-maker-cambricon)**
+**3. [How does physics connect to machine learning? ](https://jaan.io/how-does-physics-connect-machine-learning/)**
+> Physics and machine learning are intricately connected, but making the overlaps precise is not easy. If you have a Physics background and want to break into ML, this post is for you.
 
-> Chinese chip startup Cambricon has pulled in $100 million in a new investment round from a fund linked to the Chinese government’s State Development and Investment Corp, as well as funding from companies like Alibaba and Lenovo.
+**4. [HERE’S HOW BOSCH TEACHES CARS TO SEE USING ARTIFICIAL INTELLIGENCE](https://www.digitaltrends.com/cars/bosch-artificial-intelligence-autonomous-cars/)**
+> AI by Bosch is the brains behind many self-driving car platforms, and to see how it works — and how a car sees the world around it — the company gave us a chance to briefly explore the German countryside in one of its prototypes. It turns out Andy Warhol and the future of mobility have more in common than you might think.
 
-**3. [Researchers built an invisible backdoor to hack AI’s decisions](https://qz.com/1061560/researchers-built-an-invisible-back-door-to-hack-ais-decisions/)**
-> A team of NYU researchers has discovered a way to manipulate the artificial intelligence that powers self-driving cars and image recognition by installing a secret backdoor into the software.
-> The NYU team says this attack can happen a few ways. Either the cloud provider can sell access to AI, a hacker could gain access to a cloud provider’s server and replace the AI, or the hacker could upload the network as open-source software for others to unwittingly use. Researchers even found that when these neural networks were taught to recognize a different set of images, the trigger was still effective. Beyond fooling a car, the technique could make individuals invisible to AI-powered image detection.
+**5. [‘Cortana, Open Alexa,’ Amazon Says. And Microsoft Agrees.](https://www.nytimes.com/2017/08/30/technology/amazon-alexa-microsoft-cortana.html)**
+> In an unusual partnership, Amazon and Microsoft are working together to extend the abilities of their voice-controlled digital assistants.
+> For the past year, the two companies have been coordinating behind the scenes to make Alexa and Cortana communicate with each other. The partnership, which the companies plan to announce early Wednesday, will allow people to summon Cortana using Alexa, and vice versa, by the end of the year.
 
-**4. [The growing Amazon Web Services AI Cloud:](https://aws.amazon.com/macie/)**
+**6. [ETHICS COMMISSION AUTOMATED AND CONNECTED DRIVING](https://www.bmvi.de/SharedDocs/EN/Documents/G/ethic-commission-report.pdf)**
+> In June, the ethics commission of the German Federal Ministry of Transport and Digital Infrastructure released guidelines (German language guidelines) for self-driving vehicles (English language summary). At the time, German Federal Minister Dobrint touted the “pioneering” work as the “first guidelines in the world for automated driving” addressing these ethical issues. Now, the Ministry has announced it will implement those guidelines.
 
-> Amazon, which operates the largest cloud computing service in AWS, is beginning to thread machine learning capabilities throughout its many services. The latest Macie, a ML service that trawls through files stored in AWS, using machine learning to look for sensitive data (personally identifiable information, intellectual property, etc) in a semi-supervised way. Seems like RegEx on steroids.
+**7. [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)**
+> ...make both calculations and graphs. Both sorts of output should be studied; each will contribute to understanding. 
+\- F. J. Anscombe, 1973 (and echoed in nearly all talks about data visualization...)
 
-**5. [An inside look at Ford’s $1 billion bet on Argo AI](https://www.theverge.com/2017/8/16/16155254/argo-ai-ford-self-driving-car-autonomous)**
+**8. [Deep Learning (DLSS) and Reinforcement Learning (RLSS) Summer School, Montreal 2017](http://videolectures.net/deeplearning2017_montreal/)**
+> The Deep Learning Summer School (DLSS) is aimed at graduate students and industrial engineers and researchers who already have some basic knowledge of machine learning (and possibly but not necessarily of deep learning) and wish to learn more about this rapidly growing field of research.
+> In collaboration with DLSS we will hold the first edition of the Montreal Reinforcement Learning Summer School (RLSS). RLSS will cover the basics of reinforcement learning and show its most recent research trends and discoveries, as well as present an opportunity to interact with graduate students and senior researchers in the field.
+> The school is intended for graduate students in Machine Learning and related fields. Participants should have advanced prior training in computer science and mathematics, and preference will be given to students from research labs affiliated with the CIFAR program on Learning in Machines and Brains.
 
-> Argo AI is a startup that appeared seemingly out of nowhere six months ago, with $1 billion in backing from Ford. Its goal is to deliver the technology for fully autonomous vehicles to Ford by 2021.
+**9. [Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)**
+> Neural networks, in particular recurrent neural networks (RNNs), are now at the core of the leading approaches to language understanding tasks such as language modeling, machine translation and question answering. In Attention Is All You Need we introduce the Transformer, a novel neural network architecture based on a self-attention mechanism that we believe to be particularly well-suited for language understanding. 
+> In our paper, we show that the Transformer outperforms both recurrent and convolutional models on academic English to German and English to French translation benchmarks. On top of higher translation quality, the Transformer requires less computation to train and is a much better fit for modern machine learning hardware, speeding up training by up to an order of magnitude.
 
-**6.[China’s Bitmain dominates bitcoin mining. Now it wants to cash in on artificial intelligence](https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/)**
-
-> Bitmain’s newest product, the Sophon, may or may not take over deep learning. But by giving it such a name Zhan and his Bitmain co-founder, Jihan Wu, have signaled to the world their intentions. The Sophon unit will include Bitmain’s first piece of bespoke silicon for a revolutionary AI technology. If things go to plan, thousands of Bitmain Sophon units soon could be training neural networks in vast data centers around the world.
-
-**7. [DARPA tunes machine learning to radio signals](https://gcn.com/articles/2017/08/14/darpa-rf-machine-learning.aspx)**
-> The Defense Advanced Research Projects Agencies is looking to apply the same kind of machine learning to the radio spectrum as is used by advanced systems for applications ranging from voice recognition to management of internet-of-things devices to autonomous vehicles.
-
-**8. [Winner-takes all effects in autonomous cars](http://ben-evans.com/benedictevans/2017/8/20/winner-takes-all)**
-> There are now several dozen companies trying to make the technology for autonomous cars, across OEMs, their traditional suppliers, existing major tech companies and startups. Clearly, not all of these will succeed, but enough of them have a chance that one wonders what and where the winner-take-all effects could be, and what kinds of leverage there might be. Are there network effects that would allow the top one or two companies to squeeze the rest out, as happened in smartphone or PC operating systems? Or might there be room for five or ten companies to compete indefinitely? And for what layers in the stack does victory give power in other layers? 
-> Benedict Evans from Andreesen Horowitz takes a hard look at the technology and industry of autonomous cars and who will take control over all the data that will be generated from their consumer adoption.  What parts of the stack are most valuable, and where to network effects take place?  It's a fascinating analysis
+**10. [Online neural doodle](http://likemo.net)**
+> Can you draw like Monet? You probably can not. In fact you can with a little help of modern technologies. This little application presents the finest scientific approach which lets you to draw like famous artists. 
+The drawing process is now reduced to sketching a five color doodle, everything else is done by a neural network.
 
 **[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
 
 **[Weekly Digest Aug. 2017 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_3.md)**
 
 **[Weekly Digest Aug. 2017 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_4.md)**
+
+**[Weekly Digest Aug. 2017 \#5](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_5.md)**
