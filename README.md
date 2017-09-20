@@ -1,36 +1,43 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2017-09 \#2
+## Weekly Digest 2017-09 \#3
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
-**1. [AI and the cloud crunch the numbers for Huawei's new mobile chip](http://newatlas.com/huawei-kirin-970-ai-chip/51186/)**
-> The brains of most phones are a CPU and a GPU for processing information and providing graphical grunt, respectively. But with its next phones, Huawei is looking to cram a third type of processor in there: what it calls a Neural Processing Unit (NPU). The company's new flagship chip, the Kirin 970, will include a dedicated AI processor, and offload some of the work to the cloud.
+**1. [Text to Video Generation](https://antonia.space/text-to-video-generation/)**
+> This project aims to build a deep learning pipeline that takes text descriptions and generates unique video depictions of the content described. 
+> The crux of the project lies with the Generative Adversarial Network, a deep learning algorithm that pins two neural networks against each other in order to produce media that is unique and realistic.
 
-**2. [Sequoia, IDG to Invest in China Bitcoin Mining Giant](https://www.bloomberg.com/news/articles/2017-09-04/sequoia-idg-are-said-to-invest-in-china-bitcoin-mining-giant)**
-> Sequoia Capital and IDG Capital are investing in Beijing-based Bitmain Technologies Ltd., the world’s largest bitcoin mining organization, according to people familiar with the matter.
+**2. [Detecting Malicious Requests with Keras & Tensorflow](https://medium.com/slalom-engineering/detecting-malicious-requests-with-keras-tensorflow-5d5db06b4f28)**
+> So what if you could use the power of Google’s Tensorflow engine to decide on whether a given request is considered malicious? Well that was the question I was looking to answer while participating in Slalom’s recent AI hackathon. The following post outlines the technical details of a PoC for a security monitoring application which was built with the help of a couple other Slalomites.
 
-**3. [Becoming a 10x Data Scientist](https://blog.algorithmia.com/becoming-a-10x-data-scientist/)**
-> Recently I gave a talk at PyData Seattle about how to ramp up your data science skills by borrowing tips and tricks from the developer community. These suggestions will help you become a more proficient data scientist who is loved by your team members and stakeholders.
+**3. [Sketchy Data Visualization in Semiotic](https://medium.com/@Elijah_Meeks/sketchy-data-visualization-in-semiotic-5811a52f59bc)**
+> When I open-sourced [Semiotic](https://github.com/emeeks/semiotic), I expected to get some pushback on its support for hand-drawn “sketchy” rendering in marks. I also expected some questions as to how it and its accompanying “painty” mode are implemented. Instead, except for a couple friendly jibes, mostly of the response to Semiotic has been on its focus on information design. But I wanted to make sure to highlight the sketchy functionality nonetheless.
 
-**4. [Intro to The Data Science Behind EEG-Based Neurobiofeedback](https://medium.com/nullastic/intro-to-the-data-science-behind-eeg-based-neurobiofeedback-5487cb242d57)**
-> The Neurobiofeedback machine gained popularity for its non-invasive and quantitative approach to behavior regulation, but its legitimacy remains in question by pediatricians, therapists, and other professionals. In academic-sounding terms, this machine (which I’ll be abbreviating as NBF from now on) is built on the concept of feedback therapy, which exploits our ability to exert and/or regain control over physiological aspects in our body.
+**4. [High Time to Regulate Face Recognition A.I.](https://medium.com/intuitionmachine/high-time-to-begin-regulation-of-face-recognition-a-i-f4a92ee40165)**
+> We’ve reached a tipping point where it is now high time that we start the conversation of regulating Face Recognition Artificial Intelligence (AI).
+> In a previous post, I explored some ideas of how we may regulate AI. I looked at several regulations in other fields and explored how they might apply for AI. The most compelling argument against AI regulation has been that it isn’t clear for many as to precisely what needs to be regulated. However, in recent days, it has come to my attention that a specific kind of AI algorithm needs serious thought for regulation.
 
-**5. [Facebook and Microsoft introduce new open ecosystem for interchangeable AI frameworks](https://research.fb.com/facebook-and-microsoft-introduce-new-open-ecosystem-for-interchangeable-ai-frameworks/)**
-> Facebook and Microsoft announced ONNX, the Open Neural Network Exchange this morning in respective blog posts. The Exchange makes it easier for machine learning developers to convert models between PyTorch and Caffe2 to reduce the lag time between research and productization.
+**5. [The inside story of the iPhone X 'brain,' the A11 Bionic chip](http://mashable.com/2017/09/14/inside-apple-a11-bionic-and-silicon-team)**
+> “We’re clearly on a path now where, with generations of our products, one of the core elements is the chips in them that, to us, they’re intrinsically part of the definition of the product,” said Apple Senior Vice President of Worldwide Marketing Phil Schiller who, along with SVP of Hardware Technologies Johny Srouji, sat down with me 24 hours after the big unveil for an intense chat about silicon, the Apple way.
 
-**6. [New AI can guess whether you're gay or straight from a photograph](https://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph)**
-> An algorithm deduced the sexuality of people on a dating site with up to 91% accuracy, raising tricky ethical questions.
-> Artificial intelligence can accurately guess whether people are gay or straight based on photos of their faces, according to new research that suggests machines can have significantly better “gaydar” than humans.
+**6. [Learning to Optimize with Reinforcement Learning](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl)**
+> Since we posted our paper on “[Learning to Optimize](https://arxiv.org/abs/1606.01885)” last year, the area of optimizer learning has received growing attention. In this article, we provide an introduction to this line of work and share our perspective on the opportunities and challenges in this area.
 
-**7. [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)**
-> Uber Engineering is committed to developing technologies that create seamless, impactful experiences for our customers. We are increasingly investing in artificial intelligence (AI) and machine learning (ML) to fulfill this vision. At Uber, our contribution to this space is Michelangelo, an internal ML-as-a-service platform that democratizes machine learning and makes scaling AI to meet the needs of business as easy as requesting a ride.
+**7. [Finding meaning in generative adversarial networks](https://www.oreilly.com/ideas/finding-meaning-in-generative-adversarial-networks)**
+> Artificial intelligence is emerging as a creative force; in the process, it reveals something of itself.
+> If you ask a child to draw a cat, you’ll learn more about the child than you will about cats. In the same way, asking neural networks to generate images helps us see how they reason about the information they’re given. It’s often difficult to interpret neural networks—that is, to relate their functioning to human intuition—and generative algorithms offer a way to make neural nets explain themselves.
 
-**8. [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai)**
-> The next fast.ai courses will be based nearly entirely on a new framework we have developed, built on Pytorch. Pytorch is a different kind of deep learning library (dynamic, rather than static), which has been adopted by many (if not most) of the researchers that we most respect, and in a recent Kaggle competition was used by nearly all of the top 10 finishers.
+**8. [Why AI Companies Can’t Be Lean Startups](https://machinelearnings.co/why-ai-companies-cant-be-lean-startups-734a289792f5)**
+> A Conversation with Matt Turck of FirstMark Capital
+> Large companies want to seize the opportunity to strengthen their existing positions, and small companies hope to fuel their rise to market leadership with these new technologies. As an investor at FirstMark, Matt Turck has seen the machine learning-first startups that are poised to change the way we work from up close.
 
-**9. [The new rules of Build vs. Buy in an AI-first world](https://www.linkedin.com/pulse/new-rules-build-vs-buy-ai-first-world-michael-vaccarino)**
-> Since the field of AI and specifically computer vision has evolved to a point of being accurate and scalable enough to be useful in real-world applications, enterprise businesses have begun to realize the tremendous efficiency and revenue gains that are possible. These types of process efficiency gains are hard to ignore, and as a result, enterprise businesses are seriously evaluating the spectrum of possible AI strategies for the first time. The problem for many businesses is that it’s difficult to make an informed decision when there are so many possible solutions. There is the traditional ‘build in-house’ route dominated by open-source toolkits like Kaffe, Theano, and Tensorflow, or the full-service consulting approach led by IBM, with the artificial intelligence as a service (AIaaS) approach somewhere in-between.
+**9. [Jobs of the future: AI Interaction Designer](https://x.ai/jobs-of-the-future-ai-interaction-designer/)**
+> Many of the “jobs of the future” are here today, and they didn’t exist as recently as five years ago. One such job is AI Interaction Designer. At x.ai, that position falls to Diane Kim.
+
+**10. [THE AI CHATBOT WILL HIRE YOU NOW](https://www.wired.com/story/the-ai-chatbot-will-hire-you-now)**
+> Eyal Grayevsky has a plan to make Silicon Valley more diverse. Mya Systems, the San Francisco-based artificial intelligence company that he cofounded in 2012, has built its strategy on a single idea: Reduce the influence of humans in recruiting. “We’re taking out bias from the process,” he tells me.
+
  
 **[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
 
@@ -41,3 +48,5 @@
 **[Weekly Digest Aug. 2017 \#5](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_5.md)**
 
 **[Weekly Digest Sept. 2017 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-09_1.md)**
+
+**[Weekly Digest Sept. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-09_2.md)**
