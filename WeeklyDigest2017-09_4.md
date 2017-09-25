@@ -16,7 +16,7 @@
 
 **5. [Supporting Hypothesis](https://stripe.com/blog/hypothesis)**
 > In September, Stripe is supporting the development of [Hypothesis](http://hypothesis.works/), an open-source testing library for Python created by [David MacIver](http://www.drmaciver.com/). Hypothesis is the only project we’ve found that provides effective tooling for testing code for machine learning, a domain in which testing and correctness are notoriously difficult.
-<br>
+
 > Instead of unit tests, Hypothesis lets you define certain properties of your functions that should hold true for every input. A property is a statement like “My sorting function should return a sorted list given any input list.” Every time the tests run, Hypothesis attempts to prove your properties wrong by feeding in thousands of automatically generated example inputs. If any of your properties break, Hypothesis returns the smallest possible example of failing input.
 
 **6. [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)**
