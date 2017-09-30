@@ -2,6 +2,12 @@
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
+**5. [What It Will Take for Quantum Computers to Turbocharge Machine Learning](https://singularityhub.com/2017/09/26/what-it-will-take-for-quantum-computers-to-supercharge-machine-learning/)**
+> Quantum computers could give the machine learning algorithms at the heart of modern artificial intelligence a dramatic speed up, but how far off are we? An international group of researchers has outlined the barriers that still need to be overcome.
+
+**6. [How Close Is Turing’s Dream of Conversational Machines?](https://singularityhub.com/2017/09/27/how-close-is-turings-dream-of-conversational-machines/)**
+> When Alan Turing, the father of modern computing, racked his considerable brains for a test that would truly indicate that a computer program was intelligent, he landed on this area. If a computer could convince a panel of human judges that they were talking to a human—if it could hold a convincing conversation—then it would indicate that artificial intelligence had advanced to the point where it was indistinguishable from human intelligence.
+
 **7. [Intel’s New Self-Learning Chip Promises to Accelerate Artificial Intelligence](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence/)**
 > As part of an effort within Intel Labs, Intel has developed a first-of-its-kind self-learning neuromorphic chip – codenamed Loihi – that mimics how the brain functions by learning to operate based on various modes of feedback from the environment. This extremely energy-efficient chip, which uses the data to learn and make inferences, gets smarter over time and does not need to be trained in the traditional way. It takes a novel approach to computing via asynchronous spiking.
 
