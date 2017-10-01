@@ -2,14 +2,30 @@
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
-**5. [What It Will Take for Quantum Computers to Turbocharge Machine Learning](https://singularityhub.com/2017/09/26/what-it-will-take-for-quantum-computers-to-supercharge-machine-learning/)**
+**1. [AI hype has peaked so what’s next?](https://techcrunch.com/2017/09/30/ai-hype-has-peaked-so-whats-next/)**
+> 2017 has been the year of AI, reaching a fever pitch of VC and corporate investment. But, as with any hot technology, AI is outgrowing this phase of experimentation and hype. According to research firm Gartner, we’re past the “peak of inflated expectations.”
+> Next up is a necessary recalibration of the space—one that will separate the winning AI-driven companies from all the noise.
+
+
+**2. [Robots could destabilise world through war and unemployment, says UN](https://www.theguardian.com/technology/2017/sep/27/robots-destabilise-world-war-unemployment-un)**
+> The UN has warned that robots could destabilise the world ahead of the opening of a headquarters in The Hague to monitor developments in artificial intelligence.
+> From the risk of mass unemployment to the deployment of autonomous robotics by criminal organisations or rogue states, the new Centre for Artificial Intelligence and Robotics has been set the goal of second-guessing the possible threats.
+
+**3. [Is AI Riding a One-Trick Pony?](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/)**
+> Just about every AI advance you’ve heard of depends on a breakthrough that’s three decades old. Keeping up the pace of progress will require confronting AI’s serious limitations.
+
+**4. [What It Will Take for Quantum Computers to Turbocharge Machine Learning](https://singularityhub.com/2017/09/26/what-it-will-take-for-quantum-computers-to-supercharge-machine-learning/)**
 > Quantum computers could give the machine learning algorithms at the heart of modern artificial intelligence a dramatic speed up, but how far off are we? An international group of researchers has outlined the barriers that still need to be overcome.
 
-**6. [How Close Is Turing’s Dream of Conversational Machines?](https://singularityhub.com/2017/09/27/how-close-is-turings-dream-of-conversational-machines/)**
+**5. [How Close Is Turing’s Dream of Conversational Machines?](https://singularityhub.com/2017/09/27/how-close-is-turings-dream-of-conversational-machines/)**
 > When Alan Turing, the father of modern computing, racked his considerable brains for a test that would truly indicate that a computer program was intelligent, he landed on this area. If a computer could convince a panel of human judges that they were talking to a human—if it could hold a convincing conversation—then it would indicate that artificial intelligence had advanced to the point where it was indistinguishable from human intelligence.
 
-**7. [Intel’s New Self-Learning Chip Promises to Accelerate Artificial Intelligence](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence/)**
+**6. [Intel’s New Self-Learning Chip Promises to Accelerate Artificial Intelligence](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence/)**
 > As part of an effort within Intel Labs, Intel has developed a first-of-its-kind self-learning neuromorphic chip – codenamed Loihi – that mimics how the brain functions by learning to operate based on various modes of feedback from the environment. This extremely energy-efficient chip, which uses the data to learn and make inferences, gets smarter over time and does not need to be trained in the traditional way. It takes a novel approach to computing via asynchronous spiking.
+
+**7. [We’re Waiting for the Peter Drucker of Machine Intelligence](https://machinelearnings.co/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420)**
+> AI will change everything, yeah yeah. We’ve heard it, and it’s so true we no longer hear it.
+> Here’s the next big one: how leaders lead companies.
 
 **8. [Announcing tools for the AI-driven digital transformation](https://azure.microsoft.com/en-us/blog/tools-for-the-ai-driven-digital-transformation/)**
 > Artificial Intelligence (AI) has emerged as one of the most disruptive forces behind the digital transformation of business. Today, at Microsoft Ignite 2017, as we engage in conversations about digital transformation with over 25,000 customers and partners, I am pleased to share some of our latest and most exciting innovations in [AI development platforms](https://www.microsoft.com/ai).
