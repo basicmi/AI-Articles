@@ -1,38 +1,44 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2017-09 \#4
+## Weekly Digest 2017-10 \#1
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
-**1. [3D Face Reconstruction from a Single Image](http://www.cs.nott.ac.uk/~psxasj/3dme/)**
-> This is an online demo of our paper Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression. Take a look at our [project website](http://aaronsplace.co.uk/papers/jackson2017recon/) to read the paper and get the code.
+**1. [AI hype has peaked so what’s next?](https://techcrunch.com/2017/09/30/ai-hype-has-peaked-so-whats-next/)**
+> 2017 has been the year of AI, reaching a fever pitch of VC and corporate investment. But, as with any hot technology, AI is outgrowing this phase of experimentation and hype. According to research firm Gartner, we’re past the “peak of inflated expectations.”
+> Next up is a necessary recalibration of the space—one that will separate the winning AI-driven companies from all the noise.
 
-**2. [Hackers Have Already Started to Weaponize Artificial Intelligence](https://gizmodo.com/hackers-have-already-started-to-weaponize-artificial-in-1797688425)**
-> “Hackers have been using artificial intelligence as a weapon for quite some time,” said Brian Wallace, Cylance Lead Security Data Scientist, in an interview with Gizmodo. “It makes total sense because hackers have a problem of scale, trying to attack as many people as they can, hitting as many targets as possible, and all the while trying to reduce risks to themselves. Artificial intelligence, and machine learning in particular, are perfect tools to be using on their end.” These tools, he says, can make decisions about what to attack, who to attack, when to attack, and so on.
 
-**3. [Why 500 Million People in China Are Talking to This AI](https://www.technologyreview.com/s/608841/why-500-million-people-in-china-are-talking-to-this-ai/)**
-> In China, over 500 million people use iFlytek Input to overcome obstacles in communication such as the one Xu faces. Some also use it to send text messages through voice commands while driving, or to communicate with a speaker of another Chinese dialect. The app was developed by iFlytek, a Chinese AI company that applies deep learning in a range of fields such as speech recognition, natural-language processing, machine translation, and data mining (see “50 Smartest Companies 2017”).
+**2. [Robots could destabilise world through war and unemployment, says UN](https://www.theguardian.com/technology/2017/sep/27/robots-destabilise-world-war-unemployment-un)**
+> The UN has warned that robots could destabilise the world ahead of the opening of a headquarters in The Hague to monitor developments in artificial intelligence.
+> From the risk of mass unemployment to the deployment of autonomous robotics by criminal organisations or rogue states, the new Centre for Artificial Intelligence and Robotics has been set the goal of second-guessing the possible threats.
 
-**4. [Machine-Vision Drones Monitor Animals in the African Savanna](https://www.technologyreview.com/s/608870/machine-vision-drones-monitor-animals-in-the-african-savanna/)**
-> Managing wild animals in remote areas requires accurate estimates of their numbers. Machine-vision drones can help.
+**3. [Is AI Riding a One-Trick Pony?](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/)**
+> Just about every AI advance you’ve heard of depends on a breakthrough that’s three decades old. Keeping up the pace of progress will require confronting AI’s serious limitations.
 
-**5. [Supporting Hypothesis](https://stripe.com/blog/hypothesis)**
-> In September, Stripe is supporting the development of [Hypothesis](http://hypothesis.works/), an open-source testing library for Python created by [David MacIver](http://www.drmaciver.com/). Hypothesis is the only project we’ve found that provides effective tooling for testing code for machine learning, a domain in which testing and correctness are notoriously difficult.
+**4. [What It Will Take for Quantum Computers to Turbocharge Machine Learning](https://singularityhub.com/2017/09/26/what-it-will-take-for-quantum-computers-to-supercharge-machine-learning/)**
+> Quantum computers could give the machine learning algorithms at the heart of modern artificial intelligence a dramatic speed up, but how far off are we? An international group of researchers has outlined the barriers that still need to be overcome.
 
-> Instead of unit tests, Hypothesis lets you define certain properties of your functions that should hold true for every input. A property is a statement like “My sorting function should return a sorted list given any input list.” Every time the tests run, Hypothesis attempts to prove your properties wrong by feeding in thousands of automatically generated example inputs. If any of your properties break, Hypothesis returns the smallest possible example of failing input.
+**5. [How Close Is Turing’s Dream of Conversational Machines?](https://singularityhub.com/2017/09/27/how-close-is-turings-dream-of-conversational-machines/)**
+> When Alan Turing, the father of modern computing, racked his considerable brains for a test that would truly indicate that a computer program was intelligent, he landed on this area. If a computer could convince a panel of human judges that they were talking to a human—if it could hold a convincing conversation—then it would indicate that artificial intelligence had advanced to the point where it was indistinguishable from human intelligence.
 
-**6. [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)**
-> A new idea called the “information bottleneck” is helping to explain the puzzling success of today’s artificial-intelligence algorithms — and might also explain how human brains learn.
+**6. [Intel’s New Self-Learning Chip Promises to Accelerate Artificial Intelligence](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence/)**
+> As part of an effort within Intel Labs, Intel has developed a first-of-its-kind self-learning neuromorphic chip – codenamed Loihi – that mimics how the brain functions by learning to operate based on various modes of feedback from the environment. This extremely energy-efficient chip, which uses the data to learn and make inferences, gets smarter over time and does not need to be trained in the traditional way. It takes a novel approach to computing via asynchronous spiking.
 
-**7. [A Brain Built From Atomic Switches Can Learn](https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920/)**
-> A tiny self-organized mesh full of artificial synapses recalls its experiences and can solve simple problems. Its inventors hope it points the way to devices that match the brain’s energy-efficient computing prowess.
+**7. [We’re Waiting for the Peter Drucker of Machine Intelligence](https://machinelearnings.co/were-waiting-for-the-peter-drucker-of-machine-intelligence-9b674191b420)**
+> AI will change everything, yeah yeah. We’ve heard it, and it’s so true we no longer hear it.
+> Here’s the next big one: how leaders lead companies.
 
-**8. [Finally, a Driverless Car with Some Common Sense](https://www.technologyreview.com/s/608871/finally-a-driverless-car-with-some-common-sense/)**
-> Boston’s notoriously unfriendly drivers and chaotic roads may be the perfect testing ground for a fundamentally different kind of self-driving car.
-> An MIT spin-off called iSee is developing and testing the autonomous driving system using a novel approach to artificial intelligence. Instead of relying on simple rules or machine-learning algorithms to train cars to drive, the startup is taking inspiration from cognitive science to give machines a kind of common sense and the ability to quickly deal with new situations. It is developing algorithms that try to match the way humans understand and learn about the physical world, including interacting with other people. The approach could lead to self-driving vehicles that are much better equipped to deal with unfamiliar scenes and complex interactions on the road.
+**8. [Announcing tools for the AI-driven digital transformation](https://azure.microsoft.com/en-us/blog/tools-for-the-ai-driven-digital-transformation/)**
+> Artificial Intelligence (AI) has emerged as one of the most disruptive forces behind the digital transformation of business. Today, at Microsoft Ignite 2017, as we engage in conversations about digital transformation with over 25,000 customers and partners, I am pleased to share some of our latest and most exciting innovations in [AI development platforms](https://www.microsoft.com/ai).
 
-**9. [12 AI Quotes Everyone Should Read](https://www.forbes.com/sites/bernardmarr/2017/09/22/12-ai-quotes-everyone-should-read/)**
-> Artificial Intelligence began as a philosophical conundrum in ancient times, developed into a science fiction forecast (and warning) in the Modern Era and is a practical reality today. This shows that from the earliest known period of human history to the present day it has been a subject of interest to some of the brightest minds and powerful personalities. Here’s a run-down of some of the most insightful, important or accurate things which have been said:
+> These announcements – which span [Azure Machine Learning (AML)](https://aka.ms/aml-preview-page), new [Visual Studio tools for AI, Cognitive Services](https://aka.ms/aml-preview-page) and new [enterprise AI solutions](https://appsource.microsoft.com/en-gb/marketplace/apps?category=artifical-intelligence) – demonstrate our mission to bring AI to every developer and every organization on the planet, and to help businesses augment human ingenuity in unique and differentiated ways.
+
+**9. [Facebook's New 'AI Camera' Team Wants to Add a Layer to the World](https://www.theatlantic.com/technology/archive/2017/09/your-phone-the-robot/540249/)**
+> With 2 billion users, Facebook has reorganized the teams responsible for coding the camera software in Instagram, Facebook, and Messenger into a new unit it calls “AI Camera.” The group started last year with a single person. Now, it has grown to 60 people. That includes Rick Szeliski and Michael Cohen who worked on Photosynth (among other things) at Microsoft. The AI Camera team also can draw on the expertise of top neural-network researchers like Yann LeCun and Yangqing Jia in other parts of the company.
+
+**10. [Amazon is working on smart glasses to house Alexa AI, says FT](https://techcrunch.com/2017/09/20/amazon-is-working-on-smart-glasses-to-house-alexa-ai-says-ft)**
+> Amazon is working on building a pair of smart glasses to house its Alexa voice assistant, and a home security camera that could be linked to its existing Echo connected devices to further expand their capabilities, according to a report in the FT citing people familiar with the company’s plans.
 
  
 **[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
