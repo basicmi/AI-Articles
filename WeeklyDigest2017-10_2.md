@@ -11,6 +11,7 @@
 
 **3. [STYLE2PAINTS](https://lllyasviel.github.io/)**
 > The AI can paint on a sketch accroding to a given specific color style.
+> The codes can be found [here](https://github.com/lllyasviel/style2paints).
 
 **4. [Nonlinear Computation in Deep Linear Networks](https://blog.openai.com/nonlinear-computation-in-linear-networks)**
 > We’ve shown that deep linear networks — as implemented using floating-point arithmetic — are not actually linear and can perform nonlinear computation. We used evolution strategies to find parameters in linear networks that exploit this trait, letting us solve non-trivial problems.
