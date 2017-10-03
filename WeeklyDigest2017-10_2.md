@@ -20,3 +20,6 @@
 > Now that deep learning has turbocharged NVIDIA’sNVDA data center business by five-fold in the past two years, competition is brewing. As of 2017 nearly a dozen startups have launched, with the goal of building dedicated chips for deep learning applications. In addition, large public tech companies such as Alphabet, Intel, AMD, Qualcomm, and Apple plan to enter the market for deep learning chips.
 > Given this intense and growing competition, can NVIDIA maintain its lead in the market for deep learning chips? And, which of the newcomers are best positioned to succeed?
 
+**6. [UNICRI Centre for Artificial Intelligence and Robotics](http://www.unicri.it/in_focus/on/UNICRI_Centre_Artificial_Robotics)**
+> “The aim of the Centre is to enhance understanding of the risk-benefit duality of Artificial Intelligence and Robotics through improved coordination, knowledge collection and dissemination, awareness-raising and outreach activities," said UNICRI's director Ms. Cindy J. Smith.
+
