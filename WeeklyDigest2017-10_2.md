@@ -9,3 +9,5 @@
 > We are surrounded by hysteria about the future of Artificial Intelligence and Robotics. There is hysteria about how powerful they will become how quickly, and there is hysteria about what they will do to jobs.
 > Below I outline seven ways of thinking that lead to mistaken predictions about robotics and Artificial Intelligence. We find instances of these ways of thinking in many of the predictions about our AI future. I am going to first list the four such general topic areas of such predictions that I notice, along with a brief assessment of where I think they currently stand.
 
+**3. [STYLE2PAINTS](https://lllyasviel.github.io/)**
+> The AI can paint on a sketch accroding to a given specific color style.
