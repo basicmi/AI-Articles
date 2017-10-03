@@ -1,4 +1,4 @@
-## Weekly Digest 2017-10 \#1
+## Weekly Digest 2017-10 \#2
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
@@ -11,3 +11,12 @@
 
 **3. [STYLE2PAINTS](https://lllyasviel.github.io/)**
 > The AI can paint on a sketch accroding to a given specific color style.
+
+**4. [Nonlinear Computation in Deep Linear Networks](https://blog.openai.com/nonlinear-computation-in-linear-networks)**
+> We’ve shown that deep linear networks — as implemented using floating-point arithmetic — are not actually linear and can perform nonlinear computation. We used evolution strategies to find parameters in linear networks that exploit this trait, letting us solve non-trivial problems.
+> Neural networks consist of stacks of a linear layer followed by a nonlinearity like tanh or rectified linear unit. Without the nonlinearity, consecutive linear layers would be in theory mathematically equivalent to a single linear layer. So it’s a surprise that floating point arithmetic is nonlinear enough to yield trainable deep networks.
+
+**5. [GPUs vs. TPUs — Can NVIDIA Hold On To Its Lead?](https://ark-invest.com/research/gpu-tpu-nvidia)**
+> Now that deep learning has turbocharged NVIDIA’sNVDA data center business by five-fold in the past two years, competition is brewing. As of 2017 nearly a dozen startups have launched, with the goal of building dedicated chips for deep learning applications. In addition, large public tech companies such as Alphabet, Intel, AMD, Qualcomm, and Apple plan to enter the market for deep learning chips.
+> Given this intense and growing competition, can NVIDIA maintain its lead in the market for deep learning chips? And, which of the newcomers are best positioned to succeed?
+
