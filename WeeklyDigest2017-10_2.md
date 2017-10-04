@@ -24,3 +24,7 @@
 **6. [UNICRI Centre for Artificial Intelligence and Robotics](http://www.unicri.it/in_focus/on/UNICRI_Centre_Artificial_Robotics)**
 > “The aim of the Centre is to enhance understanding of the risk-benefit duality of Artificial Intelligence and Robotics through improved coordination, knowledge collection and dissemination, awareness-raising and outreach activities," said UNICRI's director Ms. Cindy J. Smith.
 
+**7. [Google and Uber’s Best Practices for Deep Learning](https://medium.com/intuitionmachine/google-and-ubers-best-practices-for-deep-learning-58488a8899b6)**
+> There is more to building a sustainable Deep Learning solution that what is provided by Deep Learning frameworks like TensorFlow and PyTorch. These frameworks are good enough for research, but they don’t take into account the problems that crop up with production deployment. I’ve written previously about technical debt and the need from more adaptive biological like architectures. To support a viable business using Deep Learning, you absolutely need an architecture that supports sustainable improvement in the presence of frequent and unexpected changes in the environment. Current Deep Learning framework only provide a single part of a complete solution.
+
+
