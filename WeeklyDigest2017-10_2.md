@@ -30,3 +30,5 @@
 **8. [A Brain Built From Atomic Switches Can Learn](https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920)**
 > A tiny self-organized mesh full of artificial synapses recalls its experiences and can solve simple problems. Its inventors hope it points the way to devices that match the brain’s energy-efficient computing prowess.
 
+**9. [Intel Gears Up For FPGA Push](https://www.nextplatform.com/2017/10/02/intel-gears-fpga-push/)**
+> Chip giant Intel has been talking about CPU-FPGA compute complexes for so long that it is hard to remember sometimes that its hybrid Xeon-Arria compute unit, which puts a Xeon server chip and a midrange FPGA into a single Xeon processor socket, is not shipping as a volume product. But Intel is working to get it into the field and has given The Next Platform an update on the current plan.
