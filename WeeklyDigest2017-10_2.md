@@ -32,3 +32,7 @@
 
 **9. [Intel Gears Up For FPGA Push](https://www.nextplatform.com/2017/10/02/intel-gears-fpga-push/)**
 > Chip giant Intel has been talking about CPU-FPGA compute complexes for so long that it is hard to remember sometimes that its hybrid Xeon-Arria compute unit, which puts a Xeon server chip and a midrange FPGA into a single Xeon processor socket, is not shipping as a volume product. But Intel is working to get it into the field and has given The Next Platform an update on the current plan.
+
+**10. [How AI Will Keep You Healthy](https://www.technologyreview.com/s/608987/how-ai-will-keep-you-healthy/)**
+> An audacious Chinese entrepreneur wants to test your body for everything. But are computers really smart enough to make sense of all that data?
+
