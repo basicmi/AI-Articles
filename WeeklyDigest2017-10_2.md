@@ -27,4 +27,6 @@
 **7. [Google and Uber’s Best Practices for Deep Learning](https://medium.com/intuitionmachine/google-and-ubers-best-practices-for-deep-learning-58488a8899b6)**
 > There is more to building a sustainable Deep Learning solution that what is provided by Deep Learning frameworks like TensorFlow and PyTorch. These frameworks are good enough for research, but they don’t take into account the problems that crop up with production deployment. I’ve written previously about technical debt and the need from more adaptive biological like architectures. To support a viable business using Deep Learning, you absolutely need an architecture that supports sustainable improvement in the presence of frequent and unexpected changes in the environment. Current Deep Learning framework only provide a single part of a complete solution.
 
+**8. [A Brain Built From Atomic Switches Can Learn](https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920)**
+> A tiny self-organized mesh full of artificial synapses recalls its experiences and can solve simple problems. Its inventors hope it points the way to devices that match the brain’s energy-efficient computing prowess.
 
