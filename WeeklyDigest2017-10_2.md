@@ -21,8 +21,8 @@
 > Now that deep learning has turbocharged NVIDIA’sNVDA data center business by five-fold in the past two years, competition is brewing. As of 2017 nearly a dozen startups have launched, with the goal of building dedicated chips for deep learning applications. In addition, large public tech companies such as Alphabet, Intel, AMD, Qualcomm, and Apple plan to enter the market for deep learning chips.
 > Given this intense and growing competition, can NVIDIA maintain its lead in the market for deep learning chips? And, which of the newcomers are best positioned to succeed?
 
-**6. [UNICRI Centre for Artificial Intelligence and Robotics](http://www.unicri.it/in_focus/on/UNICRI_Centre_Artificial_Robotics)**
-> “The aim of the Centre is to enhance understanding of the risk-benefit duality of Artificial Intelligence and Robotics through improved coordination, knowledge collection and dissemination, awareness-raising and outreach activities," said UNICRI's director Ms. Cindy J. Smith.
+**6. [Experts Weigh in on Fairness and Performance Trade-Offs in Machine Learning](https://www.theregreview.org/2017/10/04/wong-fairness-performance-machine-learning/)**
+> Artificial intelligence plays an increasingly important role in informing public policy—for everything from the likelihood of an individual becoming homeless or dropping out of school can be predicted through algorithms today. But how do these algorithms generate their predictions? Are the results fair? How do we define “fair” when we balance technology and government decisions?
 
 **7. [Google and Uber’s Best Practices for Deep Learning](https://medium.com/intuitionmachine/google-and-ubers-best-practices-for-deep-learning-58488a8899b6)**
 > There is more to building a sustainable Deep Learning solution that what is provided by Deep Learning frameworks like TensorFlow and PyTorch. These frameworks are good enough for research, but they don’t take into account the problems that crop up with production deployment. I’ve written previously about technical debt and the need from more adaptive biological like architectures. To support a viable business using Deep Learning, you absolutely need an architecture that supports sustainable improvement in the presence of frequent and unexpected changes in the environment. Current Deep Learning framework only provide a single part of a complete solution.
@@ -33,6 +33,11 @@
 **9. [Intel Gears Up For FPGA Push](https://www.nextplatform.com/2017/10/02/intel-gears-fpga-push/)**
 > Chip giant Intel has been talking about CPU-FPGA compute complexes for so long that it is hard to remember sometimes that its hybrid Xeon-Arria compute unit, which puts a Xeon server chip and a midrange FPGA into a single Xeon processor socket, is not shipping as a volume product. But Intel is working to get it into the field and has given The Next Platform an update on the current plan.
 
-**10. [How AI Will Keep You Healthy](https://www.technologyreview.com/s/608987/how-ai-will-keep-you-healthy/)**
-> An audacious Chinese entrepreneur wants to test your body for everything. But are computers really smart enough to make sense of all that data?
+**10. [Will the Future of AI Learning Depend More on Nature or Nurture?](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-and-psychology-researchers-debate-the-future-of-deep-learning)**
+> NYU's Yann LeCun and Gary Marcus debate whether or not AI needs more built-in cognitive machinery similar to that of humans and animals to achieve similar intelligence
+
+**11. [GANs are Broken in More than One Way: The Numerics of GANs](http://www.inference.vc/my-notes-on-the-numerics-of-gans/)**
+> Last year, when I was on a mission to "fix GANs" I had a tendency to focus only on what the loss function is, and completely disregard the issue of how do we actually find a minimum. Here is the paper that has finally challenged that attitude: Mescheder, Nowozin, Geiger (2017): [The Numerics of GANs](https://arxiv.org/abs/1705.10461)
+> I reference [Marr's three layers of analysis](http://blog.shakirm.com/2013/04/marrs-levels-of-analysis/) a lot, and I enjoy thinking about problems at the computational level: what is the ultimate goal we do this for? I was convinced GANs were broken at this level: they were trying to optimize for the wrong thing or seek equilibria that don't exist, etc. This is why I enjoyed f-GANs, Wasserstein GANs, instance noise, etc, while being mostly dismissive of attempts to fix things at the optimization level, like DCGAN or improved techniques (Salimans et al. 2016). To my defense, in most of deep learning, the algorithmic level is sorted: stochastic gradient descent. You can improve on it, but it's not broken, it doesn't usually need fixing.
+
 
