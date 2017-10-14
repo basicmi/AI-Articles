@@ -2,6 +2,8 @@
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
+
+
 **6. [Teachable Machine](https://teachablemachine.withgoogle.com/)**
 > This experiment lets anyone explore how machine learning works, in a fun, hands-on way. You can teach a machine to using your camera, live in the browser – no coding required. You train a neural network locally on your device, without sending any images to a server. That’s how it responds so quickly to you. Watch this video to learn more:
 
