@@ -2,7 +2,13 @@
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
+**4. [The Curse of Dimensionality](https://medium.freecodecamp.org/the-curse-of-dimensionality-how-we-can-save-big-data-from-itself-d9fa0f872335)**
+> How do machines see? Or, in general, how can computers reduce an input of complex, high-dimensional data into a more manageable number of features?
+> Extend your open hand in front of a nearby light-source, so that it casts a shadow against the nearest surface. Rotate your hand and study how its shadow changes. Note that from some angles it casts a narrow, thin shadow. Yet from other angles, the shadow looks much more recognizably like the shape of a hand.
 
+**5. [Inside Vicarious, the Secretive AI Startup Bringing Imagination to Computers](https://www.technologyreview.com/s/601496/inside-vicarious-the-secretive-ai-startup-bringing-imagination-to-computers/)**
+> By reinventing the neural network, the company hopes to help computers make the leap from processing words and symbols to comprehending the real world.
+> That’s the belief motivating the founders of Vicarious, an enigmatic AI company backed by some of the most famous and successful names in Silicon Valley. Vicarious is developing a new way of processing data, inspired by the way information seems to flow through the brain. The company’s leaders say this gives computers something akin to imagination, which they hope will help make the machines a lot smarter.
 
 **6. [Teachable Machine](https://teachablemachine.withgoogle.com/)**
 > This experiment lets anyone explore how machine learning works, in a fun, hands-on way. You can teach a machine to using your camera, live in the browser – no coding required. You train a neural network locally on your device, without sending any images to a server. That’s how it responds so quickly to you. Watch this video to learn more:
