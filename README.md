@@ -1,47 +1,47 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2017-10 \#2
+## Weekly Digest 2017-10 \#3
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 
-**1. [Real-Time Recognition of Handwritten Chinese Characters Spanning a Large Inventory of 30,000 Characters](https://machinelearning.apple.com/2017/09/12/handwriting.html)**
-> Handwriting recognition can enhance user experience on mobile devices, particularly for Chinese input given the relative complexity of keyboard methods. Chinese handwriting recognition is uniquely challenging, due to the large size of the underlying character inventory. Unlike alphabet-based writing, which typically involves on the order of 100 symbols, the set of Hànzì characters in Chinese National Standard GB18030-2005 contains 27,533 entries, and many additional logographic characters are in use throughout Greater China.
+**1. [China’s AI Awakening](https://www.technologyreview.com/s/609038/chinas-ai-awakening/)**
+> The West shouldn’t fear China’s artificial-intelligence revolution. It should copy it.
+> China might have unparalleled resources and enormous untapped potential, but the West has world-­leading expertise and a strong research culture. Rather than worry about China’s progress, it would be wise for Western nations to focus on their existing strengths, investing heavily in research and education. The risk is missing out on an incredibly important technological shift. Yes, companies like Google and Facebook are making important strides in AI today, but this isn’t enough to reboot a whole economy. Despite the fanfare around AI, there are few economic signs—such as increased productivity—that most of the economy is taking advantage of the technology yet. Large segments of the economy beyond Silicon Valley, like medicine, service industries, and manufacturing, also need to sign on.
 
-**2. [The Seven Deadly Sins of Predicting the Future of AI](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai)**
-> We are surrounded by hysteria about the future of Artificial Intelligence and Robotics. There is hysteria about how powerful they will become how quickly, and there is hysteria about what they will do to jobs.
-> Below I outline seven ways of thinking that lead to mistaken predictions about robotics and Artificial Intelligence. We find instances of these ways of thinking in many of the predictions about our AI future. I am going to first list the four such general topic areas of such predictions that I notice, along with a brief assessment of where I think they currently stand.
+**2. [WaveNet launches in the Google Assistant]()**
+> Just over a year ago we presented [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/), a new deep neural network for generating raw audio waveforms that is capable of producing better and more realistic-sounding speech than existing techniques. At that time, the model was a research prototype and was too computationally intensive to work in consumer products.  
+> But over the last 12 months we have worked hard to significantly improve both the speed and quality of our model and today we are proud to announce that an updated version of WaveNet is being used to generate the [Google Assistant](https://www.blog.google/products/assistant/google-assistant-powering-our-new-family-hardware/) voices for US English and Japanese across all platforms.
 
-**3. [STYLE2PAINTS](https://lllyasviel.github.io/)**
-> The AI can paint on a sketch accroding to a given specific color style.
-> The codes can be found [here](https://github.com/lllyasviel/style2paints).
+**3. [Programmable Chips Could Move Machine Learning Out of the Cloud](http://www.electronicdesign.com/embedded-revolution/programmable-chips-could-move-machine-learning-out-cloud)**
+> Efinix, a semiconductor start-up based in Santa Clara, is trying to create a programmable chip that can be customized for machine learning used in applications like robotic arms, autonomous drones, security cameras, and driverless cars.
 
-**4. [Nonlinear Computation in Deep Linear Networks](https://blog.openai.com/nonlinear-computation-in-linear-networks)**
-> We’ve shown that deep linear networks — as implemented using floating-point arithmetic — are not actually linear and can perform nonlinear computation. We used evolution strategies to find parameters in linear networks that exploit this trait, letting us solve non-trivial problems.
-> Neural networks consist of stacks of a linear layer followed by a nonlinearity like tanh or rectified linear unit. Without the nonlinearity, consecutive linear layers would be in theory mathematically equivalent to a single linear layer. So it’s a surprise that floating point arithmetic is nonlinear enough to yield trainable deep networks.
+**4. [The Curse of Dimensionality](https://medium.freecodecamp.org/the-curse-of-dimensionality-how-we-can-save-big-data-from-itself-d9fa0f872335)**
+> How do machines see? Or, in general, how can computers reduce an input of complex, high-dimensional data into a more manageable number of features?
+> Extend your open hand in front of a nearby light-source, so that it casts a shadow against the nearest surface. Rotate your hand and study how its shadow changes. Note that from some angles it casts a narrow, thin shadow. Yet from other angles, the shadow looks much more recognizably like the shape of a hand.
 
-**5. [GPUs vs. TPUs — Can NVIDIA Hold On To Its Lead?](https://ark-invest.com/research/gpu-tpu-nvidia)**
-> Now that deep learning has turbocharged NVIDIA’sNVDA data center business by five-fold in the past two years, competition is brewing. As of 2017 nearly a dozen startups have launched, with the goal of building dedicated chips for deep learning applications. In addition, large public tech companies such as Alphabet, Intel, AMD, Qualcomm, and Apple plan to enter the market for deep learning chips.
-> Given this intense and growing competition, can NVIDIA maintain its lead in the market for deep learning chips? And, which of the newcomers are best positioned to succeed?
+**5. [Inside Vicarious, the Secretive AI Startup Bringing Imagination to Computers](https://www.technologyreview.com/s/601496/inside-vicarious-the-secretive-ai-startup-bringing-imagination-to-computers/)**
+> By reinventing the neural network, the company hopes to help computers make the leap from processing words and symbols to comprehending the real world.
+> That’s the belief motivating the founders of Vicarious, an enigmatic AI company backed by some of the most famous and successful names in Silicon Valley. Vicarious is developing a new way of processing data, inspired by the way information seems to flow through the brain. The company’s leaders say this gives computers something akin to imagination, which they hope will help make the machines a lot smarter.
 
-**6. [Experts Weigh in on Fairness and Performance Trade-Offs in Machine Learning](https://www.theregreview.org/2017/10/04/wong-fairness-performance-machine-learning/)**
-> Artificial intelligence plays an increasingly important role in informing public policy—for everything from the likelihood of an individual becoming homeless or dropping out of school can be predicted through algorithms today. But how do these algorithms generate their predictions? Are the results fair? How do we define “fair” when we balance technology and government decisions?
+**6. [Teachable Machine](https://teachablemachine.withgoogle.com/)**
+> This experiment lets anyone explore how machine learning works, in a fun, hands-on way. You can teach a machine to using your camera, live in the browser – no coding required. You train a neural network locally on your device, without sending any images to a server. That’s how it responds so quickly to you. Watch this video to learn more:
 
-**7. [Google and Uber’s Best Practices for Deep Learning](https://medium.com/intuitionmachine/google-and-ubers-best-practices-for-deep-learning-58488a8899b6)**
-> There is more to building a sustainable Deep Learning solution that what is provided by Deep Learning frameworks like TensorFlow and PyTorch. These frameworks are good enough for research, but they don’t take into account the problems that crop up with production deployment. I’ve written previously about technical debt and the need from more adaptive biological like architectures. To support a viable business using Deep Learning, you absolutely need an architecture that supports sustainable improvement in the presence of frequent and unexpected changes in the environment. Current Deep Learning framework only provide a single part of a complete solution.
+**7. [Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning](http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/)**
+> Deep reinforcement learning (deep RL) has achieved success in many tasks, such as playing video games from raw pixels (Mnih et al., 2015), playing the game of Go (Silver et al., 2016), and simulated robotic locomotion (e.g. Schulman et al., 2015). Standard deep RL algorithms aim to master a single way to solve a given task, typically the first way that seems to work well. Therefore, training is sensitive to randomness in the environment, initialization of the policy, and the algorithm implementation. This phenomenon is illustrated in Figure 1, which shows two policies trained to optimize a reward function that encourages forward motion: while both policies have converged to a high-performing gait, these gaits are substantially different from each other.
 
-**8. [A Brain Built From Atomic Switches Can Learn](https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920)**
-> A tiny self-organized mesh full of artificial synapses recalls its experiences and can solve simple problems. Its inventors hope it points the way to devices that match the brain’s energy-efficient computing prowess.
+**8. [How To Stop Worrying And Love The Great AI War Of 2018](https://www.fastcompany.com/40474564/how-to-stop-worrying-and-love-the-great-ai-war-of-2018)**
+> Artificial intelligence is the biggest opportunity in business since mobile, for tech giants and upstarts alike. It’s also the most confusing. We’re here to help.
 
-**9. [Intel Gears Up For FPGA Push](https://www.nextplatform.com/2017/10/02/intel-gears-fpga-push/)**
-> Chip giant Intel has been talking about CPU-FPGA compute complexes for so long that it is hard to remember sometimes that its hybrid Xeon-Arria compute unit, which puts a Xeon server chip and a midrange FPGA into a single Xeon processor socket, is not shipping as a volume product. But Intel is working to get it into the field and has given The Next Platform an update on the current plan.
+**9. [GOOGLE’S SEARCH FOR THE SWEET SPOT](https://stratechery.com/2017/googles-search-for-the-sweet-spot/)**
+> With every Google product release, we learn more about the company's overarching strategy. Following this week's hardware event, it's safe to say they're betting the farm on artificial intelligence.
 
-**10. [Will the Future of AI Learning Depend More on Nature or Nurture?](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-and-psychology-researchers-debate-the-future-of-deep-learning)**
-> NYU's Yann LeCun and Gary Marcus debate whether or not AI needs more built-in cognitive machinery similar to that of humans and animals to achieve similar intelligence
+**10. [The Seven Deadly Sins of AI Predictions](https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-predictions/)**
+> Mistaken extrapolations, limited imagination, and other common mistakes that distract us from thinking more productively about the future.
+> We are surrounded by hysteria about the future of artificial intelligence and robotics—hysteria about how powerful they will become, how quickly, and what they will do to jobs.
 
-**11. [GANs are Broken in More than One Way: The Numerics of GANs](http://www.inference.vc/my-notes-on-the-numerics-of-gans/)**
-> Last year, when I was on a mission to "fix GANs" I had a tendency to focus only on what the loss function is, and completely disregard the issue of how do we actually find a minimum. Here is the paper that has finally challenged that attitude: Mescheder, Nowozin, Geiger (2017): [The Numerics of GANs](https://arxiv.org/abs/1705.10461)
-> I reference [Marr's three layers of analysis](http://blog.shakirm.com/2013/04/marrs-levels-of-analysis/) a lot, and I enjoy thinking about problems at the computational level: what is the ultimate goal we do this for? I was convinced GANs were broken at this level: they were trying to optimize for the wrong thing or seek equilibria that don't exist, etc. This is why I enjoyed f-GANs, Wasserstein GANs, instance noise, etc, while being mostly dismissive of attempts to fix things at the optimization level, like DCGAN or improved techniques (Salimans et al. 2016). To my defense, in most of deep learning, the algorithmic level is sorted: stochastic gradient descent. You can improve on it, but it's not broken, it doesn't usually need fixing.
- 
+**11. [A theory of working memory without consciousness or sustained activity](https://elifesciences.org/articles/23871#774236895383547905-tw#1507396709455)**
+> Working memory and conscious perception are thought to share similar brain mechanisms, yet recent reports of non-conscious working memory challenge this view. Combining visual masking with magnetoencephalography, we investigate the reality of non-conscious working memory and dissect its neural mechanisms. In a spatial delayed-response task, participants reported the location of a subjectively unseen target above chance-level after several seconds. Conscious perception and conscious working memory were characterized by similar signatures: a sustained desynchronization in the alpha/beta band over frontal cortex, and a decodable representation of target location in posterior sensors. During non-conscious working memory, such activity vanished. Our findings contradict models that identify working memory with sustained neural firing, but are compatible with recent proposals of ‘activity-silent’ working memory. We present a theoretical framework and simulations showing how slowly decaying synaptic changes allow cell assemblies to go dormant during the delay, yet be retrieved above chance-level after several seconds.
+
 **[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
 
 **[Weekly Digest Aug. 2017 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_3.md)**
@@ -59,3 +59,5 @@
 **[Weekly Digest Sept. 2017 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-09_4.md)**
 
 **[Weekly Digest Oct. 2017 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-10_1.md)**
+
+**[Weekly Digest Oct. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-10_2.md)**
