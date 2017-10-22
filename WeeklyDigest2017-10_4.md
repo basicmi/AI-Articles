@@ -16,3 +16,22 @@
 > The core idea of Numerai was to give away all of our data for free, and let anyone train machine learning algorithms on it and submit predictions to our hedge fund. This was a very counterintuitive idea. We already had our own internal machine learning models on the data so it seemed like a distraction to open it up to the world.
 > Some of our distractions have already proven themselves to be outrageously successful, and others are still developing, but they actually aren’t distractions at all. They are all part of the plan.
 
+**5. [Routes to Defensibility for your AI Startup](https://machinelearnings.co/routes-to-defensibility-for-your-ai-startup-2875a1b51d4e)**
+> A simple framework for understanding the impact of data network effects and incumbents’ advantages in your industry
+> In short: VCs are looking for companies that could be worth hundreds of millions or billions of dollars by the next 5–10 years and:
+> Projected future cash flows are a proxy for valuation,
+> Ability to generate profit is a proxy for projected future cash flow,
+> Moats are a proxy for the ability to generate profits.
+
+**6. [How machine learning is helping neuroscientists understand the brain](https://massivesci.com/articles/neuroscience-machine-learning-metaphors/)**
+> The workings of the brain are the greatest mystery in science. Unlike our models of physics, strong enough to predict gravitational waves and unseen particles, our brain models explain only the most basic forms of perception, cognition, and behavior. We know plenty about the biology of neurons and glia, the cells that make up the brain. And we know enough about how they interact with each other to account for some reflexes and sensory phenomena, such as optical illusions. But even slightly more complex levels of mental experience have evaded our theories.
+> We are quickly approaching the point when our traditional reasons for pleading ignorance – that we don’t have the right tools, that we need more data, that brains are complex and chaotic – will not account for our lack of explanations. Our techniques for seeing what the brain and its neurons are doing, at any given moment, get stronger every year.
+
+**7. [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/)**
+> However, for some problems this human knowledge may be too expensive, too unreliable or simply unavailable. As a result, a long-standing ambition of AI research is to bypass this step, creating algorithms that achieve superhuman performance in the most challenging domains with no human input. In our most [recent paper](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html), published in the journal Nature, we demonstrate a significant step towards this goal.
+> The paper introduces AlphaGo Zero, the latest evolution of AlphaGo, the first computer program to defeat a world champion at the ancient Chinese game of Go. Zero is even more powerful and is arguably the strongest Go player in history.
+
+**8. [GOOGLE'S LEARNING SOFTWARE LEARNS TO WRITE LEARNING SOFTWARE](https://www.wired.com/story/googles-learning-software-learns-to-write-learning-software/)**
+> In a project called AutoML, Google’s researchers have taught machine-learning software to build machine-learning software. In some instances, what it comes up with is more powerful and efficient than the best systems the researchers themselves can design. Google says the system recently scored a record 82 percent at categorizing images by their content. On the harder task of marking the location of multiple objects in an image, an important task for augmented reality and autonomous robots, the auto-generated system scored 43 percent. The best human-built system scored 39 percent.
+
+
