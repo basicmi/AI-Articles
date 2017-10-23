@@ -3,6 +3,8 @@
 ## Weekly Digest 2017-10 \#4
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
+> Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race.
+> I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
 
 **[Intel® Nervana™ Neural Network Processors (NNP) Redefine AI Silicon](https://www.intelnervana.com/intel-nervana-neural-network-processors-nnp-redefine-ai-silicon/)**
 > As our Intel CEO Brian Krzanich discussed earlier today at Wall Street Journal’s D.Live event, Intel will soon be shipping the world’s first family of processors designed from the ground up for artificial intelligence (AI): the [Intel® Nervana™ Neural Network Processor](https://newsroom.intel.com/editorials/intel-pioneers-new-technologies-advance-artificial-intelligence/) family (formerly known as “Lake Crest”). This family of processors is over 3 years in the making, and on behalf of the team building it, I’d like to share a bit more insight on the motivation and design behind the world’s first neural network processor.
