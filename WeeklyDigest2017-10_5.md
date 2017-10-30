@@ -1,4 +1,4 @@
-## Weekly Digest 2017-10 \#4
+## Weekly Digest 2017-10 \#5
 
 **[The Real Story of Automation Beginning with One Simple Chart](https://medium.com/basic-income/the-real-story-of-automation-beginning-with-one-simple-chart-8b95f9bad71b)**
 > There’s a chart I came across earlier this year, and not only does it tell an extremely important story about automation, but it also tells a story about the state of the automation discussion itself. It even reveals how we can expect both automation and the discussion around automation to continue unfolding in the years ahead. The chart is a plot of oil rigs in the United States compared to the number of workers the oil industry employs, and it’s an important part of a puzzle that needs to be pieced together before it’s too late.
@@ -16,7 +16,7 @@
 **[First assessment of learning-to-rank](https://wikimedia-research.github.io/Discovery-Search-Test-InterleavedLTR/)**
 > The Search Platform Team has been working on improving search on Wikimedia projects with machine learning. Machine learned-ranking (MLR) enables us to rank relevance of pages using a model trained on implicit and explicit judgements. In the first test of the learning-to-rank (LTR) project, we evaluated the performance of a click-based model on users searching English Wikipedia. We found that users were slightly more likely to engage with MLR-provided results than with BM25 results (assessed via the clickthrough rate and a preference statistic). We also found that users with machine learning-ranked results were statistically significantly more likely to click on the first search result first than users with BM25-ranked results, which indicates that we are onto something. The next step for us is to evaluate the model’s performance on Wikipedia in other languages.
 
-**(Common Sense, Cortex, and CAPTCHA)[https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/]**
+**[Common Sense, Cortex, and CAPTCHA](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)**
 > What kind of generative model would suffice for common sense? One way to approach this is to instead ask: what kind of model does the human visual system build? In our recent Science paper, we take a step towards answering these questions by demonstrating how clues from the cortex can be incorporated into a computer vision model we call the Recursive Cortical Network (RCN) [4]. In this blog post, we describe RCN in the context of common sense, cortex, and our long-term research ambitions at Vicarious.
 
 **[PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)**
