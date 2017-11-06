@@ -20,7 +20,14 @@
 **[Everything you need to know about Neural Networks](https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491)**
 > Understanding what is Artificial Intelligence and how does Machine Learning and Deep Learning powers it is an overwhelming experience. We are a group of self-taught engineers who have gone through that experience and we are sharing (in blogs) our understanding and what helped us in simplified form, so that anyone who is new to this field can easily start making sense of the technicalities of this technology.
 
+**[Google's Colaboratory ](https://research.google.com/colaboratory/)**
+> Colaboratory is a Jupyter Notebook environment, created to help disseminate machine learning education and research, that requires no setup to use and works a lot like Google Docs. 
+
 **[Falling Walls: The Past, Present and Future of Artificial Intelligence](https://blogs.scientificamerican.com/observations/falling-walls-the-past-present-and-future-of-artificial-intelligence/)**
 > This is more than just another industrial revolution—it is something that transcends humankind and even biology.
+
+**[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
+> Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race.
+> I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
 
 
