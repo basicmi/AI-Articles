@@ -31,7 +31,7 @@
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race.
 > I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
 
-**(Sony reboots Aibo with AI and extra kawaii)[http://aibo.sony.jp/en/]**
+**[Sony reboots Aibo with AI and extra kawaii](http://aibo.sony.jp/en/)**
 > Sony claims Aibo’s new adaptive behavior includes being able to actively seek out its owners; detect words of praise; smiles; head and back scratches; petting, and more. The Aibo robot costs 198,000 JPY (~$1,735) but you also need a subscription plan to connect to the cloud service that powers Aibo’s AI.
 
 **[Earth on AWS Datasets](https://aws.amazon.com/cn/earth/)**
