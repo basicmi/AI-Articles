@@ -22,3 +22,5 @@
 **[The Next Phase Of Machine Learning](https://semiengineering.com/the-next-phase-of-machine-learning/)**
 > Chipmakers turn to inferencing as the next big opportunity for this technology.
 
+**[AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)**
+> Get the full cheat sheet [here](https://applied-data.science/blog/alphago-zero-cheat-sheet)
