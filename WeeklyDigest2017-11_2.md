@@ -1,4 +1,4 @@
-## Weekly Digest 2017-11 \#1
+## Weekly Digest 2017-11 \#2
 
 **[Capsule Networks Are Shaking up AI — Here’s How to Use Them](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)**
 > If you follow AI you might have heard about the advent of the potentially revolutionary Capsule Networks. I will show you how you can start using them today.
