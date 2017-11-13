@@ -30,3 +30,6 @@
 
 **[The Neural Networks API is available in Android 8.1 and higher system images](https://developer.android.com/ndk/guides/neuralnetworks/index.html)**
 > The Android Neural Networks API (NNAPI) is an Android C API designed for running computationally intensive operations for machine learning on mobile devices. NNAPI is designed to provide a base layer of functionality for higher-level machine learning frameworks (such as TensorFlow Lite, Caffe2, or others) that build and train neural networks. The API is available on all devices running Android 8.1 (API level 27) or higher.
+
+**[AI Chip Explosion: Cambricon’s Billion-Device Ambition](https://syncedreview.com/2017/11/06/ai-chip-explosion-cambricons-billion-device-ambition/)**
+> On November 6 in Beijing, China’s rising semiconductor company Cambricon released the Cambrian-1H8 for low power consumption computer vision application, the higher-end Cambrian-1H16 for more general purpose application, the Cambrian-1M for autonomous driving applications with yet-to-be-disclosed release date, and an AI system software named Cambrian NeuWare.
