@@ -25,5 +25,5 @@
 **[AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)**
 > Get the full cheat sheet [here](https://applied-data.science/blog/alphago-zero-cheat-sheet)
 
-**[https://developer.android.com/ndk/guides/neuralnetworks/index.html](https://developer.android.com/ndk/guides/neuralnetworks/index.html)**
+**[The Neural Networks API is available in Android 8.1 and higher system images](https://developer.android.com/ndk/guides/neuralnetworks/index.html)**
 > The Android Neural Networks API (NNAPI) is an Android C API designed for running computationally intensive operations for machine learning on mobile devices. NNAPI is designed to provide a base layer of functionality for higher-level machine learning frameworks (such as TensorFlow Lite, Caffe2, or others) that build and train neural networks. The API is available on all devices running Android 8.1 (API level 27) or higher.
