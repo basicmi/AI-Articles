@@ -13,6 +13,9 @@
 **[Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)**
 > I sometimes see people refer to neural networks as just “another tool in your machine learning toolbox”. They have some pros and cons, they work here or there, and sometimes you can use them to win Kaggle competitions. Unfortunately, this interpretation completely misses the forest for the trees. Neural networks are not just another classifier, they represent the beginning of a fundamental shift in how we write software. They are Software 2.0.
 
+**[Is Deep Learning “Software 2.0”?](https://medium.com/intuitionmachine/is-deep-learning-software-2-0-cc7ad46b138f)**
+> Andrej Karpathy wrote an article about what he calls “Software 2.0”. Karpathy (Director of AI at Tesla) makes the argument that Neural Networks (or Deep Learning) is a new kind of software. I do agree that there indeed exists a trend towards “teachable machines” as opposed to the more conventional programmable machines, however I do have an issue with some of the benefits that Karpathy mentions to back-up his thesis.
+
 **[This AI Bot That Messes With Email Scammers As Long As Possible Is Brilliant](http://digg.com/2017/re-scam-ai-scammer)**
 > Email scammers work in bulk, blasting out tons of emails in the hopes of getting a few bites which they can follow up on. To counter this, NetSafe, an online safety non-profit in New Zealand, built Re:scam, which messes with scammers automatically.
 
