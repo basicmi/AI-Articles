@@ -9,7 +9,7 @@
 > Using a novel architecture that mimics the human vision system, Capsule Networks strives for translation equivariance instead of translation invariance, allowing it to generalize to a greater degree from different view points with less training data.
 > You can check out a [barebone implementation](https://gist.github.com/kendricktan/9a776ec6322abaaf03cc9befd35508d4) of Capsule Network here, which is just a cleaned up version of [gram.ai’s implementaion](https://github.com/gram-ai/capsule-networks).
 
-**[AI vs Doctors](https://www.strategy-business.com/article/Are-We-on-the-Verge-of-a-New-Golden-Age)**
+**[AI vs Doctors](https://spectrum.ieee.org/static/ai-vs-doctors)**
 > Artificial intelligence is challenging doctors on their home turf. We’re keeping score.
 
 **[Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)**
