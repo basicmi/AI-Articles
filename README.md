@@ -65,3 +65,5 @@
 **[Weekly Digest Oct. 2017 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-10_4.md)**
 
 **[Weekly Digest Oct. 2017 \#5](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-10_5.md)**
+
+**[Weekly Digest Nov. 2017 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_1.md)**
