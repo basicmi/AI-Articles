@@ -16,6 +16,9 @@
 **[Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)**
 > "In Part I of this series on capsule networks, I talked about the basic intuition and motivation behind the novel architecture. In this part, I will describe, what capsule is and how it works internally as well as intuition behind it. In the next part I will focus mostly on the dynamic routing algorithm."
 
+**[Deconstructing Randomness as Chaos and Entanglement in Disguise](https://medium.com/intuitionmachine/there-is-no-randomness-only-chaos-and-complexity-c92f6dccd7ab)**
+> "If randomness is a consequence of a physical process then perhaps our solution to the AGI problem should also take inconsideration the constraints of a physical process. Our mathematics may be introducing too many assumptions that may be detrimental to finding a solution. It’s like a case of “leaky abstractions”. Our abstractions are hiding the essential details and in the process we are unable to see what is in front of our eyes."
+
 **[Feature Visualization](https://distill.pub/2017/feature-visualization)**
 > How neural networks build up their understanding of images
 
@@ -32,7 +35,3 @@
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race.
 > I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
-
-
-
-
