@@ -18,6 +18,9 @@
 **[Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)**
 > "In Part I of this series on capsule networks, I talked about the basic intuition and motivation behind the novel architecture. In this part, I will describe, what capsule is and how it works internally as well as intuition behind it. In the next part I will focus mostly on the dynamic routing algorithm."
 
+**[Deconstructing Randomness as Chaos and Entanglement in Disguise](https://medium.com/intuitionmachine/there-is-no-randomness-only-chaos-and-complexity-c92f6dccd7ab)**
+> "If randomness is a consequence of a physical process then perhaps our solution to the AGI problem should also take inconsideration the constraints of a physical process. Our mathematics may be introducing too many assumptions that may be detrimental to finding a solution. It’s like a case of “leaky abstractions”. Our abstractions are hiding the essential details and in the process we are unable to see what is in front of our eyes."
+
 **[Feature Visualization](https://distill.pub/2017/feature-visualization)**
 > How neural networks build up their understanding of images
 
@@ -63,4 +66,4 @@
 
 **[Weekly Digest Nov. 2017 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_1.md)**
 
-**[Weekly Digest Nov. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_1.md)**
+**[Weekly Digest Nov. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_2.md)**
