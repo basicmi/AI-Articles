@@ -28,6 +28,9 @@
 **[BAN LETHAL AUTONOMOUS WEAPONS](http://autonomousweapons.org/)**
 >  "the knowledge to build these subsystems is widely available. And the tools to turn them into reality are cheap. This 8-minute video published by Future of Life Institute depicts one possible scenario, [too realistic to be ignored](https://www.youtube.com/watch?time_continue=172&v=HipTO_7mUOw). "
 
+**[An On-device Deep Neural Network for Face Detection](https://machinelearning.apple.com/2017/11/16/face-detection.html)**
+> Apple started using deep learning for face detection in iOS 10. With the release of the Vision framework, developers can now use this technology and many other computer vision algorithms in their apps. We faced significant challenges in developing the framework so that we could preserve user privacy and run efficiently on-device. This article discusses these challenges and describes the face detection algorithm.
+
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race.
 > I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
