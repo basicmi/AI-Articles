@@ -1,40 +1,32 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2017-11 \#2
+## Weekly Digest 2017-11 \#3
 
-**[Capsule Networks Are Shaking up AI — Here’s How to Use Them](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)**
-> If you follow AI you might have heard about the advent of the potentially revolutionary Capsule Networks. I will show you how you can start using them today.
+**[The Secret to Strong AI](https://medium.com/@Numenta/the-secret-to-strong-ai-61d153e26273)**
+> Artificial Intelligence techniques such as “deep learning” and “convolutional neural networks” have made stunning advancements in image recognition, self-driving cars, and other difficult tasks. Numerous AI companies have appeared to catch the wave of excitement as funding and acquisitions have accelerated.
+> Yet, leading AI researchers realize something is not right. 
 
-**[Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/)**
-> Using a novel architecture that mimics the human vision system, Capsule Networks strives for translation equivariance instead of translation invariance, allowing it to generalize to a greater degree from different view points with less training data.
-> You can check out a [barebone implementation](https://gist.github.com/kendricktan/9a776ec6322abaaf03cc9befd35508d4) of Capsule Network here, which is just a cleaned up version of [gram.ai’s implementaion](https://github.com/gram-ai/capsule-networks).
+**[Inside the mechanical brain of the world’s first robot citizen](https://qz.com/1121547/how-smart-is-the-first-robot-citizen/)**
+> If people say “’Sophia isn’t intelligent enough to be a citizen’ okay, then how intelligent do you have to be to be a citizen?” Goertzel says. “I mean I’m happy to have that conversation started in a bigger way than it was before.”
 
-**[AI vs Doctors](https://spectrum.ieee.org/static/ai-vs-doctors)**
-> Artificial intelligence is challenging doctors on their home turf. We’re keeping score.
+**[The Three Way Race to the Future of AI. Quantum vs. Neuromorphic vs. High Performance Computing](https://www.datasciencecentral.com/profiles/blogs/the-three-way-race-to-the-future-of-ai-quantum-vs-neuromorphic-vs)**
+> Summary:  There’s a three way technology race to bring faster, easier, cheaper, and smarter AI.  High Performance Computing is available today but so are new commercial versions of actual Quantum computers and Neuromorphic Spiking Neural Nets.  These two new entrants are going to revolutionize AI and deep learning starting now.
 
-**[Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)**
-> I sometimes see people refer to neural networks as just “another tool in your machine learning toolbox”. They have some pros and cons, they work here or there, and sometimes you can use them to win Kaggle competitions. Unfortunately, this interpretation completely misses the forest for the trees. Neural networks are not just another classifier, they represent the beginning of a fundamental shift in how we write software. They are Software 2.0.
+**[Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)**
+>"In this post, I will explain why this new architecture is so important, as well as intuition behind it. In the following posts I will dive into technical details."
 
-**[Is Deep Learning “Software 2.0”?](https://medium.com/intuitionmachine/is-deep-learning-software-2-0-cc7ad46b138f)**
-> Andrej Karpathy wrote an article about what he calls “Software 2.0”. Karpathy (Director of AI at Tesla) makes the argument that Neural Networks (or Deep Learning) is a new kind of software. I do agree that there indeed exists a trend towards “teachable machines” as opposed to the more conventional programmable machines, however I do have an issue with some of the benefits that Karpathy mentions to back-up his thesis.
+**[Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)**
+> "In Part I of this series on capsule networks, I talked about the basic intuition and motivation behind the novel architecture. In this part, I will describe, what capsule is and how it works internally as well as intuition behind it. In the next part I will focus mostly on the dynamic routing algorithm."
 
-**[This AI Bot That Messes With Email Scammers As Long As Possible Is Brilliant](http://digg.com/2017/re-scam-ai-scammer)**
-> Email scammers work in bulk, blasting out tons of emails in the hopes of getting a few bites which they can follow up on. To counter this, NetSafe, an online safety non-profit in New Zealand, built Re:scam, which messes with scammers automatically.
+**[Feature Visualization](https://distill.pub/2017/feature-visualization)**
+> How neural networks build up their understanding of images
 
-**[PART II: Routes to defensibility for your AI Startup](https://machinelearnings.co/part-ii-routes-to-defensibility-for-your-ai-startups-acdb141e38ce)**
-> A few weeks ago I published a post in which I outline a framework to think about ways to create moats for AI startups. It triggered interesting conversations with several AI practitioners (founders, product managers, VCs) over the past few days. I think these debates bring interesting complements to my initial framework, so I eventually decided to publish 3 of them here.
+**[The real danger of Artificial Intelligence it’s not what you think](https://hackernoon.com/the-real-danger-of-artificial-intelligence-its-not-what-you-think-f7fdc7059cf8)**
+> "On November 8th to 10th, I attended the Global Symposium: Artificial Intelligence & Inclusion. There were almost 200 participants, invited from all over the world."
+> "I was particularly interested in two topics: (1) how to create AI solutions that respect societies’ cultural values and (2) how to use AI to increase inclusion in education. Here are my five takeaways:"
 
-**[The Next Phase Of Machine Learning](https://semiengineering.com/the-next-phase-of-machine-learning/)**
-> Chipmakers turn to inferencing as the next big opportunity for this technology.
-
-**[AlphaGo Zero Explained In One Diagram](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)**
-> Get the full cheat sheet [here](https://applied-data.science/blog/alphago-zero-cheat-sheet)
-
-**[The Neural Networks API is available in Android 8.1 and higher system images](https://developer.android.com/ndk/guides/neuralnetworks/index.html)**
-> The Android Neural Networks API (NNAPI) is an Android C API designed for running computationally intensive operations for machine learning on mobile devices. NNAPI is designed to provide a base layer of functionality for higher-level machine learning frameworks (such as TensorFlow Lite, Caffe2, or others) that build and train neural networks. The API is available on all devices running Android 8.1 (API level 27) or higher.
-
-**[AI Chip Explosion: Cambricon’s Billion-Device Ambition](https://syncedreview.com/2017/11/06/ai-chip-explosion-cambricons-billion-device-ambition/)**
-> On November 6 in Beijing, China’s rising semiconductor company Cambricon released the Cambrian-1H8 for low power consumption computer vision application, the higher-end Cambrian-1H16 for more general purpose application, the Cambrian-1M for autonomous driving applications with yet-to-be-disclosed release date, and an AI system software named Cambrian NeuWare.
+**[BAN LETHAL AUTONOMOUS WEAPONS](http://autonomousweapons.org/)**
+>  "the knowledge to build these subsystems is widely available. And the tools to turn them into reality are cheap. This 8-minute video published by Future of Life Institute depicts one possible scenario, [too realistic to be ignored](https://www.youtube.com/watch?time_continue=172&v=HipTO_7mUOw). "
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race.
@@ -67,3 +59,5 @@
 **[Weekly Digest Oct. 2017 \#5](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-10_5.md)**
 
 **[Weekly Digest Nov. 2017 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_1.md)**
+
+**[Weekly Digest Nov. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_1.md)**
