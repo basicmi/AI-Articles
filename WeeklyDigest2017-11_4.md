@@ -18,3 +18,9 @@
 **[MIT LOOKS AT HOW HUMANS SORTA DRIVE IN SORTA SELF-DRIVING CARS](https://www.wired.com/story/mit-humans-semiautonomous-car-study/)**
 > Humans handle the wheel in some situations, and the machine handles it in others. Call it…piloting? Shepherding? Conducting? We might need a new word here.
 
+**[Exclusive: China's SenseTime plans IPO, U.S. R&D center as early as 2018](https://www.reuters.com/article/us-sensetime-ipo-exclusive/exclusive-chinas-sensetime-plans-ipo-u-s-rd-center-as-early-as-2018-idUSKBN1DN0FY)**
+> HONG KONG (Reuters) - Chinese artificial intelligence (AI) start-up SenseTime Group, valued at more than $2 billion, is planning an IPO and aims to open a U.S. research and development center as early as next year, its founder told Reuters.
+
+**[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
+> Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race.
+> I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
