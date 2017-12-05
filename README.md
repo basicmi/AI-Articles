@@ -1,30 +1,43 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2017-11 \#4
+## Weekly Digest 2017-12 \#1
 
-**[The impossibility of intelligence explosion](https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec)**
-> "In this post, I argue that intelligence explosion is impossible — that the notion of intelligence explosion comes from a profound misunderstanding of both the nature of intelligence and the behavior of recursively self-augmenting systems. I attempt to base my points on concrete observations about intelligent systems and recursive systems."
+**[The Coming Age of Killer Machines](https://hackernoon.com/the-coming-age-of-killer-machines-c71fdb07d51c)**
+> The [most terrifying film of the year](https://www.youtube.com/watch?v=9CO6M2HsoIA) didn’t come from Hollywood. It came from a [think tank](https://futureoflife.org/) looking to save us all from killer machines.
+> In the movie’s near future dystopia, palm sized drones loaded up with explosives use facial recognition to hunt down and slaughter people with pin point precision. A series of devastating attacks sweep the countryside. Swarms of the micro murderers tear through congress, massacring Senators based on ideology. Terrorists unleash a horde of the flying monsters into schools to take out the kids of parents who dare to speak out against the threat.
 
-**[Can A.I. Be Taught to Explain Itself?](https://www.nytimes.com/2017/11/21/magazine/can-ai-be-taught-to-explain-itself.html)**
-> As machine learning becomes more powerful, the field’s researchers increasingly find themselves unable to account for what their algorithms know — or how they know it.
+**[The convergence of AI and Blockchain: what’s the deal?](https://hackernoon.com/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc)**
+> It is undeniable that AI and blockchain are two of the major technologies that are catalyzing the pace of innovation and introducing radical shifts in every industry. Each technology has its own degree of technical complexity as well as business implications but the joint use of the two may be able to redesign the entire technological (and human) paradigm from scratch.
 
-**[Backprop and systolic arrays.](https://becominghuman.ai/backprop-and-systolic-arrays-24e925d2050)**
-> "I’ve had a serendipitous encounter on the plane with a professor returning from SC17, and we ended up talking about how backprop can map onto hardware. This motivated me to write up a simple example of backprop which captures its similarity to systolic array architecture."
+**[Stanford-led artificial intelligence index tracks emerging field](https://news.stanford.edu/2017/11/30/artificial-intelligence-index-tracks-emerging-field/)**
+> A Stanford-led team has launched [the first index](https://aiindex.org/2017-report.pdf) to track the state of artificial intelligence and measure technological progress in the same way the GDP and the S&P 500 index take the pulse of the U.S. economy and stock market.
 
-**[A Visual Representation of Capsule Network Computations](https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737)**
-> "To get a better feel for exactly what capsule networks compute, I made a diagram of the capsule-to-capsule connections in the paper. This diagram is intended for those who have read the paper and are looking for a summary reference image."
+**[Amazon SageMaker – Accelerating Machine Learning](https://aws.amazon.com/blogs/aws/sagemaker/)**
+> Amazon SageMaker is a fully managed end-to-end machine learning service that enables data scientists, developers, and machine learning experts to quickly build, train, and host machine learning models at scale. This drastically accelerates all of your machine learning efforts and allows you to add machine learning to your production applications quickly.
 
-**[ASIC and TSMC are the AI Chip Unsung Heroes](https://www.semiwiki.com/forum/content/7142-asic-tsmc-ai-chip-unsung-heroes.html)**
-> One of the more exciting design start market segments that we track is Artificial Intelligence related ASICs. With NVIDIA making billions upon billions of dollars repurposing GPUs as AI engines in the cloud, the Application Specific Integrated Circuit business was sure to follow. Google now has its Tensor Processing Unit, Intel has its Nervana chip (they acquired Nervana), and a new start-up Groq (former Google TPU people) will have a chip out early next year. The billion dollar question is: Who is really behind the implementations of these AI chips? If you look at the LinkedIn profiles you will know for sure who it isn’t. 
+**[Google’s Artificial Intelligence Built an AI That Outperforms Any Made by Humans](https://futurism.com/google-artificial-intelligence-built-ai/)**
+> Google's AutoML project, designed to make AI build other AIs, has now developed a computer vision system that vastly outperforms state-of-the-art-models. The project could improve how autonomous vehicles and next-generation AI robots "see."
 
-**[How machine learning is helping us to understand the brain](https://www.salon.com/2017/11/25/how-machine-learning-is-helping-us-to-understand-the-brain_partner/)**
-> An expert argues that neuroscience is using the wrong metaphors
+**[AI sex dolls are just around the corner](https://thenextweb.com/contributors/2017/11/25/ai-sex-dolls-just-around-corner)**
+> The sex doll industry is on the verge of greatness, in its own special way. Soon the Stepford Wives of science fiction will become real, thanks to the magic of AI.
 
-**[MIT LOOKS AT HOW HUMANS SORTA DRIVE IN SORTA SELF-DRIVING CARS](https://www.wired.com/story/mit-humans-semiautonomous-car-study/)**
-> Humans handle the wheel in some situations, and the machine handles it in others. Call it…piloting? Shepherding? Conducting? We might need a new word here.
+**[Population based training of neural networks](https://deepmind.com/blog/population-based-training-neural-networks/)**
+> In our [most recent paper](https://arxiv.org/abs/1711.09846), we introduce a new method for training neural networks which allows an experimenter to quickly choose the best set of hyperparameters and model for the task. This technique - known as Population Based Training (PBT) - trains and optimises a series of networks at the same time, allowing the optimal set-up to be quickly found. Crucially, this adds no computational overhead, can be done as quickly as traditional techniques and is easy to integrate into existing machine learning pipelines.
 
-**[Exclusive: China's SenseTime plans IPO, U.S. R&D center as early as 2018](https://www.reuters.com/article/us-sensetime-ipo-exclusive/exclusive-chinas-sensetime-plans-ipo-u-s-rd-center-as-early-as-2018-idUSKBN1DN0FY)**
-> HONG KONG (Reuters) - Chinese artificial intelligence (AI) start-up SenseTime Group, valued at more than $2 billion, is planning an IPO and aims to open a U.S. research and development center as early as next year, its founder told Reuters.
+**[Microsoft’s AI-powered app can help you learn Chinese](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/microsofts-ai-powered-app-can-help-learn-chinese/)**
+> For people learning Chinese, Microsoft is aiming to fill that void with a new smartphone app that can act as an always available, artificially intelligent language learning assistant.
+
+**[Robots Are Wrong Too—Confusion Mapping for the Worst Case](https://towardsdatascience.com/robots-are-wrong-too-confusion-mapping-for-the-worst-case-2e01b7e19936)**
+> "When was the last time a calculator didn’t do what you wanted it to? When was the last time that a person did? Algorithms like machine learning are in between these two from a deterministic standpoint."
+> "Today we are building machines that are more complex than we can understand and we need to deal with them differently than we would previous technologies. It is no longer about specifying what we want something to do and then debugging it."
+> "At Philosophie we have been building new tools and exercises like Empathy Mapping for the Machine to bring human purpose to AI and machine learning projects. The latest is what we call Confusion Mapping and it helps you better prepare for the all the possible ways non-deterministic systems could fail."
+
+**[Infrastructure 3.0: Building blocks for the AI revolution](https://venturebeat.com/2017/11/28/infrastructure-3-0-building-blocks-for-the-ai-revolution/)**
+> Collectively, the innovations of this epoch — Infrastructure 3.0 — will be about unlocking the potential of ML/AI and providing the building blocks for intelligent systems. As with previous generations, there will be new projects, platforms, and companies that emerge and challenge the current incumbency. The arms dealers for this imminent ML/AI revolution promise to be the infrastructure giants of tomorrow.
+
+**[CCN 2017 Videos](https://ccneuro.org/2017videos/)**
+> Videos from [Cognitive Computational Neuroscience](https://www.ccneuro.org/) (CCN) 2017
+
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race.
@@ -61,3 +74,5 @@
 **[Weekly Digest Nov. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_2.md)**
 
 **[Weekly Digest Nov. 2017 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_3.md)**
+
+**[Weekly Digest Nov. 2017 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_4.md)**
