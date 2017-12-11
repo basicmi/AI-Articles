@@ -9,3 +9,5 @@
 **[Designing An Analytics Stack Like We Design Software](https://blog.modeanalytics.com/designing-analytics-stacks-like-software/)**
 > Since analytics needs are highly variable across teams and undergo frequent evolution within teams, this article will not attempt to provide guidance on choosing the tools that are right for you. Instead, we’ll shift our focus to understanding the cause of the trends we’re observing, and how embracing this evolution and leveraging its benefits may serve as the catalyst to take our analytical capabilities to the next level.
 
+**[GOOGLE, AMAZON FIND NOT EVERYONE IS READY FOR AI](https://www.wired.com/story/google-amazon-find-not-everyone-is-ready-for-ai)**
+> Yet as Amazon and Google seek greater riches by infusing the world with artificial intelligence, they’ve started their own consulting operations, lending out some of their prized AI talent to customers. The reason: Those other businesses lack the expertise to take advantage of techniques such as machine learning.
