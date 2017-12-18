@@ -18,4 +18,9 @@
 **[AI 100: The Artificial Intelligence Startups Redefining Industries](https://www.cbinsights.com/research/artificial-intelligence-top-startups)**
 > The 100 startups on our list have raised $11.7B in aggregate funding across 367 deals since 2012.
 
+**[Practical applications of reinforcement learning in industry](https://www.oreilly.com/ideas/practical-applications-of-reinforcement-learning-in-industry)**
+> An overview of commercial and industrial applications of reinforcement learning.
+
+
+
 
