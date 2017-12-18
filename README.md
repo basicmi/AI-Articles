@@ -1,37 +1,36 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2017-12 \#2
+## Weekly Digest 2017-12 \#3
 
-**[Optimization for Deep Learning Highlights in 2017](http://ruder.io/deep-learning-optimization-2017/index.html)**
-> "In this blog post, I will touch on the most exciting highlights and most promising directions in optimization for Deep Learning in my opinion. Note that this blog post assumes a familiarity with SGD and with adaptive learning rate methods such as Adam. To get up to speed, refer to this blog post for an overview of [existing gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)".
+**[Where Is AI Headed in 2018?](https://blogs.nvidia.com/blog/2017/12/03/ai-headed-2018)**
+> 13 predictions by researchers and experts from around the world.
 
-**[A list of slides of all talks from NIPS 2017](https://deephunt.in/nips-2017-e580ebc9c7b2)**
-> This year’s Neural Information Processing Systems (NIPS) 2017 conference held at Long Beach Convention Center, Long Beach California has been the biggest ever! Here’s a list of resources and slides of all invited talks, tutorials and workshops.
+**[China embraces AI: A Close Look and A Long View](https://www.eurasiagroup.net/files/upload/China_Embraces_AI.pdf)**
+> China is poised to dominate multiple sectors of AI (including consumer applications, autonomous vehicles and perception/vision) while lagging the US on business applications, argue Kai-Fu Lee and Ian Bremmer. Chinese firms are also moving from copycats to leapfrogging American competitors, to support the State's vision of $1.5trn in AI-related revenues by 2030.
 
-**[Using Artiﬁcial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/)**
-> By creating user interfaces which let us work with the representations inside machine learning models, we can give people new tools for reasoning. 
+**[China’s big brother: how artificial intelligence is catching criminals and advancing health care](http://www.scmp.com/magazines/post-magazine/long-reads/article/2123415/doctor-border-guard-policeman-artificial)**
+> Zhu Long, co-founder of pioneering Yitu Technologies, whose facial-recognition algorithms have logged 1.8 billion faces and caught criminals across China, says AI will change the world more than the industrial revolution
 
-**[Designing An Analytics Stack Like We Design Software](https://blog.modeanalytics.com/designing-analytics-stacks-like-software/)**
-> Since analytics needs are highly variable across teams and undergo frequent evolution within teams, this article will not attempt to provide guidance on choosing the tools that are right for you. Instead, we’ll shift our focus to understanding the cause of the trends we’re observing, and how embracing this evolution and leveraging its benefits may serve as the catalyst to take our analytical capabilities to the next level.
+**[NASA uses Google machine learning for exoplanet detection](http://www.zdnet.com/article/nasa-uses-google-machine-learning-for-exoplanet-detection/)**
+> Neural networks have thrown up lots of false positives, but also previously undetected exoplanets.
 
-**[GOOGLE, AMAZON FIND NOT EVERYONE IS READY FOR AI](https://www.wired.com/story/google-amazon-find-not-everyone-is-ready-for-ai)**
-> Yet as Amazon and Google seek greater riches by infusing the world with artificial intelligence, they’ve started their own consulting operations, lending out some of their prized AI talent to customers. The reason: Those other businesses lack the expertise to take advantage of techniques such as machine learning.
+**[Revitalizing manufacturing through AI](https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814)**
+> Andrew Ng's announcement of Landing.ai, his new company.  They are attempting to be an "A.I. partner" and provide fuller stack solutions to manufacturing plants.
 
-**[IBM’s new Power9 chip was built for AI and machine learning](https://techcrunch.com/2017/12/05/ibms-new-power9-chip-architected-for-ai-and-machine-learning/)**
-> In a world that requires increasing amounts of compute power to handle the resource-intensive demands of workloads like artificial intelligence and machine learning, IBM enters the fray with its latest generation Power chip, [the Power9](http://ibm.biz/BdjCQQ).
+**[AI 100: The Artificial Intelligence Startups Redefining Industries](https://www.cbinsights.com/research/artificial-intelligence-top-startups)**
+> The 100 startups on our list have raised $11.7B in aggregate funding across 367 deals since 2012.
 
-**[INSIDE BAIDU’S BID TO LEAD THE AI REVOLUTION](https://www.wired.com/story/inside-baidu-artificial-intelligence/)**
-> Presumably, Robin Li wanted attention last summer when he decided to launch Baidu’s bid for the future of self-driving cars from the front seat of a car that was driving itself. He wanted to draw attention to Apollo, the company’s new set of artificial intelligence-driven tools, which Li hopes will come to power vehicles everywhere. 
+**[Practical applications of reinforcement learning in industry](https://www.oreilly.com/ideas/practical-applications-of-reinforcement-learning-in-industry)**
+> An overview of commercial and industrial applications of reinforcement learning.
 
-**[Google leads in the race to dominate artificial intelligence](https://medium.com/@the_economist/google-leads-in-the-race-to-dominate-artificial-intelligence-debc9fa86040)**
-> Tech giants are investing billions in a transformative technology
+**[Google to Open Beijing AI Center in Latest Expansion in China](https://www.bloomberg.com/news/articles/2017-12-13/google-to-open-beijing-ai-center-in-latest-expansion-in-china)**
+> Google is deepening its push into China as it seeks an edge in one of technology’s most competitive fields: artificial intelligence.
 
-**[Elon Musk finally admits Tesla is building its own custom AI chips](https://www.theregister.co.uk/2017/12/08/elon_musk_finally_admits_tesla_is_building_its_own_custom_ai_chips/)**
-> And gives us the news that god-like machines will take over within a decade
+**[Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017)**
+> "In this article I will go through some advancements for NLP in 2017 that rely on DL techniques. I do not pretend to be exhaustive: it would simply be impossible given the vast amount of scientific papers, frameworks and tools available. I just want to share with you some of the works that I liked the most this year. I think 2017 has been a great year for our field. The use of DL in NLP keeps widening, yielding amazing results in some cases, and all signs point to the fact that this trend will not stop."
 
-**[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
-> Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race.
-> I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
+**[Deep Learning: Practice and Trends (NIPS 2017 Tutorial, parts I & II)](https://youtu.be/YJnddoa8sHk)**
+> An excellent tutorial on the building blocks of today’s Deep Learning systems. The tutorial covers Convolutional Models, Autoregressive Models, Domain Alignment, Meta Learning, Graph Networks, and more.
 
 **[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
 
@@ -68,3 +67,5 @@
 **[Weekly Digest Nov. 2017 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-11_4.md)**
 
 **[Weekly Digest Dec. 2017 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-12_1.md)**
+
+**[Weekly Digest Dec. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-12_2.md)**
