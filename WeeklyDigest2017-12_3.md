@@ -21,6 +21,12 @@
 **[Practical applications of reinforcement learning in industry](https://www.oreilly.com/ideas/practical-applications-of-reinforcement-learning-in-industry)**
 > An overview of commercial and industrial applications of reinforcement learning.
 
+**[Google to Open Beijing AI Center in Latest Expansion in China](https://www.bloomberg.com/news/articles/2017-12-13/google-to-open-beijing-ai-center-in-latest-expansion-in-china)**
+> Google is deepening its push into China as it seeks an edge in one of technology’s most competitive fields: artificial intelligence.
+
+**[Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017)**
+> "In this article I will go through some advancements for NLP in 2017 that rely on DL techniques. I do not pretend to be exhaustive: it would simply be impossible given the vast amount of scientific papers, frameworks and tools available. I just want to share with you some of the works that I liked the most this year. I think 2017 has been a great year for our field. The use of DL in NLP keeps widening, yielding amazing results in some cases, and all signs point to the fact that this trend will not stop."
+
 
 
 
