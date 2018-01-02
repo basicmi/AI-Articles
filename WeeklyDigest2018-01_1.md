@@ -21,3 +21,9 @@
 
 **[The Pentagon’s New Artificial Intelligence Is Already Hunting Terrorists]()**
 > After less than eight months of development, the algorithms are helping intel analysts exploit drone video over the battlefield.
+
+**[The AI chip startup explosion is already here](https://techcrunch.com/2017/12/24/the-ai-chip-startup-explosion-is-already-here/)**
+> This year, an array of startups that are all working on their own variations of hardware that will power future devices built on top of AI received enormous amounts of funding. Some of these startups have nowhere near a massive install base (or have yet to ship a product) but already appear to have no trouble raising financing.
+
+**[Nobody's Ready for the Killer Robot](https://www.bloomberg.com/view/articles/2017-12-30/nobody-s-ready-for-the-killer-robot)**
+> A Q&A with General Robert Latiff on the ethics of warfare in the autonomous future.
