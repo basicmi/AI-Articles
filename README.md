@@ -1,34 +1,40 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-01 \#1
+## Weekly Digest 2018-01 \#2
 
-**[Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)**
-> Great developments in text, voice, and computer vision technologies
+**[10 Alarming Predictions for Deep Learning in 2018](https://medium.com/intuitionmachine/10-fearless-predictions-for-deep-learning-in-2018-bc74a88b11d9)**
+> The incredible breakthroughs we saw in 2017 for Deep Learning is going to carry over in a very powerful way in 2018. A lot of work coming from research will be migrating itself into everyday software applications.
 
-**[A non-comprehensive list of awesome things other people did in 2017]()**
-> Editor’s note: For the last few years I have made a list of awesome things that other people did (2016,2015, 2014, 2013). Like in previous years I’m making a list, again right off the top of my head. 
+**[Ten Predictions For AI Silicon In 2018](https://www.forbes.com/sites/moorinsights/2018/01/05/ten-predictions-for-ai-silicon-in-2018)**
+> 2017 was an exciting year for fans and adopters of AI. As we enter 2018, I wanted to take a look at what lies ahead. One thing is certain: we’ve barely just begun on this journey and there will be great successes and monumental failures in the year to come. Before I dive into the dangerous waters of predictions, it might be helpful to set the stage with some of the highlights and lowlights of AI of 2017. A lot happened this past year so I will try to keep this brief!
 
-**[2017: The Year in Color](https://blog.primer.ai/technology/2017/12/22/2017-The-Year-in-Color.html)**
-> Colors matter. As events unfold around the world, journalists focus our attention on the people, places, and things by creating scenes, much as film directors do. It isn’t just a man waving to a crowd from an airplane. It is a man in a “dark blue suit”, a “crisp white shirt” and a “bold red tie”. It isn’t just a crowd of women marching in the street. It is a sea of “pointy-eared pink hats”.
-> Looking back on 2017, what did our world look like in color? We analyzed over 30 million English-language news documents to find out.
+**[2017 in Review: 10 AI Failures](https://syncedreview.com/2017/12/23/2017-in-review-10-ai-failures/)**
+> "At Synced we are naturally fans of machine intelligence, but we also realize some new techniques struggle to perform their tasks effectively, often blundering in ways that humans would not."
+
+**[Highlights From NIPS 2017 And What It Means For Your AI Education](http://www.intellify.us/highlights-from-nips-2017-and-what-it-means-for-your-ai-education/)**
+>This post targets engineers, AI scientists and the technical audience and aims to give an overview about observed AI and ML trends at NIPS 2017.
+
+**[My Dated Predictions](https://rodneybrooks.com/my-dated-predictions/)**
+> With all new technologies there are predictions of how good it will be for humankind, or how bad it will be. A common thread that I have observed is how people tend to underestimate how long new technologies will take to be adopted after proof of concept demonstrations. I pointed to this as the seventh of seven deadly sins of predicting the future of AI.
+
+**[Deep Learning Sharpens Views of Cells and Genes](https://www.scientificamerican.com/article/deep-learning-sharpens-views-of-cells-and-genes/)**
+> Neural networks are making biological images easier to process
 
 **[Fair and Balanced? Thoughts on Bias in Probabilistic Modeling](https://hackernoon.com/fair-and-balanced-thoughts-on-bias-in-probabilistic-modeling-2ffdbd8a880f)**
 > In recent months and years, the Machine Learning community has conducting a notable amount of soul searching on the question of algorithmic bias: are our algorithms operating in ways that are fundamentally unfair towards specific groups within society?
 
-**[Physical Adversarial Examples Against Deep Neural Networks](http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/)**
-> There have been several techniques proposed to generate adversarial examples and to defend against them. In this blog post we will briefly introduce state-of-the-art algorithms to generate digital adversarial examples, and discuss our algorithm to generate physical adversarial examples on real objects under varying environmental conditions. We will also provide an update on our efforts to generate physical adversarial examples for object detectors.
+**[AI in drug discovery is overhyped: examples from AstraZeneca, Harvard, Stanford and Insilico Medicine](https://medium.com/the-ai-lab/artificial-intelligence-in-drug-discovery-is-overhyped-examples-from-astrazeneca-harvard-315d69a7f863)**
+> Investments in AI for drug discovery are surging. Big Pharmas are throwing big bucks. Sanofi signed a 300 Million dollars deal with the startup Exscientia, and GSK did the same for 42 Million dollars. The Silicon Valley VC firm Andreessen Horowitz launched a new 450 Million dollars bio investment fund, with one focus area in applications of AI to drug discovery.
+> In this craze, lots of pharma/biotech companies and investors wonder whether they should jump on the bandwagon in 2018, or wait and see.
 
-**[Google’s voice-generating AI is now indistinguishable from humans](https://qz.com/1165775/googles-voice-generating-ai-is-now-indistinguishable-from-humans/)**
-> A research paper published by Google this month—which has not been peer reviewed—details a text-to-speech system called Tacotron 2, which claims near-human accuracy at imitating audio of a person speaking from text.
+**[Building AI systems that work is still hard](https://techcrunch.com/2018/01/01/building-ai-systems-that-work-is-still-hard/)**
+> Even with the support of AI frameworks like TensorFlow or OpenAI, artificial intelligence still requires deep knowledge and understanding compared to a mainstream web developer. If you have built a working prototype, you are probably the smartest guy in the room. Congratulations, you are a member of a very exclusive club.
 
-**[The Pentagon’s New Artificial Intelligence Is Already Hunting Terrorists]()**
-> After less than eight months of development, the algorithms are helping intel analysts exploit drone video over the battlefield.
+**[The Robots Are Coming, and Sweden Is Fine](https://www.nytimes.com/2017/12/27/business/the-robots-are-coming-and-sweden-is-fine.html)**
+> In a world full of anxiety about the potential job-destroying rise of automation, Sweden is well placed to embrace technology while limiting human costs.
 
-**[The AI chip startup explosion is already here](https://techcrunch.com/2017/12/24/the-ai-chip-startup-explosion-is-already-here/)**
-> This year, an array of startups that are all working on their own variations of hardware that will power future devices built on top of AI received enormous amounts of funding. Some of these startups have nowhere near a massive install base (or have yet to ship a product) but already appear to have no trouble raising financing.
-
-**[Nobody's Ready for the Killer Robot](https://www.bloomberg.com/view/articles/2017-12-30/nobody-s-ready-for-the-killer-robot)**
-> A Q&A with General Robert Latiff on the ethics of warfare in the autonomous future.
+**[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
+> Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
 
 **[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
 
@@ -69,3 +75,5 @@
 **[Weekly Digest Dec. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-12_2.md)**
 
 **[Weekly Digest Dec. 2017 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-12_3.md)**
+
+**[Weekly Digest Jan. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-01_1.md)**
