@@ -1,37 +1,40 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-01 \#2
+## Weekly Digest 2018-01 \#3
 
-**[10 Alarming Predictions for Deep Learning in 2018](https://medium.com/intuitionmachine/10-fearless-predictions-for-deep-learning-in-2018-bc74a88b11d9)**
-> The incredible breakthroughs we saw in 2017 for Deep Learning is going to carry over in a very powerful way in 2018. A lot of work coming from research will be migrating itself into everyday software applications.
+**[What an AI ethics expert thinks of 'Black Mirror' Season 4](http://mashable.com/2018/01/12/black-mirror-ai-ethics-opinion)**
+> The best Black Mirror episodes don't just leave you wondering whether these futures could happen. They force you to consider what it would mean if they did.
 
-**[Ten Predictions For AI Silicon In 2018](https://www.forbes.com/sites/moorinsights/2018/01/05/ten-predictions-for-ai-silicon-in-2018)**
-> 2017 was an exciting year for fans and adopters of AI. As we enter 2018, I wanted to take a look at what lies ahead. One thing is certain: we’ve barely just begun on this journey and there will be great successes and monumental failures in the year to come. Before I dive into the dangerous waters of predictions, it might be helpful to set the stage with some of the highlights and lowlights of AI of 2017. A lot happened this past year so I will try to keep this brief!
+**[People Don't Trust AI--Here's How We Can Change That](https://www.scientificamerican.com/article/people-dont-trust-ai-heres-how-we-can-change-that/)**
+> Start by understanding why people are so reluctant to trust AI in the first place
 
-**[2017 in Review: 10 AI Failures](https://syncedreview.com/2017/12/23/2017-in-review-10-ai-failures/)**
-> "At Synced we are naturally fans of machine intelligence, but we also realize some new techniques struggle to perform their tasks effectively, often blundering in ways that humans would not."
+**[Irrational AI-nxiety](http://quillette.com/2017/12/14/irrational-ai-nxiety/)**
+> Very smart people tell us to be very worried about AI. But very smart people can also be very wrong and their paranoia is a form of cognitive bias owed to our evolved psychology. Concerns over the potential harm of new technologies are often sensible, but they should be grounded in fact, not flights of fearful fancy. Fortunately, at the moment, there is little cause for alarm.
 
-**[Highlights From NIPS 2017 And What It Means For Your AI Education](http://www.intellify.us/highlights-from-nips-2017-and-what-it-means-for-your-ai-education/)**
->This post targets engineers, AI scientists and the technical audience and aims to give an overview about observed AI and ML trends at NIPS 2017.
+**[FDA Approves Crisis-Predicting Algorithm to Save Hospital Patients From Early Death](https://gizmodo.com/fda-approves-crisis-predicting-algorithm-to-save-hospit-1821909769)**
+> The FDA has approved a new clinical platform for hospital staff that uses an algorithm to predict and prevent sudden patient death, makers Excel Medical announced Monday. Called the WAVE Clinical Platform, the system monitors patient vitals and sends alerts to connected smart devices up to six hours before patient suffers a potentially fatal heart attack or respiratory failure. This is the first such algorithm to receive FDA approval.
 
-**[My Dated Predictions](https://rodneybrooks.com/my-dated-predictions/)**
-> With all new technologies there are predictions of how good it will be for humankind, or how bad it will be. A common thread that I have observed is how people tend to underestimate how long new technologies will take to be adopted after proof of concept demonstrations. I pointed to this as the seventh of seven deadly sins of predicting the future of AI.
+**[Machine Learning’s Growing Divide](https://semiengineering.com/machine-learnings-growing-divide/)**
+> Is the industry heading toward another hardware/software divide in machine learning? Both sides have different objectives.
 
-**[Deep Learning Sharpens Views of Cells and Genes](https://www.scientificamerican.com/article/deep-learning-sharpens-views-of-cells-and-genes/)**
-> Neural networks are making biological images easier to process
+**[High Bandwidth Memory: The Great Awakening of AI](http://www.electronicdesign.com/industrial-automation/high-bandwidth-memory-great-awakening-ai)**
+> We’re entering a historic new era in artificial intelligence, driven by advances in deep learning, and HBM is critical to making it all happen.
 
-**[Fair and Balanced? Thoughts on Bias in Probabilistic Modeling](https://hackernoon.com/fair-and-balanced-thoughts-on-bias-in-probabilistic-modeling-2ffdbd8a880f)**
-> In recent months and years, the Machine Learning community has conducting a notable amount of soul searching on the question of algorithmic bias: are our algorithms operating in ways that are fundamentally unfair towards specific groups within society?
+**[Intel Unveils Prototype Neuromorphic Chip for AI on the Edge](https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-on-edge/92842399058097)**
+> At CES 2018 Intel unveiled a prototype chip, Loihi, that mimics the architecture of the human brain for adaptable AI processing on the edge.
 
-**[AI in drug discovery is overhyped: examples from AstraZeneca, Harvard, Stanford and Insilico Medicine](https://medium.com/the-ai-lab/artificial-intelligence-in-drug-discovery-is-overhyped-examples-from-astrazeneca-harvard-315d69a7f863)**
-> Investments in AI for drug discovery are surging. Big Pharmas are throwing big bucks. Sanofi signed a 300 Million dollars deal with the startup Exscientia, and GSK did the same for 42 Million dollars. The Silicon Valley VC firm Andreessen Horowitz launched a new 450 Million dollars bio investment fund, with one focus area in applications of AI to drug discovery.
-> In this craze, lots of pharma/biotech companies and investors wonder whether they should jump on the bandwagon in 2018, or wait and see.
+**[Japanese scientists just used AI to read minds and it's amazing](https://www.cnbc.com/2018/01/08/japanese-scientists-use-artificial-intelligence-to-decode-thoughts.html)**
+> Imagine a reality where computers can visualize what you are thinking.
+> Sound far out? It's now closer to becoming a reality thanks to four scientists at Kyoto University in Kyoto, Japan. In late December, Guohua Shen, Tomoyasu Horikawa, Kei Majima and Yukiyasu Kamitani [released the results of their recent research](https://www.biorxiv.org/content/biorxiv/early/2017/12/30/240317.full.pdf) on using artificial intelligence to decode thoughts on the scientific platform, [BioRxiv](https://www.biorxiv.org/).
 
-**[Building AI systems that work is still hard](https://techcrunch.com/2018/01/01/building-ai-systems-that-work-is-still-hard/)**
-> Even with the support of AI frameworks like TensorFlow or OpenAI, artificial intelligence still requires deep knowledge and understanding compared to a mainstream web developer. If you have built a working prototype, you are probably the smartest guy in the room. Congratulations, you are a member of a very exclusive club.
+**[This Army of AI Robots Will Feed the World](https://www.bloomberg.com/news/features/2018-01-11/this-army-of-ai-robots-will-feed-the-world)**
+> And it could do it while eliminating herbicides, replenishing topsoil, and reducing carbon consumption. If all goes to plan.
 
-**[The Robots Are Coming, and Sweden Is Fine](https://www.nytimes.com/2017/12/27/business/the-robots-are-coming-and-sweden-is-fine.html)**
-> In a world full of anxiety about the potential job-destroying rise of automation, Sweden is well placed to embrace technology while limiting human costs.
+**[Big Data Works Only for Those Who Hype It](https://www.bloomberg.com/view/articles/2018-01-05/big-data-works-only-for-those-who-hype-it)**
+> The EU's antitrust watchdog is launching a new crusade. It's a bit premature.
+
+**[What We Learned Driving an Autonomous Vehicle for 24 Hours Straight](https://medium.com/@drive.ai/what-we-learned-driving-an-autonomous-vehicle-for-24-hours-straight-587defe151bd)**
+> Last month, we ran a 24-hour endurance event with the goal to see what it takes to achieve maximum autonomous vehicle uptime on a small scale. We had already driven at all times of day and in all kinds of conditions, but we wanted to further explore what it takes to run an autonomous fleet at maximum capacity. We called it the Drive-a-thon, and here’s how it went and what we learned.
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
