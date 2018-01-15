@@ -11,6 +11,9 @@
 **[Irrational AI-nxiety](http://quillette.com/2017/12/14/irrational-ai-nxiety/)**
 > Very smart people tell us to be very worried about AI. But very smart people can also be very wrong and their paranoia is a form of cognitive bias owed to our evolved psychology. Concerns over the potential harm of new technologies are often sensible, but they should be grounded in fact, not flights of fearful fancy. Fortunately, at the moment, there is little cause for alarm.
 
+**[30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)**
+> For the past year, we’ve compared nearly 8,800 open source Machine Learning projects to pick Top 30 (0.3% chance).
+
 **[FDA Approves Crisis-Predicting Algorithm to Save Hospital Patients From Early Death](https://gizmodo.com/fda-approves-crisis-predicting-algorithm-to-save-hospit-1821909769)**
 > The FDA has approved a new clinical platform for hospital staff that uses an algorithm to predict and prevent sudden patient death, makers Excel Medical announced Monday. Called the WAVE Clinical Platform, the system monitors patient vitals and sends alerts to connected smart devices up to six hours before patient suffers a potentially fatal heart attack or respiratory failure. This is the first such algorithm to receive FDA approval.
 
