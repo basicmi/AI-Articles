@@ -9,6 +9,9 @@
 **[High Bandwidth Memory: The Great Awakening of AI](http://www.electronicdesign.com/industrial-automation/high-bandwidth-memory-great-awakening-ai)**
 > We’re entering a historic new era in artificial intelligence, driven by advances in deep learning, and HBM is critical to making it all happen.
 
+**[30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)**
+> For the past year, we’ve compared nearly 8,800 open source Machine Learning projects to pick Top 30 (0.3% chance).
+
 **[Japanese scientists just used AI to read minds and it's amazing](https://www.cnbc.com/2018/01/08/japanese-scientists-use-artificial-intelligence-to-decode-thoughts.html)**
 > Imagine a reality where computers can visualize what you are thinking.
 > Sound far out? It's now closer to becoming a reality thanks to four scientists at Kyoto University in Kyoto, Japan. In late December, Guohua Shen, Tomoyasu Horikawa, Kei Majima and Yukiyasu Kamitani [released the results of their recent research](https://www.biorxiv.org/content/biorxiv/early/2017/12/30/240317.full.pdf) on using artificial intelligence to decode thoughts on the scientific platform, [BioRxiv](https://www.biorxiv.org/).
