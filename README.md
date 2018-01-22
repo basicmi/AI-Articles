@@ -1,43 +1,50 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-01 \#3
+## Weekly Digest 2018-01 \#4
 
-**[What an AI ethics expert thinks of 'Black Mirror' Season 4](http://mashable.com/2018/01/12/black-mirror-ai-ethics-opinion)**
-> The best Black Mirror episodes don't just leave you wondering whether these futures could happen. They force you to consider what it would mean if they did.
+**[The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)**
+**[The Google Brain Team — Looking Back on 2017 (Part 2 of 2)](https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on_12.html)**
+> The [Google Brain team](https://g.co/brain) works to advance the state of the art in artificial intelligence by research and systems engineering, as one part of the overall [Google AI](https://ai.google/) effort. Last year we [shared](https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html) a summary of our work in 2016. Since then, we’ve continued to make progress on our long-term research agenda of making machines intelligent, and have collaborated with a number of teams across [Google](https://research.google.com/) and [Alphabet](https://abc.xyz/) to use the results of our research to improve people’s lives. This first of two posts will highlight some of our work in 2017, including some of our basic research work, as well as updates on open source software, datasets, and new hardware for [machine learning](https://en.wikipedia.org/wiki/Machine_learning). In the second post we’ll dive into the research we do in specific domains where machine learning can have a large impact, such as healthcare, robotics, and some areas of basic science, as well as cover our work on creativity, fairness and inclusion and tell you a bit more about who we are.
 
-**[People Don't Trust AI--Here's How We Can Change That](https://www.scientificamerican.com/article/people-dont-trust-ai-heres-how-we-can-change-that/)**
-> Start by understanding why people are so reluctant to trust AI in the first place
+**[Cloud AutoML: Making AI accessible to every business](https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/)**
+> [Cloud AutoML](https://cloud.google.com/automl/) helps businesses with limited ML expertise start building their own high-quality custom models by using advanced techniques like [learning2learn](https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video314918.html) and [transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) from Google. We believe Cloud AutoML will make AI experts even more productive, advance new fields in AI and help less-skilled engineers build powerful AI systems they previously only dreamed of.
 
-**[Irrational AI-nxiety](http://quillette.com/2017/12/14/irrational-ai-nxiety/)**
-> Very smart people tell us to be very worried about AI. But very smart people can also be very wrong and their paranoia is a form of cognitive bias owed to our evolved psychology. Concerns over the potential harm of new technologies are often sensible, but they should be grounded in fact, not flights of fearful fancy. Fortunately, at the moment, there is little cause for alarm.
+**[Alexa, What Are You Doing with My Family's Personal Info?](https://www.scientificamerican.com/article/alexa-what-are-you-doing-with-my-familys-personal-info/)**
+> Amazon Alexa, Google Assistant and several smart-home technologies that debuted at last week’s CES add convenience but also raise privacy concerns
 
-**[30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)**
-> For the past year, we’ve compared nearly 8,800 open source Machine Learning projects to pick Top 30 (0.3% chance).
+**[No, machines can’t read better than humans](https://www.theverge.com/2018/1/17/16900292/ai-reading-comprehension-machines-humans)**
+> Headlines have claimed AIs outperform humans at ‘reading comprehension,’ but in reality they’ve got a long way to go
 
-**[FDA Approves Crisis-Predicting Algorithm to Save Hospital Patients From Early Death](https://gizmodo.com/fda-approves-crisis-predicting-algorithm-to-save-hospit-1821909769)**
-> The FDA has approved a new clinical platform for hospital staff that uses an algorithm to predict and prevent sudden patient death, makers Excel Medical announced Monday. Called the WAVE Clinical Platform, the system monitors patient vitals and sends alerts to connected smart devices up to six hours before patient suffers a potentially fatal heart attack or respiratory failure. This is the first such algorithm to receive FDA approval.
+**[How to Design Social Systems (Without Causing Depression and War)](https://medium.com/what-to-build/how-to-design-social-systems-without-causing-depression-and-war-3c3f8e0226d1)**
+> "In my [note to Mark Zuckerberg](https://medium.com/what-to-build/dear-zuck-fd25ecb1aa5a) (which you probably want to read first), I urged his team and other technologists to reimagine their products as “practice spaces” — virtual places where people practice the kinds of acts and relationships they find meaningful."
 
-**[Machine Learning’s Growing Divide](https://semiengineering.com/machine-learnings-growing-divide/)**
-> Is the industry heading toward another hardware/software divide in machine learning? Both sides have different objectives.
+**[Getting Started with TensorFlow: A Machine Learning Tutorial](https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial)**
+> TensorFlow is an open source software library created by Google that is used to implement machine learning and deep learning systems. These two names contain a series of powerful algorithms that share a common challenge—to allow a computer to learn how to automatically spot complex patterns and/or to make best possible decisions.
+> If you’re interested in details about these systems, you can learn more from the Toptal blog posts on [machine learning](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer) and [deep learning](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks).
 
-**[High Bandwidth Memory: The Great Awakening of AI](http://www.electronicdesign.com/industrial-automation/high-bandwidth-memory-great-awakening-ai)**
-> We’re entering a historic new era in artificial intelligence, driven by advances in deep learning, and HBM is critical to making it all happen.
+**[In defense of skepticism about deep learning](https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1)**
+> "In a recent appraisal of deep learning (Marcus, 2018) I outlined ten challenges for deep learning, and suggested that deep learning by itself, although useful, was unlikely to lead on its own to artificial general intelligence. I suggested instead the deep learning be viewed “not as a universal solvent, but simply as one tool among many.”"
 
-**[Intel Unveils Prototype Neuromorphic Chip for AI on the Edge](https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-on-edge/92842399058097)**
-> At CES 2018 Intel unveiled a prototype chip, Loihi, that mimics the architecture of the human brain for adaptable AI processing on the edge.
+**[Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)**
+> Reinforcement Learning (RL) refers to a kind of Machine Learning method in which the agent receives a delayed reward in the next time step to evaluate its previous action. It was mostly used in games (e.g. Atari, Mario), with performance on par with or even exceeding humans. Recently, as the algorithm evolves with the combination of Neural Networks, it is capable of solving more complex tasks, such as the pendulum problem:
 
-**[Japanese scientists just used AI to read minds and it's amazing](https://www.cnbc.com/2018/01/08/japanese-scientists-use-artificial-intelligence-to-decode-thoughts.html)**
-> Imagine a reality where computers can visualize what you are thinking.
-> Sound far out? It's now closer to becoming a reality thanks to four scientists at Kyoto University in Kyoto, Japan. In late December, Guohua Shen, Tomoyasu Horikawa, Kei Majima and Yukiyasu Kamitani [released the results of their recent research](https://www.biorxiv.org/content/biorxiv/early/2017/12/30/240317.full.pdf) on using artificial intelligence to decode thoughts on the scientific platform, [BioRxiv](https://www.biorxiv.org/).
+**[I trained fake news detection AI with >95% accuracy, and almost went crazy](https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c)**
+>  We made a fake news detector with above a 95% accuracy (on a validation set) that uses machine learning and Natural Language Processing that you can download [here](https://goo.gl/2cvBmp). In the real world, the accuracy might be lower, especially as time goes on and the way articles are written changes.
 
-**[This Army of AI Robots Will Feed the World](https://www.bloomberg.com/news/features/2018-01-11/this-army-of-ai-robots-will-feed-the-world)**
-> And it could do it while eliminating herbicides, replenishing topsoil, and reducing carbon consumption. If all goes to plan.
+**[The light and dark of AI-powered smartphones](https://techcrunch.com/2018/01/06/the-light-and-dark-of-ai-powered-smartphones)**
+> Analyst Gartner put out a [10-strong listicle](https://www.gartner.com/document/3840591) this week identifying what it dubbed “high-impact” uses for AI-powered features on smartphones that it suggests will enable device vendors to provide “more value” to customers via the medium of “more advanced” user experiences.
 
-**[Big Data Works Only for Those Who Hype It](https://www.bloomberg.com/view/articles/2018-01-05/big-data-works-only-for-those-who-hype-it)**
-> The EU's antitrust watchdog is launching a new crusade. It's a bit premature.
+**[What AI can and can’t do (yet) for your business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business)**
+> Artificial intelligence is a moving target. Here’s how to take better aim.
 
-**[What We Learned Driving an Autonomous Vehicle for 24 Hours Straight](https://medium.com/@drive.ai/what-we-learned-driving-an-autonomous-vehicle-for-24-hours-straight-587defe151bd)**
-> Last month, we ran a 24-hour endurance event with the goal to see what it takes to achieve maximum autonomous vehicle uptime on a small scale. We had already driven at all times of day and in all kinds of conditions, but we wanted to further explore what it takes to run an autonomous fleet at maximum capacity. We called it the Drive-a-thon, and here’s how it went and what we learned.
+**[Best of CES 2018: The one company vital to gaming, self-driving cars, and AI](https://qz.com/1179116/best-of-ces-2018-nvidias-chips-googles-thirst-razers-project-linda-riding-modobag)**
+> Quartz’s time at the Consumer Electronics Show in Las Vegas has come to a close, and we’ve reflected on a week of being inundated with gadgets, technology, and pitches.
+
+**[Optimizing Mobile Deep Learning on ARM GPU with TVM](http://tvmlang.org/2018/01/16/opt-mali-gpu.html)**
+> TVM addresses the difficulty of deploying for different hardwares by introducing an unified IR stack, with which the optimization for different hardwares can be done easily. In this post, we show how we use [TVM](http://tvmlang.org/2017/08/17/tvm-release-announcement.html)/[NNVM](http://tvmlang.org/2017/10/06/nnvm-compiler-announcement.html) to generate efficient kernels for ARM Mali GPU and do end-to-end compilation. In our test on Mali-T860 MP4, compared with [Arm Compute Library](https://developer.arm.com/technologies/compute-library), our method is 1.4x faster on VGG-16 and 2.2x faster on MobileNet. Both graph-level and operator-level optimization contribute to this speed up.
+
+**[My Journey Into Data Science and Bio-Informatics — Part 1: Programming](https://towardsdatascience.com/my-journey-into-data-science-and-bio-informatics-749ece4d8860)**
+> “Algorithms are the new drugs, and doctors the new technology prescribers.” — Hugh Harvey, radiologist
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
@@ -83,3 +90,7 @@
 **[Weekly Digest Dec. 2017 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-12_3.md)**
 
 **[Weekly Digest Jan. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-01_1.md)**
+
+**[Weekly Digest Jan. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-01_2.md)**
+
+**[Weekly Digest Jan. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-01_3.md)**
