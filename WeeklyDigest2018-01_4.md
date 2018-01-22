@@ -1,4 +1,4 @@
-## Weekly Digest 2018-01 \#3
+## Weekly Digest 2018-01 \#4
 
 **[The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)**
 **[The Google Brain Team — Looking Back on 2017 (Part 2 of 2)](https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on_12.html)**
