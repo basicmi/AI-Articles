@@ -6,6 +6,9 @@
 **[The head of Facebook’s AI research is stepping into a new role as it shakes up management](https://qz.com/1186806/yann-lecun-is-stepping-down-as-facebooks-head-of-ai-research/)**
 > Facebook has replaced the man Mark Zuckerberg recruited to run its artificial intelligence research, filling the role with an outsider who will take a bigger role at the company as it puts more AI into its News Feed and other products.
 
+**[Facebook: Detectron](https://github.com/facebookresearch/Detectron)**
+> Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework.
+
 **[China wants to make the chips that will add AI to any gadget](https://www.technologyreview.com/s/609954/china-wants-to-make-the-chips-that-will-add-ai-to-any-gadget/)**
 > The AI boom offers Chinese chipmakers a chance to catch up after years of lagging behind.
 
