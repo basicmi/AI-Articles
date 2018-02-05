@@ -1,51 +1,50 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-01 \#5
+## Weekly Digest 2018-02 \#1
 
-**[ARTIFICIAL INTELLIGENCE IS GOING TO SUPERCHARGE SURVEILLANCE](https://www.theverge.com/2018/1/23/16907238/artificial-intelligence-surveillance-cameras-security)**
-> What happens when digital eyes get the brains to match?
 
-**[The head of Facebook’s AI research is stepping into a new role as it shakes up management](https://qz.com/1186806/yann-lecun-is-stepping-down-as-facebooks-head-of-ai-research/)**
-> Facebook has replaced the man Mark Zuckerberg recruited to run its artificial intelligence research, filling the role with an outsider who will take a bigger role at the company as it puts more AI into its News Feed and other products.
 
-**[Facebook: Detectron](https://github.com/facebookresearch/Detectron)**
-> Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework.
+**[INSIDE AMAZON'S ARTIFICIAL INTELLIGENCE FLYWHEEL](https://www.wired.com/story/amazon-artificial-intelligence-flywheel)**
+> Alexa, how is Amazon doing in AI?
 
-**[China wants to make the chips that will add AI to any gadget](https://www.technologyreview.com/s/609954/china-wants-to-make-the-chips-that-will-add-ai-to-any-gadget/)**
-> The AI boom offers Chinese chipmakers a chance to catch up after years of lagging behind.
+**[THE WIRED GUIDE TO ARTIFICIAL INTELLIGENCE](https://www.wired.com/story/guide-artificial-intelligence/)**
+> Supersmart algorithms won't take all the jobs, but they are learning faster than ever, doing everything from medical diagnostics to serving up ads.
 
-**[Engineers design artificial synapse for “brain-on-a-chip” hardware](http://news.mit.edu/2018/engineers-design-artificial-synapse-brain-on-a-chip-hardware-0122?utm_campaign=Revue%20newsletter)**
-> Design is major stepping stone toward portable artificial-intelligence devices.
+**[GREEDY, BRITTLE, OPAQUE, AND SHALLOW: THE DOWNSIDES TO DEEP LEARNING](https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/)**
+> We've been promised a revolution in how and why nearly everything happens. But the limits of modern artificial intelligence are closer than we think.
 
-**[Announcing TensorFlow 1.5](https://developers.googleblog.com/2018/01/announcing-tensorflow-15.html)**
-> First off, Eager Execution for TensorFlow is now available as a preview. 
+**[Are Autonomous Cars Really Safer than Human Drivers?](https://www.scientificamerican.com/article/are-autonomous-cars-really-safer-than-human-drivers/)**
+> Most comparisons between human drivers and automated vehicles have been at best uneven, and at worst, unfair
 
-**[The UX of AI](https://design.google/library/ux-ai/)**
-> Using Google Clips to understand how a human-centered design process elevates artificial intelligence.
+**[MIT is aiming for AI moonshots with Intelligence Quest](https://techcrunch.com/2018/02/01/mit-is-aiming-for-ai-moonshots-with-intelligence-quest/)**
+> This week, the school announced the launch of the [MIT Intelligence Quest](http://news.mit.edu/2018/mit-launches-intelligence-quest-0201), an initiative aimed at leveraging its AI research into something it believes could be game-changing for the category. The school has divided its plan into two distinct categories: “The Core” and “The Bridge.”
 
-**[Open-sourcing Psychlab](https://deepmind.com/blog/open-sourcing-psychlab/)**
-> DeepMind: Consider the simple task of going shopping for your groceries. If you fail to pick-up an item that is on your list, what does it tell us about the functioning of your brain? It might indicate that you have difficulty shifting your attention from object to object while searching for the item on your list. It might indicate a difficulty with remembering the grocery list. Or it could it be something to do with executing both skills simultaneously.
+**[More efficient machine learning could upend the AI paradigm](https://www.technologyreview.com/s/610095/more-efficient-machine-learning-could-upend-the-ai-paradigm/)**
+> Smaller algorithms that don’t need mountains of data to train are coming.
 
-**[Spiking Neural Networks, the Next Generation of Machine Learning](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b)**
-> Everyone who has been remotely tuned in to recent progress in machine learning has heard of the current 2nd generation artificial neural networks used for machine learning. These are generally fully connected, take in continuous values, and output continuous values. Although they have allowed us to make breakthrough progress in many fields, they are biologically inn-accurate and do not actually mimic the actual mechanisms of our brain’s neurons.
+**[Is There a Trade-off Between Immediate and Longer-term AI Safety Efforts?](https://futureoflife.org/2018/01/29/trade-off-immediate-longer-term-ai-safety-efforts/)**
+> Something I often hear in the machine learning community and media articles is “Worries about superintelligence are a distraction from the *real* problem X that we are facing today with AI” (where X = algorithmic bias, technological unemployment, interpretability, data privacy, etc). This competitive attitude gives the impression that immediate and longer-term safety concerns are in conflict. But is there actually a tradeoff between them?
 
-**[How to Hack an Intelligent Machine](https://www.scientificamerican.com/article/how-to-hack-an-intelligent-machine/)**
-> AI scientists try to trick smart systems into making dumb gaffes.
+**[Amazon Wants to Disrupt Health Care in America. In China, Tech Giants Already Have.](https://www.nytimes.com/2018/01/31/technology/amazon-china-health-care-ai.html)**
+> Amazon and two other American titans are trying to shake up health care by experimenting with their own employees’ coverage. By Chinese standards, they’re behind the curve.
+> Technology companies like Alibaba and Tencent have made health care a priority for years, and are using China as their laboratory. After testing online medical advice and drug tracking systems, they are now focused on a more advanced tool: artificial intelligence.
 
-**[Common Misconceptions Executives Have About AI](https://thinkgrowth.org/common-misconceptions-executives-have-about-ai-a4bee8f0de87)**
-> The message to executives is clear: it’s time to understand and leverage trends in automation and artificial intelligence.
+**[The Shallowness of Google Translate](https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/)**
+> The program uses state-of-the-art AI techniques, but simple tests show that it's a long way from real understanding.
 
-**[Could the Limits of Physics Soon Affect Cognitive Computing?](https://www.rtinsights.com/could-the-limits-of-physics-soon-affect-cognitive-computing/)**
-> Cognitive computing needs will constantly tax current computing power levels. Will this barrier keep us from delivering on its promise in the coming years?
+**[SELF-DRIVING CARS HAVE A SECRET WEAPON: REMOTE CONTROL](https://www.wired.com/story/phantom-teleops)**
 
-**[Superconducting Synapse Could Let Neuromorphic Chips Beat Brain’s Energy Efficiency]()**
->Scientists at the [U.S. National Institute of Standards and Technology](https://www.nist.gov/), in Boulder, Colo., have developed a superconducting device that acts like a hyperefficient version of a human synapse.
+**[Optimization over Explanation](https://medium.com/berkman-klein-center/optimization-over-explanation-41ecb135763d)**
+> DON’T MAKE AI ARTIFICIALLY STUPID IN THE NAME OF TRANSPARENCY
 
-**[Introducing RLlib: A composable and scalable reinforcement learning library](https://www.oreilly.com/ideas/introducing-rllib-a-composable-and-scalable-reinforcement-learning-library)**
-> RISE Lab’s Ray platform adds libraries for reinforcement learning and hyperparameter tuning.
+**[Lessons from Optics, The Other Deep Learning](http://www.argmin.net/2018/01/25/optics/)**
+> A small group of colleagues and I have started a massive empirical effort to catalogue mental models that are ambient in our field, to formalize them, and to then validate them with experiments. It’s a lot of work. I think it’s the first step to developing a layered mental model of deep learning that you could teach in high schools.
 
-**[Tutorial: Implement Object Recognition on Live Stream](https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc)**
-> The solution is built with TensorFlow, a handy and flexible computing system
+**[Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)**
+> In this tutorial, you will learn how to train and test an end-to-end deep learning model for autonomous driving using data collected from the [AirSim simulation environment](https://github.com/Microsoft/AirSim). You will train a model to learn how to steer a car through a portion of the Mountain/Landscape map in AirSim using a single front facing webcam for visual input. Such a task is usually considered the "hello world" of autonomous driving, but after finishing this tutorial you will have enough background to start exploring new ideas on your own. Through the length of this tutorial, you will also learn some practical aspects and nuances of working with end-to-end deep learning methods.
+
+**[The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)**
+> This paper is an attempt to explain all the matrix calculus you need in order to understand the training of deep neural networks. 
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
