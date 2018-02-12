@@ -27,7 +27,7 @@
 **[Experts say AI isn't quite fire or the wheel — yet]()**
 > [Some researchers](https://medium.com/@Synced/artificial-intelligence-is-the-new-electricity-andrew-ng-cc132ea6264) and [business leaders](http://money.cnn.com/2018/01/24/technology/sundar-pichai-google-ai-artificial-intelligence/index.html) are putting artificial intelligence — in its current and aspirational forms — on the same pedestal of human invention and innovation as fire, electricity and the light bulb. But other experts say we will not know for a long time whether AI will ever merit such lofty imagery.
 
-**(Can Computers Learn Like Humans?)[https://www.npr.org/sections/alltechconsidered/2018/02/05/583321707/can-computers-learn-like-humans]**
+**[Can Computers Learn Like Humans?](https://www.npr.org/sections/alltechconsidered/2018/02/05/583321707/can-computers-learn-like-humans)**
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
