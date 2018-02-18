@@ -29,3 +29,6 @@
 
 **[Neural networks everywhere](http://news.mit.edu/2018/chip-neural-networks-battery-powered-devices-0214)**
 > New chip reduces neural networks’ power consumption by up to 95 percent, making them practical for battery-powered devices.
+
+**[Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)**
+> "In this post, I’m going to argue that training Reinforcement Learning agents to trade in the financial (and cryptocurrency) markets can be an extremely interesting research problem. I believe that it has not received enough attention from the research community but has the potential to push the state-of-the art of many related fields. It is quite similar to training agents for multiplayer games such as DotA, and many of the same research problems carry over. Knowing virtually nothing about trading, I have spent the past few months working on a project in this field."
