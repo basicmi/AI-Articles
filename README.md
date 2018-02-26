@@ -1,39 +1,51 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-02 \#3
+## Weekly Digest 2018-02 \#4
 
-**[Cloud TPU machine learning accelerators now available in beta](https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html)**
-> Starting February 12, 2018, [Cloud TPUs](https://cloud.google.com/tpu/) are available in beta on [Google Cloud Platform](https://cloud.google.com/) (GCP) to help machine learning (ML) experts train and run their ML models more quickly.
+**[Why even a moth’s brain is smarter than an AI](https://www.technologyreview.com/s/610278/why-even-a-moths-brain-is-smarter-than-an-ai/)**
+> A neural network that simulates the way moths recognize odors also shows how they learn so much faster than machines.
 
-**[Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)**
-> This mostly cites papers from Berkeley, Google Brain, DeepMind, and OpenAI from the past few years, because that work is most visible to me. I’m almost certainly missing stuff from older literature and other institutions, and for that I apologize - I’m just one guy, after all.
+**[Deep Learning, Structure and Innate Priors](http://www.abigailsee.com/2018/02/21/deep-learning-structure-and-innate-priors.html)**
+> A Discussion between Yann LeCun and Christopher Manning
 
-**[ARM Announces Project Trillium Machine Learning IP](https://www.anandtech.com/show/12427/arm-announces-trillium-machine-learning-ip)**
-> Arm announcement is a bit out of the norm for the company, as it’s the first in a series of staggered releases of information. For this first announcement Arm is publicly unveiling “[Project Trillium](https://developer.arm.com/products/processors/machine-learning)” – a group of software solutions as well IP for object detection and machine learning. 
+**[Roundup Of Machine Learning Forecasts And Market Estimates, 2018](https://www.forbes.com/sites/louiscolumbus/2018/02/18/roundup-of-machine-learning-forecasts-and-market-estimates-2018/)**
+> 
 
-**[With Strategic Zaps to the Brain, Scientists Boost Memory](http://abstractions.nautil.us/article/286/with-strategic-zaps-to-the-brain-scientists-boost-memory)**
-> Stimulating part of the cortex as needed during learning tasks improves later recall. The finding reveals more about the brain’s memory network and points toward possible therapies.
+**[Qualcomm Artificial Intelligence Engine Powers AI Capabilities of Snapdragon Mobile Platform](https://www.qualcomm.com/news/releases/2018/02/21/qualcomm-artificial-intelligence-engine-powers-ai-capabilities-snapdragon)**
+> its Qualcomm Artificial Intelligence (AI) Engine, which is comprised of several hardware and software components to accelerate on-device AI-enabled user experiences on select Qualcomm® Snapdragon™ mobile platforms. The AI Engine will be supported on Snapdragon 845, 835, 821, 820 and 660 mobile platforms, with cutting-edge on-device AI processing found in the Snapdragon 845.
 
-**[The Birth of AI and The First AI Hype Cycle](https://www.kdnuggets.com/2018/02/birth-ai-first-hype-cycle.html)**
-> A dazzling review of AI History, from Alan Turing and Turing Test, to Simon and Newell and Logic Theorist, to Marvin Minsky and Perceptron, birth of Rule-based systems and Machine Learning, Eliza - first chatbot, Robotics, and the bust which led to first AI Winter.
+**[AI: the Ziggy Stardust Syndrome](http://www.roughtype.com/?p=8325)**
+> In his [Wall Street Journal column](https://www.wsj.com/articles/intelligent-life-elsewhere-maybe-its-hiding-1518708957) this weekend, Nobel laureate Frank Wilczek offers a fascinating theory as to why we haven’t been able to find signs of intelligent life elsewhere in the universe. Maybe, he suggests, intelligent beings are fated to shrink as their intelligence expands. Once the singularity happens, AI implodes into invisibility.
 
-**[Amazon Is Becoming an AI Chip Maker, Speeding Alexa Responses](https://www.theinformation.com/articles/amazon-is-becoming-an-ai-chip-maker-speeding-alexa-responses)**
-> Amazon.com is developing a chip designed for artificial intelligence to work on the Echo and other hardware powered by Amazon’s Alexa virtual assistant, says a person familiar with Amazon’s plans. The chip should allow Alexa-powered devices to respond more quickly to commands, by allowing more data processing to be handled on the device than in the cloud.
+**[The GANfather: The man who’s given machines the gift of imagination](https://www.technologyreview.com/s/610253/the-ganfather-the-man-whos-given-machines-the-gift-of-imagination/)**
+> By pitting neural networks against one another, Ian Goodfellow has created a powerful AI tool. Now he, and the rest of us, must face the consequences.
 
-**[China’s Fourth Industrial Revolution: Artificial Intelligence](https://www.thecipherbrief.com/chinas-fourth-industrial-revolution-artificial-intelligence)**
-> China’s nationwide pursuit to become the world leader in artificial intelligence (AI) is an attempt to not only match U.S. economic power, but to bypass it geo-strategically.
+**[VISUALIZING DEEP LEARNING MODELS AT FACEBOOK](https://mlatgt.blog/2018/02/16/visualizing-deep-learning-models-at-facebook/)**
+> This post summarizes the [latest joint research between researchers at Georgia Tech and  Facebook](http://minsuk.com/research/activis/) on using visualization to make sense of deep learning models, published at IEEE VIS’17, a top visualization conference.
 
-**[Inverse Reinforcement Learning pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)**
-> In this blog post series we will take a closer look at inverse reinforcement learning (IRL) which is the field of learning an agent's objectives, values, or rewards by observing its behavior. For example, we might observe the behavior of a human in some specific task and learn which states of the environment the human is trying to achieve and what the concrete goals might be.
+**['Memtransistor' Forms Foundational Circuit Element to Neuromorphic Computing](https://spectrum.ieee.org/nanoclast/semiconductors/devices/memtransistor-forms-foundational-circuit-element-to-neuromorphic-computing)**
+> Combining characteristics of a memristor with a transistor mimics the multiple synapses of neurons
 
-**[The Terrifying Future of Fake News.](https://www.buzzfeed.com/charliewarzel/the-terrifying-future-of-fake-news)**
-> He Predicted The 2016 Fake News Crisis. Now He's Worried About An Information Apocalypse.
+**[Deep learning for biology](https://www.nature.com/articles/d41586-018-02174-z)**
+> A popular artificial-intelligence method provides a powerful tool for surveying and classifying biological data. But for the uninitiated, the technology poses significant difficulties.
 
-**[Neural networks everywhere](http://news.mit.edu/2018/chip-neural-networks-battery-powered-devices-0214)**
-> New chip reduces neural networks’ power consumption by up to 95 percent, making them practical for battery-powered devices.
+**[Preparing for Malicious Uses of AI](https://blog.openai.com/preparing-for-malicious-uses-of-ai/)**
+> We’ve co-authored a paper that forecasts how malicious actors could misuse AI technology, and potential ways we can prevent and mitigate these threats. This paper is the outcome of almost a year of sustained work with our colleagues at the Future of Humanity Institute, the Centre for the Study of Existential Risk, the Center for a New American Security, the Electronic Frontier Foundation, and others.
 
-**[Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)**
-> "In this post, I’m going to argue that training Reinforcement Learning agents to trade in the financial (and cryptocurrency) markets can be an extremely interesting research problem. I believe that it has not received enough attention from the research community but has the potential to push the state-of-the art of many related fields. It is quite similar to training agents for multiplayer games such as DotA, and many of the same research problems carry over. Knowing virtually nothing about trading, I have spent the past few months working on a project in this field."
+**[Here are some of the ways experts think AI might screw with us in the next five years](https://www.theverge.com/2018/2/20/17032228/ai-artificial-intelligence-threat-report-malicious-uses)**
+> What about the people who actively want to use AI for immoral, criminal, or malicious purposes? Aren’t they more likely to cause trouble — and sooner? The answer is yes, according to more than two dozen experts from institutes including the Future of Humanity Institute, the Centre for the Study of Existential Risk, and the Elon Musk-backed non-profit OpenAI. Very much yes.
+
+**[AI2-THOR Interactive Simulation Teaches AI About Real World](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/interactive-simulation-teaches-ai-about-real-world)**
+> AI2-THOR, an interactive simulation based on home environments, can prepare AI for real-world challenges
+
+**[The Battle for Best Semi-Autonomous System: Tesla Autopilot Vs. GM SuperCruise, Head-to-Head](http://www.thedrive.com/tech/17083/the-battle-for-best-semi-autonomous-system-tesla-autopilot-vs-gm-supercruise-head-to-head)**
+> Being the best isn't just about technological prowess, it's about how well the designers understand human driving—and human nature.
+
+**[How Search Engines Use Machine Learning: 9 Things We Know for Sure](https://www.searchenginejournal.com/how-search-engines-use-machine-learning/224451/)**
+> Search engines like to always experiment with how they can use this evolving technology, but here are nine ways we know that they are currently using machine learning and how it relates to SEO or digital marketing.
+
+**[Berkeley Lab ‘Minimalist Machine Learning’ Algorithms Analyze Images From Very Little Data](http://newscenter.lbl.gov/2018/02/21/new-berkeley-lab-algorithms-create-minimalist-machine-learning-that-analyzes-images-from-very-little-information/)**
+> CAMERA researchers develop highly efficient convolution neural networks tailored for analyzing experimental scientific images from limited training data
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
