@@ -46,3 +46,12 @@
 
 **[Neural Spelling Corrections and the Importance of Accuracy](https://medium.com/scribd-data-science-engineering/neural-spelling-corrections-and-the-importance-of-accuracy-977c0063d20f)**
 > "In the next few sections, I will briefly introduce seq2seq and then I will highlight two similar approaches and the pitfalls/shortcomings of each. In addition, I will give some speculative ideas as to how we might improve upon these first attempts."
+
+**[AI soon to be your BFF and mental health therapist?](https://www.hpe.com/us/en/insights/articles/ai-soon-to-be-your-bff-and-mental-health-therapist-1802.html)**
+> Social media appeared to be the perfect modern fix for loneliness and thus a boon to mental health. But studies have uncovered the opposite effect. Today, people everywhere are glued to their smartphones rather than tuned to the people around them. But now AI is poised to reverse that trend, and perhaps become your BFF and therapist, too.
+
+**[THE LIMITS OF EXPLAINABILITY](https://www.wired.com/story/the-limits-of-explainability)**
+> Academics, economists, and AI researchers often undervalue the role of intuition in science. Here's why they're wrong.
+
+**[The Sublime and Scary Future of Cameras With A.I. Brains](https://www.nytimes.com/2018/02/27/technology/future-cameras-ai-brains.html)**
+> Something strange, scary and sublime is happening to cameras, and it’s going to complicate everything you knew about pictures. Cameras are getting brains.
