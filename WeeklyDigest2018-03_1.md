@@ -55,3 +55,6 @@
 
 **[The Sublime and Scary Future of Cameras With A.I. Brains](https://www.nytimes.com/2018/02/27/technology/future-cameras-ai-brains.html)**
 > Something strange, scary and sublime is happening to cameras, and it’s going to complicate everything you knew about pictures. Cameras are getting brains.
+
+**[MIT and SenseTime announce effort to advance artificial intelligence research](http://news.mit.edu/2018/mit-sensetime-announce-effort-advance-artificial-intelligence-research-0228)**
+> Alliance will be part of new MIT Intelligence Quest.
