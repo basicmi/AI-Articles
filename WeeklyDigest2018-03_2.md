@@ -40,3 +40,17 @@
 
 **[The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)**
 > Interpretability techniques are normally studied in isolation. We explore the powerful interfaces that arise when you combine them — and the rich structure of this combinatorial space.
+
+**[AI will be the art movement of the 21st century](https://qz.com/1023493/ai-will-be-the-art-movement-of-the-21st-century/)**
+> We are on a mission of discovery to find a new way to express ourselves with our increasingly sophisticated partners: to paint, write, sculpt, and make beautiful music.
+> Together.
+
+**[Most Americans Already Using Artificial Intelligence Products](http://news.gallup.com/poll/228497/americans-already-using-artificial-intelligence-products.aspx)**
+> Nearly nine in 10 Americans (85%) say they currently use at least one of six devices, programs or services that feature elements of artificial intelligence (AI). Use of these products ranges from 84% of U.S. adults using navigation applications to 20% using smart home devices such as self-learning thermostats and lighting.
+
+**[The tyranny of algorithms is part of our lives: soon they could rate everything we do](https://www.theguardian.com/commentisfree/2018/mar/05/algorithms-rate-credit-scores-finances-data)**
+> Credit scores already control our finances. With personal data being increasingly trawled, our politics and our friendships will be next
+
+**[The New U.S.-China Rivalry: A Technology Race](https://www.nytimes.com/2018/03/06/business/us-china-trade-technology-deals.html)**
+> As the United States and China look to protect their national security needs and economic interests, the fight between the two financial superpowers is increasingly focused on a single area: technology.
+
