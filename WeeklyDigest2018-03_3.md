@@ -18,3 +18,8 @@
 **[Learning to find 'quiet' earthquakes](https://news.harvard.edu/gazette/story/2018/03/researchers-create-algorithm-to-separate-earthquakes-from-seismic-noise/)**
 > Researchers create algorithm that can separate small disturbances from seismic noise
 
+**[Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/)**
+> In contrast, the repo we are releasing as a full version 1.0 today is like a Rosetta Stone for deep learning frameworks, showing the model building process end to end in the different frameworks. All of these types of efforts combined result in a traveller ready to live in an environment with many languages.
+
+
+
