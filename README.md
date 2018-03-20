@@ -1,60 +1,33 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-03 \#2
+## Weekly Digest 2018-03 \#3
 
-**[How to Make A.I. That’s Good for People](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)**
-> By FEI-FEI LI
+**[Uber’s self-driving car showed no signs of slowing before fatal crash, police say](https://www.theverge.com/2018/3/19/17140936/uber-self-driving-crash-death-homeless-arizona)**
+> The vehicle was traveling at 40 mph
 
-**[Google Is Helping the Pentagon Build AI for Drones](https://gizmodo.com/google-is-helping-the-pentagon-build-ai-for-drones-1823464533)**
-> Google has partnered with the United States Department of Defense to help the agency develop artificial intelligence for analyzing drone footage, a move that set off a firestorm among employees of the technology giant when they learned of Google’s involvement.
+**[Making sense of the Facebook and Cambridge Analytica nightmare](https://www.engadget.com/2018/03/19/facebook-and-cambridge-analytica-nightmare/)**
+> The firm harvested data from 50 million Facebook profiles, but now what?
 
-**[14 WAYS MACHINE LEARNING CAN BOOST YOUR MARKETING](https://www.topbots.com/14-ways-machine-learning-can-boost-marketing/)**
-> COMMON APPLICATIONS OF MACHINE LEARNING IN MARKETING
+**[Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)**
+> This year, over 100,000 developers told us how they learn, build their careers, which tools they’re using, and what they want in a job.
 
-**[AI Predicted Oscar Winners with Stunning 94% Accuracy](https://unanimous.ai/ai-wins-oscars/)**
-> For 3rd year in a Row, AI Outperformed Industry Experts
+**[Women must act now, or male-designed robots will take over our lives](https://amp.theguardian.com/commentisfree/2018/mar/13/women-robots-ai-male-artificial-intelligence-automation)**
+> Algorithms are displaying white male bias, and automation is decimating our jobs – we have a lot to lose unless we get involved
 
-**[Ubisoft is using AI to catch bugs in games before devs make them](http://www.wired.co.uk/article/ubisoft-commit-assist-ai)**
-> The gaming company's Commit Assistant AI tool has been trained to spot when programmers are about to make a mistake
+**[China wants to shape the global future of artificial intelligence](https://www.technologyreview.com/s/610546/china-wants-to-shape-the-global-future-of-artificial-intelligence/)**
+> Drawing up technical standards is an early attempt to control how AI evolves worldwide.
 
-**[AI's dirty little secret: It's powered by people](https://phys.org/news/2018-03-ai-dirty-secret-powered-people.html)**
-> There's a dirty little secret about artificial intelligence: It's powered by hundreds of thousands of real people.
+**[Chinese AI isn't beating the U.S. yet — and may never catch up](https://www.axios.com/chinese-ai-isnt-beating-the-us-yet-0cf27b7d-fe89-48e6-a5da-a7a5a3a1b84d.html)**
+> China, intent on dominating artificial intelligence in a race with the United States, is said to be on a steep ascent toward at least a tie. But a number of AI experts say that while China can come close, it will be hard to catch up completely.
 
-**[The 7 best deep learning books you should be reading right now](https://www.pyimagesearch.com/2018/03/05/7-best-deep-learning-books-reading-right-now)**
-> In today’s post I’m going to share with you the 7 best deep learning books (in no particular order) I have come across and would personally recommend you read.
+**[AI is already learning how to discriminate](https://work.qz.com/1227982/ai-and-discrimination-what-tech-companies-can-do/)**
+> What happens when robots take our jobs, or take on military roles, or drive our vehicles? When we ask these questions about the rapidly-expanding role of AI, there are others we’re often overlooking—like the subject of a [WEF paper released this week](http://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf): how do we prevent discrimination and marginalization of humans in artificial intelligence?
 
-**[Inside the Chinese lab that plans to rewire the world with AI](https://www.technologyreview.com/s/610219/inside-the-chinese-lab-that-plans-to-rewire-the-world-with-ai/)**
-> Alibaba is investing huge sums in AI research and resources—and it is building tools to challenge Google and Amazon.
+**[Learning to find 'quiet' earthquakes](https://news.harvard.edu/gazette/story/2018/03/researchers-create-algorithm-to-separate-earthquakes-from-seismic-noise/)**
+> Researchers create algorithm that can separate small disturbances from seismic noise
 
-**[Machine learning or laughing? Amazon’s Alexa is freaking people out with unprovoked chuckle](https://www.geekwire.com/2018/machine-learning-laughing-amazons-alexa-freaking-people-unprovoked-chuckle/)**
-> It’s one thing to believe that Amazon’s Alexa is constantly listening to us, but quite another to worry that she’s laughing at what she hears.
-
-**[Self-Driving Truck Loses Its Remote Connection, But Not Its Shot at Milestone Achievement](https://blog.caranddriver.com/self-driving-truck-loses-its-remote-connection-but-not-its-shot-at-milestone-achievement/)**
-
-**[Same driver, different vehicle: Bringing Waymo self-driving technology to trucks](https://medium.com/waymo/same-driver-different-vehicle-bringing-waymo-self-driving-technology-to-trucks-e55824b55b8f)**
-> Now we’re turning our attention to things as well. Starting next week, Waymo will launch a pilot in Atlanta where our self-driving trucks will carry freight bound for Google’s data centers.
-
-**[Machine Learning for Auto-Tuning HPC Systems](https://www.nextplatform.com/2018/03/06/machine-learning-auto-tuning-hpc-systems/)**
-> "On today’s episode of “The Interview” with The Next Platform we discuss the art and science of tuning high performance systems for maximum performance—something that has traditionally come at high time cost for performance engineering experts."
-
-**[Explained Simply: How an AI program mastered the ancient game of Go](https://medium.com/@mngrwl/explained-simply-how-an-ai-program-mastered-the-ancient-game-of-go-62b8940a9080)**
-> This is about AlphaGo
-
-**[The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)**
-> Interpretability techniques are normally studied in isolation. We explore the powerful interfaces that arise when you combine them — and the rich structure of this combinatorial space.
-
-**[AI will be the art movement of the 21st century](https://qz.com/1023493/ai-will-be-the-art-movement-of-the-21st-century/)**
-> We are on a mission of discovery to find a new way to express ourselves with our increasingly sophisticated partners: to paint, write, sculpt, and make beautiful music.
-> Together.
-
-**[Most Americans Already Using Artificial Intelligence Products](http://news.gallup.com/poll/228497/americans-already-using-artificial-intelligence-products.aspx)**
-> Nearly nine in 10 Americans (85%) say they currently use at least one of six devices, programs or services that feature elements of artificial intelligence (AI). Use of these products ranges from 84% of U.S. adults using navigation applications to 20% using smart home devices such as self-learning thermostats and lighting.
-
-**[The tyranny of algorithms is part of our lives: soon they could rate everything we do](https://www.theguardian.com/commentisfree/2018/mar/05/algorithms-rate-credit-scores-finances-data)**
-> Credit scores already control our finances. With personal data being increasingly trawled, our politics and our friendships will be next
-
-**[The New U.S.-China Rivalry: A Technology Race](https://www.nytimes.com/2018/03/06/business/us-china-trade-technology-deals.html)**
-> As the United States and China look to protect their national security needs and economic interests, the fight between the two financial superpowers is increasingly focused on a single area: technology.
+**[Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/)**
+> In contrast, the repo we are releasing as a full version 1.0 today is like a Rosetta Stone for deep learning frameworks, showing the model building process end to end in the different frameworks. All of these types of efforts combined result in a traveller ready to live in an environment with many languages.
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
