@@ -30,5 +30,11 @@
 **[It certainly looks bad for Uber](http://ideas.4brad.com/it-certainly-looks-bad-uber)**
 > The Tempe police released the poor quality video from the Uber. What looks like a dash-cam video along with a video of the safety driver. Both videos show things that suggest serious problems from Uber, absent further explanation.
 
+**[How the AI cloud could produce the richest companies ever](https://www.technologyreview.com/s/610554/how-the-ai-cloud-could-produce-the-richest-companies-ever/)**
+> Amazon, Google, and Microsoft all want to dominate the business of providing artificial-intelligence services through cloud computing. The winner may have the OS of the future.
+
+**[What Will Our Society Look Like When Artificial Intelligence Is Everywhere?](https://www.smithsonianmag.com/innovation/artificial-intelligence-future-scenarios-180968403/)**
+> Will robots become self-aware? Will they have rights? Will they be in charge? Here are five scenarios from our future dominated by AI。
+
 **[What is wrong with VAEs?](http://akosiorek.github.io/ml/2018/03/14/what_is_wrong_with_vaes.html)**
 > 
