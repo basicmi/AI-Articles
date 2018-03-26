@@ -1,33 +1,45 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-03 \#3
+## Weekly Digest 2018-03 \#4
 
-**[Uber’s self-driving car showed no signs of slowing before fatal crash, police say](https://www.theverge.com/2018/3/19/17140936/uber-self-driving-crash-death-homeless-arizona)**
-> The vehicle was traveling at 40 mph
+**[To Speed Up AI, Mix Memory and Processing](https://spectrum.ieee.org/computing/hardware/to-speed-up-ai-mix-memory-and-processing)**
+> New computing architectures aim to extend artificial intelligence from the cloud to smartphones
 
-**[Making sense of the Facebook and Cambridge Analytica nightmare](https://www.engadget.com/2018/03/19/facebook-and-cambridge-analytica-nightmare/)**
-> The firm harvested data from 50 million Facebook profiles, but now what?
+**[How Our Company Learned to Make Better Predictions About Everything](https://hbr.org/2017/05/how-our-company-learned-to-make-better-predictions-about-everything)**
+> Taking a cue from machine learning, Twitch employees train their forecasting powers against real world historical data. Our staff are encouraged to predict quickly and are given immediate feedback so that their forecasts become more accurate. Our goal is to leverage forecasting in order to make the “high-quality, high-velocity” decisions Jeff Bezos calls for in his 2017 letter to shareholders. Through forecasting, we are better equipped to serve the millions of gamers that use our platform every day, while staying ahead of the competition.
 
-**[Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018/)**
-> This year, over 100,000 developers told us how they learn, build their careers, which tools they’re using, and what they want in a job.
+**[Evolution is the New Deep Learning](https://www.sentient.ai/blog/evolution-is-the-new-deep-learning/)**
+> Over the past few years, the team has focused on developing new methods in Evolutionary Computation (EC), i.e. designing artificial neural network architectures, building commercial applications, and solving challenging computational problems using methods inspired by natural evolution. 
 
-**[Women must act now, or male-designed robots will take over our lives](https://amp.theguardian.com/commentisfree/2018/mar/13/women-robots-ai-male-artificial-intelligence-automation)**
-> Algorithms are displaying white male bias, and automation is decimating our jobs – we have a lot to lose unless we get involved
+**[AI can spot signs of Alzheimer’s before your family does](https://www.technologyreview.com/s/609236/ai-can-spot-signs-of-alzheimers-before-your-family-does/)**
+> Earlier diagnosis could help researchers develop drugs to slow the progress of the disease.
 
-**[China wants to shape the global future of artificial intelligence](https://www.technologyreview.com/s/610546/china-wants-to-shape-the-global-future-of-artificial-intelligence/)**
-> Drawing up technical standards is an early attempt to control how AI evolves worldwide.
+**[IBM Speeds Up Machine Learning](https://www.eetimes.com/document.asp?doc_id=1333097)**
+> IBM wants to make machine learning as fast as snapping your fingers. At its own [IBM THINK](https://www.eetimes.com/admin/%E2%80%9Dhttps:/www.ibm.com/events/think/%E2%80%9D) conference this week, IBM Research unveiled a newly published benchmark using an online advertising dataset released by Criteo Labs of more than 4 billion training examples.
 
-**[Chinese AI isn't beating the U.S. yet — and may never catch up](https://www.axios.com/chinese-ai-isnt-beating-the-us-yet-0cf27b7d-fe89-48e6-a5da-a7a5a3a1b84d.html)**
-> China, intent on dominating artificial intelligence in a race with the United States, is said to be on a steep ascent toward at least a tie. But a number of AI experts say that while China can come close, it will be hard to catch up completely.
+**[Canada’s risky bet on AI](https://www.theglobeandmail.com/opinion/article-canadas-risky-bet-on-ai/)**
+> Canada is placing a big bet on artificial intelligence. Last year, the federal government charged the Canadian Institute for Advanced Research (CIFAR) with spearheading the $125-million Pan-Canadian Artificial Intelligence Strategy, and the term appears several times in the recent 2018 federal budget. 
 
-**[AI is already learning how to discriminate](https://work.qz.com/1227982/ai-and-discrimination-what-tech-companies-can-do/)**
-> What happens when robots take our jobs, or take on military roles, or drive our vehicles? When we ask these questions about the rapidly-expanding role of AI, there are others we’re often overlooking—like the subject of a [WEF paper released this week](http://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf): how do we prevent discrimination and marginalization of humans in artificial intelligence?
+**[The US military wants AI to dream up weird new helicopters](https://www.technologyreview.com/s/610454/the-us-military-wants-ai-to-dream-up-weird-new-helicopters/)**
+> DARPA wants entrants to rethink the way complex components are designed by combining recent advances in machine learning with fundamental tenets of math and engineering.
 
-**[Learning to find 'quiet' earthquakes](https://news.harvard.edu/gazette/story/2018/03/researchers-create-algorithm-to-separate-earthquakes-from-seismic-noise/)**
-> Researchers create algorithm that can separate small disturbances from seismic noise
+**[Understanding deep learning through neuron deletion](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)**
+> "Understanding how deep neural networks function is critical for explaining their decisions and enabling us to build more powerful systems. For instance, imagine the difficulty of trying to build a clock without understanding how individual gears fit together. One approach to understanding neural networks, both in neuroscience and deep learning, is to investigate the role of individual neurons, especially those which are easily interpretable. "
 
-**[Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/)**
-> In contrast, the repo we are releasing as a full version 1.0 today is like a Rosetta Stone for deep learning frameworks, showing the model building process end to end in the different frameworks. All of these types of efforts combined result in a traveller ready to live in an environment with many languages.
+**[Intelligent to a Fault: When AI Screws Up, You Might Still Be to Blame](https://www.scientificamerican.com/article/intelligent-to-a-fault-when-ai-screws-up-you-might-still-be-to-blame1/)**
+> Interactions between people and artificially intelligent machines pose tricky questions about liability and accountability, according to a legal expert
+
+**[It certainly looks bad for Uber](http://ideas.4brad.com/it-certainly-looks-bad-uber)**
+> The Tempe police released the poor quality video from the Uber. What looks like a dash-cam video along with a video of the safety driver. Both videos show things that suggest serious problems from Uber, absent further explanation.
+
+**[How the AI cloud could produce the richest companies ever](https://www.technologyreview.com/s/610554/how-the-ai-cloud-could-produce-the-richest-companies-ever/)**
+> Amazon, Google, and Microsoft all want to dominate the business of providing artificial-intelligence services through cloud computing. The winner may have the OS of the future.
+
+**[What Will Our Society Look Like When Artificial Intelligence Is Everywhere?](https://www.smithsonianmag.com/innovation/artificial-intelligence-future-scenarios-180968403/)**
+> Will robots become self-aware? Will they have rights? Will they be in charge? Here are five scenarios from our future dominated by AI。
+
+**[What is wrong with VAEs?](http://akosiorek.github.io/ml/2018/03/14/what_is_wrong_with_vaes.html)**
+> 
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
