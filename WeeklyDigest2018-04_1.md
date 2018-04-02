@@ -9,6 +9,9 @@
 **[Nvidia’s DGX-2 System Packs An AI Performance Punch](https://www.nextplatform.com/2018/03/28/nvidia-dgx-2-system-packs-an-ai-performance-punch/)**
 > 
 
+**[Waymo, a Google Spinoff, Ramps Up Its Driverless-Car Effort](https://www.nytimes.com/2018/03/27/business/waymo-driverless.html)**
+> The company says it will buy up to 20,000 electric cars from Jaguar Land Rover as it strives to put a ride service into operation within two years.
+
 **[Satya Nadella email to employees: Embracing our future: Intelligent Cloud and Intelligent Edge](https://news.microsoft.com/2018/03/29/satya-nadella-email-to-employees-embracing-our-future-intelligent-cloud-and-intelligent-edge/)**
 > 
 
