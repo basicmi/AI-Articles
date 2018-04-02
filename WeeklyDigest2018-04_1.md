@@ -3,7 +3,7 @@
 **[How the AI cloud could produce the richest companies ever](https://www.technologyreview.com/s/610554/how-the-ai-cloud-could-produce-the-richest-companies-ever/)**
 > Amazon, Google, and Microsoft all want to dominate the business of providing artificial-intelligence services through cloud computing. The winner may have the OS of the future.
 
-**[What worries me about AI]()**
+**[What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)**
 > "If you quote this article, please have the honesty to present these ideas as what they are: personal, speculative opinions, to be judged on their own merits."
 
 **[Nvidia’s DGX-2 System Packs An AI Performance Punch](https://www.nextplatform.com/2018/03/28/nvidia-dgx-2-system-packs-an-ai-performance-punch/)**
