@@ -21,7 +21,7 @@
 **[Nvidia and ARM take deep learning to the internet of things](https://venturebeat.com/2018/03/27/nvidia-and-arm-take-deep-learning-to-the-internet-of-things/)**
 > Nvidia and Arm announced that they are partnering to bring deep learning inferencing to the billions of mobile, consumer electronics, and internet of things (IoT) devices anticipated in the future.
 
-**[Need to make a molecule? Ask this AI for instructions](Artificial-intelligence tool that has digested nearly every reaction ever performed could transform chemistry.)**
+**[Need to make a molecule? Ask this AI for instructions](https://www.nature.com/articles/d41586-018-03977-w)**
 > Chemists have a new lab assistant: artificial intelligence. Researchers have developed a ‘deep learning’ computer program that produces blueprints for the sequences of reactions needed to create small organic molecules, such as drug compounds. The pathways that the tool suggests look just as good on paper as those devised by human chemists.
 
 **[How CEOs Can Decode The Alphabet Soup Of Machine Learning](https://chiefexecutive.net/ceos-can-decode-alphabet-soup-machine-learning/)**
