@@ -1,5 +1,8 @@
 ## Weekly Digest 2018-04 \#2
 
+**[China Now Has the Most Valuable AI Startup in the World](https://www.bloomberg.com/news/articles/2018-04-09/sensetime-snags-alibaba-funding-at-a-record-3-billion-valuation)**
+> SenseTime Group Ltd. has raised $600 million from Alibaba Group Holding Ltd. and other investors at a valuation of more than $3 billion, becoming the world’s most valuable artificial intelligence startup.
+
 **[Google veteran Jeff Dean takes over as company’s AI chief](https://www.theverge.com/platform/amp/2018/4/3/17191944/google-ai-head-jeff-dean-reshuffle-john-giannandrea)**
 > Programmer Jeff Dean was one of Google’s earliest employees, and he is credited with helping to create some of the fundamental technologies that powered the tech giant’s rise in the early 2000s. Now, he’s been put in charge of Google’s future, taking over as head of the company’s artificial intelligence unit.
 
