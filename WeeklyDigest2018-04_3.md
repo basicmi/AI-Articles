@@ -15,6 +15,9 @@
 **[OpenAI Charter](https://blog.openai.com/openai-charter/)**
 > OpenAI Releases Their Charter
 
+**[Are Algorithms the New Campaign Donation?](https://slate.com/technology/2018/04/the-cambridge-analytica-scandal-suggests-algorithms-are-the-new-campaign-donation.html)**
+> It’s difficult to assess their market value, and they can move between organizations easily. That’s a problem.
+
 **[Google Introducing Semantic Experiences with Talk to Books and Semantris](https://research.googleblog.com/2018/04/introducing-semantic-experiences-with.html)**
 > Today, we are proud to share [Semantic Experiences](http://research.google.com/semanticexperiences), a website showing two examples of how these new capabilities can drive applications that weren’t possible before.
 
