@@ -1,37 +1,42 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-04 \#2
+## Weekly Digest 2018-04 \#3
 
-**[China Now Has the Most Valuable AI Startup in the World](https://www.bloomberg.com/news/articles/2018-04-09/sensetime-snags-alibaba-funding-at-a-record-3-billion-valuation)**
-> SenseTime Group Ltd. has raised $600 million from Alibaba Group Holding Ltd. and other investors at a valuation of more than $3 billion, becoming the world’s most valuable artificial intelligence startup.
+**[Creative machines will be the next weapon in our fake news war](http://www.wired.co.uk/article/artificial-intelligence-threat-creative-machines-fake-news)**
+> Machine-made images and videos will accelerate the spread of fake content online, according to AI experts and neuroscientists
 
-**[Google veteran Jeff Dean takes over as company’s AI chief](https://www.theverge.com/platform/amp/2018/4/3/17191944/google-ai-head-jeff-dean-reshuffle-john-giannandrea)**
-> Programmer Jeff Dean was one of Google’s earliest employees, and he is credited with helping to create some of the fundamental technologies that powered the tech giant’s rise in the early 2000s. Now, he’s been put in charge of Google’s future, taking over as head of the company’s artificial intelligence unit.
+**[Too Much of Today's AI Is a Novelty Without a Clear Plan to Make Money](https://www.entrepreneur.com/article/311233)**
+> As with any business, it's time to start listening to customers.
 
-**[How babies learn – and why robots can’t compete](https://www.theguardian.com/news/2018/apr/03/how-babies-learn-and-why-robots-cant-compete)**
-> If we could understand how the infant mind develops, it might help every child reach their full potential. But seeing them as learning machines is not the answer. 
+**[FACEBOOK USES ARTIFICIAL INTELLIGENCE TO PREDICT YOUR FUTURE ACTIONS FOR ADVERTISERS, SAYS CONFIDENTIAL DOCUMENT](https://theintercept.com/2018/04/13/facebook-advertising-data-artificial-intelligence-ai/)**
+> The recent document, described as “confidential,” outlines a new advertising service that expands how the social network sells corporations’ access to its users and their lives: Instead of merely offering advertisers the ability to target people based on demographics and consumer preferences, Facebook instead offers the ability to target them based on how they will behave, what they will buy, and what they will think. 
 
-**[Rise of the smartish machines](https://cen.acs.org/articles/96/i14/Rise-smartish-machines.html)**
-> As artificial intelligence ignites in pharmaceutical labs, it also exhibits its limits
+**[OpenAI Charter](https://blog.openai.com/openai-charter/)**
+> OpenAI Releases Their Charter
 
-**[Robotics & Geopolitics: Russian AI Supplies the West With Workers](https://www.roboticsbusinessreview.com/regional/russian-ai-supplies-west-workers/)**
-> Robots and AI are taking on new roles, from inspecting oil rigs to hiring human workers. How do self-driving car regulations and Russian AI reflect new fronts in geopolitical competition?
+**[Are Algorithms the New Campaign Donation?](https://slate.com/technology/2018/04/the-cambridge-analytica-scandal-suggests-algorithms-are-the-new-campaign-donation.html)**
+> It’s difficult to assess their market value, and they can move between organizations easily. That’s a problem.
 
-**[Apple is facing its toughest fight since the 1980s](https://qz.com/1246586/apple-is-facing-its-toughest-fight-since-the-1980s/)**
-> The consensus is artificial intelligence is going to be the key differentiator, with every device—whether its a lightbulb or a laptop—capable of speaking to each other and making decisions to suit their owners. Big tech firms like Google, Amazon, and Microsoft are saying that they’re now “AI-first companies.” That’s bad news for Apple.
+**[An AI Runs For Mayor In Japan.](http://otaquest.com/tama-city-ai-mayor/)**
+> There is an AI running for the mayoral role of Tama city Tokyo.
 
-**[Will This “Neural Lace” Brain Implant Help Us Compete with AI?](http://nautil.us/blog/-will-this-neural-lace-brain-implant-help-us-compete-with-ai)**
-> Smarter artificial intelligence is certainly being developed, but how far along are we on producing a neural lace?
+**[Google Introducing Semantic Experiences with Talk to Books and Semantris](https://research.googleblog.com/2018/04/introducing-semantic-experiences-with.html)**
+> Today, we are proud to share [Semantic Experiences](http://research.google.com/semanticexperiences), a website showing two examples of how these new capabilities can drive applications that weren’t possible before.
 
-**[The Bright, Shiny Distraction of Self-Driving Cars](https://www.nytimes.com/2018/03/31/opinion/distraction-self-driving-cars.html)**
-> The promise of self-driving cars can be alluring — imagine taking a nap or watching a movie in a comfortable armchair while being shuttled safely home after a long day at work. But like many optimistic images of the future, it is also a bit of an illusion.
+**[Differentiable Plasticity: A New Method for Learning to Learn](https://eng.uber.com/differentiable-plasticity/)**
+> To give our artificial agents similar abilities, Uber AI Labs has developed a [new method](https://arxiv.org/abs/1804.02464) called differentiable plasticity that lets us train the behavior of plastic connections through gradient descent so that they can help previously-trained networks adapt to future conditions. 
 
-**[The Buck Stops – And Starts – Here For GPU Compute](https://www.nextplatform.com/2018/04/03/the-buck-stops-and-starts-here-for-gpu-compute/)**
-> Ian Buck doesn’t just run the Tesla accelerated computing business at Nvidia, which is one of the company’s fastest-growing and most profitable products in its twenty five year history.
-> The annual GPU Technology Conference was held by Nvidia last week, and we sat down and had a chat with Buck about a bunch of things relating to GPU accelerated systems, including what is driving the adoption of GPU computing and the things, such as the new [NVSwitch that helps boost the performance of machine learning and perhaps HPC workloads](https://www.nextplatform.com/2018/03/27/nvidia-memory-switch-welds-together-massive-virtual-gpu/).
+**[A Discussion about Accessibility in AI at Stanford](http://www.fast.ai/2018/04/10/stanford-salon/)**
+> "I recently was a guest speaker at the Stanford AI Salon on the topic of accessiblity in AI, which included a free-ranging discussion among assembled members of the Stanford AI Lab. There were a number of interesting questions and topics, so I thought I would share a few of my answers here."
 
-**[Inside Nvidia’s NVSwitch GPU Interconnect](https://www.nextplatform.com/2018/04/04/inside-nvidias-nvswitch-gpu-interconnect/)**
-> 
+**[The Mathematics of 2048: Optimal Play with Markov Decision Processes](http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)**
+> In this post, we’ll use a mathematical framework called a Markov Decision Process to find provably optimal strategies for 2048 when played on the 2x2 and 3x3 boards, and also on the 4x4 board up to the 64 tile. 
+
+**[How I Taught A Machine To Take My Job](https://medium.com/@samsniderheld/how-i-taught-a-machine-to-take-my-job-2dd1adb4df18)**
+> or Behavioral Cloning and 3D Procedural Content Generation
+
+**[Google Introducing TensorFlow Probability](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)**
+> TensorFlow Probability: a probabilistic programming toolbox for machine learning researchers and practitioners to quickly and reliably build sophisticated models that leverage state-of-the-art hardware.
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
@@ -89,3 +94,17 @@
 **[Weekly Digest Feb. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-02_2.md)**
 
 **[Weekly Digest Feb. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-02_3.md)**
+
+**[Weekly Digest Feb. 2018 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-02_4.md)**
+
+**[Weekly Digest Mar. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-03_1.md)**
+
+**[Weekly Digest Mar. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-03_2.md)**
+
+**[Weekly Digest Mar. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-03_3.md)**
+
+**[Weekly Digest Mar. 2018 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-03_4.md)**
+
+**[Weekly Digest Apr. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-04_1.md)**
+
+**[Weekly Digest Apr. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-04_2.md)**
