@@ -18,14 +18,14 @@
 **[Are Algorithms the New Campaign Donation?](https://slate.com/technology/2018/04/the-cambridge-analytica-scandal-suggests-algorithms-are-the-new-campaign-donation.html)**
 > It’s difficult to assess their market value, and they can move between organizations easily. That’s a problem.
 
+**[An AI Runs For Mayor In Japan.](http://otaquest.com/tama-city-ai-mayor/)**
+> There is an AI running for the mayoral role of Tama city Tokyo.
+
 **[Google Introducing Semantic Experiences with Talk to Books and Semantris](https://research.googleblog.com/2018/04/introducing-semantic-experiences-with.html)**
 > Today, we are proud to share [Semantic Experiences](http://research.google.com/semanticexperiences), a website showing two examples of how these new capabilities can drive applications that weren’t possible before.
 
-**[Differentiable Plasticity: A New Method for Learning to Learn]()**
+**[Differentiable Plasticity: A New Method for Learning to Learn](https://eng.uber.com/differentiable-plasticity/)**
 > To give our artificial agents similar abilities, Uber AI Labs has developed a [new method](https://arxiv.org/abs/1804.02464) called differentiable plasticity that lets us train the behavior of plastic connections through gradient descent so that they can help previously-trained networks adapt to future conditions. 
-
-**[An AI Runs For Mayor In Japan.](http://otaquest.com/tama-city-ai-mayor/)**
-> There is an AI running for the mayoral role of Tama city Tokyo.
 
 **[A Discussion about Accessibility in AI at Stanford](http://www.fast.ai/2018/04/10/stanford-salon/)**
 > "I recently was a guest speaker at the Stanford AI Salon on the topic of accessiblity in AI, which included a free-ranging discussion among assembled members of the Stanford AI Lab. There were a number of interesting questions and topics, so I thought I would share a few of my answers here."
@@ -36,3 +36,5 @@
 **[How I Taught A Machine To Take My Job](https://medium.com/@samsniderheld/how-i-taught-a-machine-to-take-my-job-2dd1adb4df18)**
 > or Behavioral Cloning and 3D Procedural Content Generation
 
+**[Google Introducing TensorFlow Probability](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)**
+> TensorFlow Probability: a probabilistic programming toolbox for machine learning researchers and practitioners to quickly and reliably build sophisticated models that leverage state-of-the-art hardware.
