@@ -1,42 +1,39 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-04 \#3
+## Weekly Digest 2018-04 \#4
 
-**[Creative machines will be the next weapon in our fake news war](http://www.wired.co.uk/article/artificial-intelligence-threat-creative-machines-fake-news)**
-> Machine-made images and videos will accelerate the spread of fake content online, according to AI experts and neuroscientists
+**[Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)**
+> Artificial Intelligence (AI) is the mantra of the current era. The phrase is intoned by technologists, academicians, journalists and venture capitalists alike. As with many phrases that cross over from technical academic fields into general circulation, there is significant misunderstanding accompanying the use of the phrase. But this is not the classical case of the public not understanding the scientists — here the scientists are often as befuddled as the public. The idea that our era is somehow seeing the emergence of an intelligence in silicon that rivals our own entertains all of us — enthralling us and frightening us in equal measure. And, unfortunately, it distracts us.
 
-**[Too Much of Today's AI Is a Novelty Without a Clear Plan to Make Money](https://www.entrepreneur.com/article/311233)**
-> As with any business, it's time to start listening to customers.
+**[Why tech companies are racing each other to make their own custom A.I. chips](https://www.cnbc.com/2018/04/21/alibaba-joins-google-others-in-making-custom-ai-chips.html)**
+> Earlier this week Alibaba said will make its own chip available for access through its cloud. Google has developed chips for AI, and Facebook has a nascent chip effort.
 
-**[FACEBOOK USES ARTIFICIAL INTELLIGENCE TO PREDICT YOUR FUTURE ACTIONS FOR ADVERTISERS, SAYS CONFIDENTIAL DOCUMENT](https://theintercept.com/2018/04/13/facebook-advertising-data-artificial-intelligence-ai/)**
-> The recent document, described as “confidential,” outlines a new advertising service that expands how the social network sells corporations’ access to its users and their lives: Instead of merely offering advertisers the ability to target people based on demographics and consumer preferences, Facebook instead offers the ability to target them based on how they will behave, what they will buy, and what they will think. 
+**[Facebook Is Forming a Team to Design Its Own Chips](https://www.bloomberg.com/news/articles/2018-04-18/facebook-is-forming-a-team-to-design-its-own-chips)**
+> Facebook Inc. is building a team to design its own semiconductors, adding to a trend among technology companies to supply themselves and lower their dependence on chipmakers such as Intel Corp. and Qualcomm Inc., according to job listings and people familiar with the matter.
 
-**[OpenAI Charter](https://blog.openai.com/openai-charter/)**
-> OpenAI Releases Their Charter
+**[What Human Teams Can Learn From Machine Learning Marketing Algorithms](http://www.adweek.com/digital/what-human-teams-can-learn-from-machine-learning-marketing-algorithms/)**
+> Opinion: If you can’t beat it, copy it
 
-**[Are Algorithms the New Campaign Donation?](https://slate.com/technology/2018/04/the-cambridge-analytica-scandal-suggests-algorithms-are-the-new-campaign-donation.html)**
-> It’s difficult to assess their market value, and they can move between organizations easily. That’s a problem.
+**[Why Deep Learning is perfect for NLP (Natural Language Processing)](https://www.kdnuggets.com/2018/04/why-deep-learning-perfect-nlp-natural-language-processing.html)**
+> Deep learning brings multiple benefits in learning multiple levels of representation of natural language. Here we will cover the motivation of using deep learning and distributed representation for NLP, word embeddings and several methods to perform word embeddings, and applications.
 
-**[An AI Runs For Mayor In Japan.](http://otaquest.com/tama-city-ai-mayor/)**
-> There is an AI running for the mayoral role of Tama city Tokyo.
+**[Is Open Source The AI Nirvana for Intel?](https://www.nextplatform.com/2018/04/20/is-open-source-the-ai-nirvana-for-intel/)**
+> In the AI space, Intel recently announced that its nGraph code for managing AI graph APIs has also been opened to the community. After opening it up last month, Intel has been followed up on the initial work on MXNet with further improvements to TensorFlow.
 
-**[Google Introducing Semantic Experiences with Talk to Books and Semantris](https://research.googleblog.com/2018/04/introducing-semantic-experiences-with.html)**
-> Today, we are proud to share [Semantic Experiences](http://research.google.com/semanticexperiences), a website showing two examples of how these new capabilities can drive applications that weren’t possible before.
+**[How machine learning allowed one company to detect Meltdown and Spectre before Intel went public](https://www.techrepublic.com/article/how-machine-learning-allowed-one-company-to-detect-meltdown-and-spectre-before-intel-went-public/)**
+> In-memory attacks are part of the next generation of exploits that cybersecurity experts need to guard against, and AI and machine learning can help.
 
-**[Differentiable Plasticity: A New Method for Learning to Learn](https://eng.uber.com/differentiable-plasticity/)**
-> To give our artificial agents similar abilities, Uber AI Labs has developed a [new method](https://arxiv.org/abs/1804.02464) called differentiable plasticity that lets us train the behavior of plastic connections through gradient descent so that they can help previously-trained networks adapt to future conditions. 
+**[Frontier AI: How far are we from artificial “general” intelligence, really?](https://hackernoon.com/frontier-ai-how-far-are-we-from-artificial-general-intelligence-really-5b13b1ebcd4e)**
+> Some call it “strong” AI, others “real” AI, “true” AI or artificial “general” intelligence (AGI)… whatever the term (and important nuances), there are few questions of greater importance than whether we are collectively in the process of developing generalized AI that can truly think like a human — possibly even at a superhuman intelligence level, with unpredictable, uncontrollable consequences.
 
-**[A Discussion about Accessibility in AI at Stanford](http://www.fast.ai/2018/04/10/stanford-salon/)**
-> "I recently was a guest speaker at the Stanford AI Salon on the topic of accessiblity in AI, which included a free-ranging discussion among assembled members of the Stanford AI Lab. There were a number of interesting questions and topics, so I thought I would share a few of my answers here."
+**[Text Embedding Models Contain Bias. Here's Why That Matters.](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html)**
+> Neural network models can be quite powerful, effectively helping to identify patterns and uncover structure in a variety of different tasks, from [language translation](https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html) to [pathology](https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html) to [playing games](https://deepmind.com/blog/alphago-zero-learning-scratch/). At the same time, neural models (as well as other kinds of machine learning models) can contain problematic biases in many forms. 
 
-**[The Mathematics of 2048: Optimal Play with Markov Decision Processes](http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)**
-> In this post, we’ll use a mathematical framework called a Markov Decision Process to find provably optimal strategies for 2048 when played on the 2x2 and 3x3 boards, and also on the 4x4 board up to the 64 tile. 
+**[How Music Generated by Artificial Intelligence Is Reshaping -- Not Destroying -- The Industry](https://www.billboard.com/articles/business/8333911/artificial-intelligence-music-reshaping-destroying-industry)**
+> There is an enduring fear in the music industry that artificial intelligence will replace the artists we love, and end creativity as we know it.
 
-**[How I Taught A Machine To Take My Job](https://medium.com/@samsniderheld/how-i-taught-a-machine-to-take-my-job-2dd1adb4df18)**
-> or Behavioral Cloning and 3D Procedural Content Generation
-
-**[Google Introducing TensorFlow Probability](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)**
-> TensorFlow Probability: a probabilistic programming toolbox for machine learning researchers and practitioners to quickly and reliably build sophisticated models that leverage state-of-the-art hardware.
+**[Welcome to GLUE.](https://gluebenchmark.com/)**
+> The General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems. 
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
