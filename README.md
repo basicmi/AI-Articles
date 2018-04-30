@@ -1,4 +1,4 @@
-# Interesting stuff of AI/ML/DL
+# Articles of AI/ML/DL
 
 ## Weekly Digest 2018-05 \#1
 
