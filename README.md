@@ -1,39 +1,42 @@
 # Interesting stuff of AI/ML/DL
 
-## Weekly Digest 2018-04 \#4
+## Weekly Digest 2018-05 \#1
 
-**[Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)**
-> Artificial Intelligence (AI) is the mantra of the current era. The phrase is intoned by technologists, academicians, journalists and venture capitalists alike. As with many phrases that cross over from technical academic fields into general circulation, there is significant misunderstanding accompanying the use of the phrase. But this is not the classical case of the public not understanding the scientists — here the scientists are often as befuddled as the public. The idea that our era is somehow seeing the emergence of an intelligence in silicon that rivals our own entertains all of us — enthralling us and frightening us in equal measure. And, unfortunately, it distracts us.
+**[A Brief Guide of xPU for AI Accelerators](https://www.sigarch.org/a-brief-guide-of-xpu-for-ai-accelerators/)**
+> a quick survey on various AI hardware accelerators developed in the last several years: Other than CPU/GPU that we are familiar with, we have seem many xPUs that are related to AI hardware accelerators: From A to Z, which letter is not used yet for your xPU design? 
 
-**[Why tech companies are racing each other to make their own custom A.I. chips](https://www.cnbc.com/2018/04/21/alibaba-joins-google-others-in-making-custom-ai-chips.html)**
-> Earlier this week Alibaba said will make its own chip available for access through its cloud. Google has developed chips for AI, and Facebook has a nascent chip effort.
+**[Introduction to Decision Tree Learning](https://heartbeat.fritz.ai/introduction-to-decision-tree-learning-cd604f85e236)**
+> From Kaggle to classrooms, one of the first lessons in machine learning involves decision trees. The reason for the focus on decision trees is that they aren’t very mathematics heavy compared to other ML approaches, and at the same time, they provide reasonable accuracy on classification problems.
 
-**[Facebook Is Forming a Team to Design Its Own Chips](https://www.bloomberg.com/news/articles/2018-04-18/facebook-is-forming-a-team-to-design-its-own-chips)**
-> Facebook Inc. is building a team to design its own semiconductors, adding to a trend among technology companies to supply themselves and lower their dependence on chipmakers such as Intel Corp. and Qualcomm Inc., according to job listings and people familiar with the matter.
+**[Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)**
+> "A friend of mine who is about to start a career in artificial intelligence research recently asked what I wish I had known when I started two years ago. Below are some lessons I have learned so far. They range from general life lessons to relatively specific tricks of the AI trade. I hope others find them useful."
 
-**[What Human Teams Can Learn From Machine Learning Marketing Algorithms](http://www.adweek.com/digital/what-human-teams-can-learn-from-machine-learning-marketing-algorithms/)**
-> Opinion: If you can’t beat it, copy it
+**[Comparing Google’s TPUv2 against Nvidia’s V100 on ResNet-50](https://blog.riseml.com/comparing-google-tpuv2-against-nvidia-v100-on-resnet-50-c2bbb6a51e5e)**
+> Google recently added the [Tensor Processing Unit v2 (TPUv2)](https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html), a custom-developed microchip to accelerate deep learning, to its cloud offering. The TPUv2 is the second generation of this chip and the first publicly available deep learning accelerator that has the potential of becoming an alternative to Nvidia GPUs. We recently reported our first experience and received a lot of requests for a more detailed comparison to [Nvidia V100 GPUs](https://www.nvidia.com/en-us/data-center/tesla-v100/).
 
-**[Why Deep Learning is perfect for NLP (Natural Language Processing)](https://www.kdnuggets.com/2018/04/why-deep-learning-perfect-nlp-natural-language-processing.html)**
-> Deep learning brings multiple benefits in learning multiple levels of representation of natural language. Here we will cover the motivation of using deep learning and distributed representation for NLP, word embeddings and several methods to perform word embeddings, and applications.
+**[UP NEXT: A BETTER RECOMMENDATION SYSTEM](https://www.wired.com/story/creating-ethical-recommendation-engines/)**
+> As the consequences of curatorial decisions grow more dire, we need to ask: Can we make the internet’s recommendation engines more ethical? And if so, how?
 
-**[Is Open Source The AI Nirvana for Intel?](https://www.nextplatform.com/2018/04/20/is-open-source-the-ai-nirvana-for-intel/)**
-> In the AI space, Intel recently announced that its nGraph code for managing AI graph APIs has also been opened to the community. After opening it up last month, Intel has been followed up on the initial work on MXNet with further improvements to TensorFlow.
+**[Can Amazon Build a Home Robot That Is Useful and Affordable?](https://spectrum.ieee.org/automaton/robotics/home-robots/amazon-home-robots)**
+> Domestic robots are hard, but rumor has it that Amazon wants in.
 
-**[How machine learning allowed one company to detect Meltdown and Spectre before Intel went public](https://www.techrepublic.com/article/how-machine-learning-allowed-one-company-to-detect-meltdown-and-spectre-before-intel-went-public/)**
-> In-memory attacks are part of the next generation of exploits that cybersecurity experts need to guard against, and AI and machine learning can help.
+**[The economics of artificial intelligence](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-economics-of-artificial-intelligence)**
+> Rotman School of Management professor Ajay Agrawal explains how AI changes the cost of prediction and what this means for business.
 
-**[Frontier AI: How far are we from artificial “general” intelligence, really?](https://hackernoon.com/frontier-ai-how-far-are-we-from-artificial-general-intelligence-really-5b13b1ebcd4e)**
-> Some call it “strong” AI, others “real” AI, “true” AI or artificial “general” intelligence (AGI)… whatever the term (and important nuances), there are few questions of greater importance than whether we are collectively in the process of developing generalized AI that can truly think like a human — possibly even at a superhuman intelligence level, with unpredictable, uncontrollable consequences.
+**[Toward the Jet Age of machine learning](https://www.oreilly.com/ideas/toward-the-jet-age-of-machine-learning)**
+> Solving the challenges of efficiency, automation, and safety will require cooperation between researchers and engineers spanning both academia and industry.
 
-**[Text Embedding Models Contain Bias. Here's Why That Matters.](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html)**
-> Neural network models can be quite powerful, effectively helping to identify patterns and uncover structure in a variety of different tasks, from [language translation](https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html) to [pathology](https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html) to [playing games](https://deepmind.com/blog/alphago-zero-learning-scratch/). At the same time, neural models (as well as other kinds of machine learning models) can contain problematic biases in many forms. 
+**[Why Is the Human Brain So Efficient?](http://nautil.us/issue/59/connections/why-is-the-human-brain-so-efficient)**
+> How massive parallelism lifts the brain’s performance above that of AI.
 
-**[How Music Generated by Artificial Intelligence Is Reshaping -- Not Destroying -- The Industry](https://www.billboard.com/articles/business/8333911/artificial-intelligence-music-reshaping-destroying-industry)**
-> There is an enduring fear in the music industry that artificial intelligence will replace the artists we love, and end creativity as we know it.
+**[How Artificial Intelligence Could Increase the Risk of Nuclear War](https://www.rand.org/blog/articles/2018/04/how-artificial-intelligence-could-increase-the-risk.html)**
+> Could artificial intelligence upend concepts of nuclear deterrence that have helped spare the world from nuclear war since 1945? Stunning advances in AI—coupled with a proliferation of drones, satellites, and other sensors—raise the possibility that countries could find and threaten each other's nuclear forces, escalating tensions.
 
-**[Welcome to GLUE.](https://gluebenchmark.com/)**
-> The General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems. 
+**[AI Software Writing AI Software For Healthcare?](https://www.nextplatform.com/2018/04/26/ai-software-writing-ai-software-for-healthcare/)**
+> Software that writes itself? We needed to think about that comment some more, how does this help healthcare? Is the software that the software writes going to be the right software? So many questions.
+
+**[Accelerating Deep Neuroevolution: Train Atari in Hours on a Single Personal Computer](https://eng.uber.com/accelerated-neuroevolution/)**
+> we are [releasing open source code](https://github.com/uber-common/deep-neuroevolution/tree/master/gpu_implementation) that makes it possible to conduct such research much faster and cheaper. With this code, the time it takes to train deep neural networks to play Atari, which takes ~1 hour on 720 CPUs, now takes ~4 hours on a single modern desktop. This point is important because it dramatically affects our perceptions of the range of resources required to conduct this kind of research, making it accessible to a much larger group of researchers.
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
@@ -107,3 +110,5 @@
 **[Weekly Digest Apr. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-04_2.md)**
 
 **[Weekly Digest Apr. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-04_3.md)**
+
+**[Weekly Digest Apr. 2018 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-04_4.md)**
