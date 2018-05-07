@@ -1,42 +1,40 @@
 # Articles of AI/ML/DL
 
-## Weekly Digest 2018-05 \#1
+## Weekly Digest 2018-05 \#2
 
-**[A Brief Guide of xPU for AI Accelerators](https://www.sigarch.org/a-brief-guide-of-xpu-for-ai-accelerators/)**
-> a quick survey on various AI hardware accelerators developed in the last several years: Other than CPU/GPU that we are familiar with, we have seem many xPUs that are related to AI hardware accelerators: From A to Z, which letter is not used yet for your xPU design? 
+**[AI will spell the end of capitalism](https://www.washingtonpost.com/news/theworldpost/wp/2018/05/03/end-of-capitalism)**
+> The most momentous challenge facing socio-economic systems today is the arrival of artificial intelligence. If AI remains under the control of market forces, it will inexorably result in a super-rich oligopoly of data billionaires who reap the wealth created by robots that displace human labor, leaving massive unemployment in their wake.
+> But China’s socialist market economy could provide a solution to this. If AI rationally allocates resources through big data analysis, and if robust feedback loops can supplant the imperfections of “the invisible hand” while fairly sharing the vast wealth it creates, a planned economy that actually works could at last be achievable.
 
-**[Introduction to Decision Tree Learning](https://heartbeat.fritz.ai/introduction-to-decision-tree-learning-cd604f85e236)**
-> From Kaggle to classrooms, one of the first lessons in machine learning involves decision trees. The reason for the focus on decision trees is that they aren’t very mathematics heavy compared to other ML approaches, and at the same time, they provide reasonable accuracy on classification problems.
+**[AI Researchers Are Boycotting Nature’s New Machine Intelligence Journal](https://motherboard.vice.com/en_us/article/a3yxwb/ai-researchers-are-boycotting-natures-new-machine-intelligence-journal)**
+> Researchers from Google, Facebook, IBM, MIT and Harvard have pledged not to contribute to a new journal about machine learning, citing its lack of open access.
 
-**[Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)**
-> "A friend of mine who is about to start a career in artificial intelligence research recently asked what I wish I had known when I started two years ago. Below are some lessons I have learned so far. They range from general life lessons to relatively specific tricks of the AI trade. I hope others find them useful."
+**[Artificial Intelligence Is Cracking Open the Vatican's Secret Archives](https://www.theatlantic.com/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/)**
+> A new project untangles the handwritten texts in one of the world’s largest historical collections.
 
-**[Comparing Google’s TPUv2 against Nvidia’s V100 on ResNet-50](https://blog.riseml.com/comparing-google-tpuv2-against-nvidia-v100-on-resnet-50-c2bbb6a51e5e)**
-> Google recently added the [Tensor Processing Unit v2 (TPUv2)](https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html), a custom-developed microchip to accelerate deep learning, to its cloud offering. The TPUv2 is the second generation of this chip and the first publicly available deep learning accelerator that has the potential of becoming an alternative to Nvidia GPUs. We recently reported our first experience and received a lot of requests for a more detailed comparison to [Nvidia V100 GPUs](https://www.nvidia.com/en-us/data-center/tesla-v100/).
+**[AI Assistants Ranked: Google's Smartest, Alexa's Catching Up, Cortana Surprises, Siri Falls Behind](https://www.forbes.com/sites/johnkoetsier/2018/04/24/ai-assistants-ranked-googles-smartest-alexas-catching-up-cortana-surprises-siri-falls-behind/#2414edbf492a)**
+> Google Assistant is the smartest AI assistant. Microsoft's Cortana is surprisingly good, coming in second. Alexa is learning faster than any other assistant.
 
-**[UP NEXT: A BETTER RECOMMENDATION SYSTEM](https://www.wired.com/story/creating-ethical-recommendation-engines/)**
-> As the consequences of curatorial decisions grow more dire, we need to ask: Can we make the internet’s recommendation engines more ethical? And if so, how?
+**[Chinese AI Chip Maker Cambricon Unveils New Cloud-Based Smart Chip](https://www.chinamoneynetwork.com/2018/05/04/chinese-ai-chip-maker-cambricon-unveils-new-cloud-based-smart-chip)**
+> Chinese artificial intelligence chip maker Cambricon Technologies Corp Ltd has unveiled two new products, a cloud-based smart chip Cambricon MLU100 and a new version of its AI processor IP product Cambricon 1M, at a launching event in Shanghai on May 3rd.
 
-**[Can Amazon Build a Home Robot That Is Useful and Affordable?](https://spectrum.ieee.org/automaton/robotics/home-robots/amazon-home-robots)**
-> Domestic robots are hard, but rumor has it that Amazon wants in.
+**[Data Science for Startups: Introduction](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)**
+> The goal of this series of blog posts is to provide an overview of how to build a data science platform from scratch for a startup, providing real examples using Google Cloud Platform (GCP) that readers can try out themselves.
 
-**[The economics of artificial intelligence](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-economics-of-artificial-intelligence)**
-> Rotman School of Management professor Ajay Agrawal explains how AI changes the cost of prediction and what this means for business.
+**[Stochastic Weight Averaging — a New Way to Get State of the Art Results in Deep Learning](https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a)**
+> In this article, I will discuss two interesting recent papers that provide an easy way to improve performance of any given neural network by using a smart way to ensemble. 
 
-**[Toward the Jet Age of machine learning](https://www.oreilly.com/ideas/toward-the-jet-age-of-machine-learning)**
-> Solving the challenges of efficiency, automation, and safety will require cooperation between researchers and engineers spanning both academia and industry.
+**[An Introduction to Deep Learning for Tabular Data](http://www.fast.ai/2018/04/29/categorical-embeddings/)**
+> There is a powerful technique that is winning Kaggle competitions and is widely used at Google (according to Jeff Dean), Pinterest, and Instacart, yet that many people don’t even realize is possible: the use of deep learning for tabular data, and in particular, the creation of embeddings for categorical variables.
 
-**[Why Is the Human Brain So Efficient?](http://nautil.us/issue/59/connections/why-is-the-human-brain-so-efficient)**
-> How massive parallelism lifts the brain’s performance above that of AI.
+**[Command Line Tricks For Data Scientists](https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da)**
+> Aspiring to master the command line should be on every developer’s list, especially data scientists. Learning the ins and outs of your terminal will undeniably make you more productive. 
 
-**[How Artificial Intelligence Could Increase the Risk of Nuclear War](https://www.rand.org/blog/articles/2018/04/how-artificial-intelligence-could-increase-the-risk.html)**
-> Could artificial intelligence upend concepts of nuclear deterrence that have helped spare the world from nuclear war since 1945? Stunning advances in AI—coupled with a proliferation of drones, satellites, and other sensors—raise the possibility that countries could find and threaten each other's nuclear forces, escalating tensions.
+**[AI Revives In-Memory Processors](https://www.eetimes.com/document.asp?doc_id=1333238)**
+> The processors promise to extend chip performance at a time when CMOS scaling has slowed and deep-learning algorithms demanding dense multiply-accumulate arrays are gaining traction. The chips, still more than a year from commercial use, also could be vehicles for an emerging class of non-volatile memories.
 
-**[AI Software Writing AI Software For Healthcare?](https://www.nextplatform.com/2018/04/26/ai-software-writing-ai-software-for-healthcare/)**
-> Software that writes itself? We needed to think about that comment some more, how does this help healthcare? Is the software that the software writes going to be the right software? So many questions.
-
-**[Accelerating Deep Neuroevolution: Train Atari in Hours on a Single Personal Computer](https://eng.uber.com/accelerated-neuroevolution/)**
-> we are [releasing open source code](https://github.com/uber-common/deep-neuroevolution/tree/master/gpu_implementation) that makes it possible to conduct such research much faster and cheaper. With this code, the time it takes to train deep neural networks to play Atari, which takes ~1 hour on 720 CPUs, now takes ~4 hours on a single modern desktop. This point is important because it dramatically affects our perceptions of the range of resources required to conduct this kind of research, making it accessible to a much larger group of researchers.
+**[EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)**
+> When talking to colleagues I realized that not everyone knows about einsum, my favorite function for developing deep learning models. This post is trying to change that once and for all.
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
@@ -112,3 +110,5 @@
 **[Weekly Digest Apr. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-04_3.md)**
 
 **[Weekly Digest Apr. 2018 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-04_4.md)**
+
+**[Weekly Digest May. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_1.md)**
