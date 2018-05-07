@@ -1,4 +1,4 @@
-## Weekly Digest 2018-05 \#1
+## Weekly Digest 2018-05 \#2
 
 **[AI will spell the end of capitalism](https://www.washingtonpost.com/news/theworldpost/wp/2018/05/03/end-of-capitalism)**
 > The most momentous challenge facing socio-economic systems today is the arrival of artificial intelligence. If AI remains under the control of market forces, it will inexorably result in a super-rich oligopoly of data billionaires who reap the wealth created by robots that displace human labor, leaving massive unemployment in their wake.
