@@ -32,3 +32,6 @@
 
 **[How Long Until a Robot Cries?](http://nautil.us/issue/60/searches/-how-long-until-a-robot-cries)**
 > Identifying the mechanics of emotions.
+
+**[Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)**
+> In many applications of machine learning, such as machine learning for medical diagnosis, we would like to have machine learning algorithms that do not memorize sensitive information about the training set, such as the specific medical histories of individual patients. Differential privacy is a framework for measuring the privacy guarantees provided by an algorithm. Through the lens of differential privacy, we can design machine learning algorithms that responsibly train models on private data. 
