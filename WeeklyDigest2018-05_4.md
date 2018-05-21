@@ -6,11 +6,17 @@
 **[A.I. Is Harder Than You Think](https://www.nytimes.com/2018/05/18/opinion/artificial-intelligence-challenges.html)**
 > The reason Google Duplex is so narrow in scope isn’t that it represents a small but important first step toward such goals. The reason is that the field of A.I. doesn’t yet have a clue how to do any better.
 
+**[Inside Google, a Debate Rages: Should It Sell Artificial Intelligence to the Military?](https://www.bloomberg.com/news/articles/2018-05-14/inside-google-a-debate-rages-should-it-sell-artificial-intelligence-to-the-military)**
+> To win in the business of cloud computing, the company tiptoes into the business of war. Some staff fear it’s a first step toward autonomous killing machines.
+
 **[Setting benchmarks in machine learning](https://www.oreilly.com/ideas/setting-benchmarks-in-machine-learning)**
 > Dave Patterson and other industry leaders discuss how MLPerf will define an entire suite of benchmarks to measure performance of software, hardware, and cloud systems.
 
 **[The World’s Dominant Crypto-Mining Company Wants to Own AI](https://www.bloomberg.com/news/features/2018-05-17/china-s-crypto-chips-king-sets-his-sights-on-ai)**
 > In a rare interview, Bitmain’s Jihan Wu talks about his plans to take on Nvidia, Intel, and AMD.
+
+**[HOW TECH CAN TURN DOCTORS INTO CLERICAL WORKERS](https://www.nytimes.com/interactive/2018/05/16/magazine/health-issue-what-we-lose-with-data-driven-medicine.html)**
+> THE THREAT THAT ELECTRONIC HEALTH RECORDS AND MACHINE LEARNING POSE TO PHYSICIANS’ CLINICAL JUDGMENT — AND THEIR WELL-BEING.
 
 **[To Build Truly Intelligent Machines, Teach Them Cause and Effect](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/)**
 > Judea Pearl, a pioneering figure in artificial intelligence, argues that AI has been stuck in a decades-long rut. His prescription for progress? Teach machines to understand the question why.
