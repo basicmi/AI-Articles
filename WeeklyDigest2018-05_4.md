@@ -1,4 +1,4 @@
-## Weekly Digest 2018-05 \#4
+## AI Articles of the week
 
 **[Uh, Did Google Fake Its Big A.I. Demo?](https://www.vanityfair.com/news/2018/05/uh-did-google-fake-its-big-ai-demo/amp)**
 > The demo was indeed impressive. It was also pretty unsettling, as many people quickly noted. (“Horrifying,” wrote one critic.) But is it possible that the promise of Google’s advanced artificial-intelligence tech is too good to be true? 
