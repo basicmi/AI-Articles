@@ -3,6 +3,9 @@
 **[Europe, not the U.S., is now the most powerful regulator of Silicon Valley](https://www.washingtonpost.com/amphtml/business/technology/europe-not-the-us-is-now-the-most-powerful-regulator-of-silicon-valley/2018/05/25/f7dfb600-604f-11e8-8c93-8cf33c21da8d_story.html?noredirect=on&utm_term=.27c8371188b8&__twitter_impression=true)**
 > Europe implemented a sweeping overhaul of digital-privacy laws on Friday that has reshaped how technology companies handle customer data, creating a de-facto global standard that gives Americans new protections and the nation’s technology companies new headaches.
 
+**[Navigating the risks of artificial intelligence and machine learning in low-income countries](https://techcrunch.com/2018/05/24/navigating-the-risks-of-artificial-intelligence-and-machine-learning-in-low-income-countries/)**
+> Based on ongoing research and interviews with aid workers and technology firms, we’ve learned five basic things to keep in mind when applying AI and ML in low-income countries
+
 **[Facebook Is Designing Its Own Chips to Help Filter Live Videos](https://www.bloomberg.com/news/articles/2018-05-25/facebook-is-designing-its-own-chips-to-help-filter-live-videos)**
 > Facebook Inc. is working on designing computer-chips that are more energy-efficient at analyzing and filtering live video content, its chief artificial intelligence scientist Yann LeCun said.
 
@@ -11,6 +14,9 @@
 
 **[Skill shift: Automation and the future of the workforce](https://www.mckinsey.com/featured-insights/future-of-organizations-and-work/skill-shift-automation-and-the-future-of-the-workforce)**
 > Demand for technological, social and emotional, and higher cognitive skills will rise by 2030. How will workers and organizations adapt?
+
+**[LOTS OF LOBBIES AND ZERO ZOMBIES: HOW SELF-DRIVING CARS WILL RESHAPE CITIES](https://www.wired.com/story/self-driving-cars-cities/)**
+> some ideas for how urban planners of the future might reimagine those outdated layouts—and transform the city into a joyful mess of throughways and byways optimized not for cars but for people.
 
 **[Does the brain store information in discrete or analog form?](https://www.technologyreview.com/s/611165/does-the-brain-store-information-in-discrete-or-analog-form/)**
 > New evidence in favor of a discrete form of data storage could change the way we understand the brain and the devices we build to interface with it.
