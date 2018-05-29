@@ -1,46 +1,52 @@
 # AI Articles of the week
 
-**[Uh, Did Google Fake Its Big A.I. Demo?](https://www.vanityfair.com/news/2018/05/uh-did-google-fake-its-big-ai-demo/amp)**
-> The demo was indeed impressive. It was also pretty unsettling, as many people quickly noted. (“Horrifying,” wrote one critic.) But is it possible that the promise of Google’s advanced artificial-intelligence tech is too good to be true? 
+**[Europe, not the U.S., is now the most powerful regulator of Silicon Valley](https://www.washingtonpost.com/amphtml/business/technology/europe-not-the-us-is-now-the-most-powerful-regulator-of-silicon-valley/2018/05/25/f7dfb600-604f-11e8-8c93-8cf33c21da8d_story.html?noredirect=on&utm_term=.27c8371188b8&__twitter_impression=true)**
+> Europe implemented a sweeping overhaul of digital-privacy laws on Friday that has reshaped how technology companies handle customer data, creating a de-facto global standard that gives Americans new protections and the nation’s technology companies new headaches.
 
-**[A.I. Is Harder Than You Think](https://www.nytimes.com/2018/05/18/opinion/artificial-intelligence-challenges.html)**
-> The reason Google Duplex is so narrow in scope isn’t that it represents a small but important first step toward such goals. The reason is that the field of A.I. doesn’t yet have a clue how to do any better.
+**[Navigating the risks of artificial intelligence and machine learning in low-income countries](https://techcrunch.com/2018/05/24/navigating-the-risks-of-artificial-intelligence-and-machine-learning-in-low-income-countries/)**
+> Based on ongoing research and interviews with aid workers and technology firms, we’ve learned five basic things to keep in mind when applying AI and ML in low-income countries
 
-**[Inside Google, a Debate Rages: Should It Sell Artificial Intelligence to the Military?](https://www.bloomberg.com/news/articles/2018-05-14/inside-google-a-debate-rages-should-it-sell-artificial-intelligence-to-the-military)**
-> To win in the business of cloud computing, the company tiptoes into the business of war. Some staff fear it’s a first step toward autonomous killing machines.
+**[Facebook Is Designing Its Own Chips to Help Filter Live Videos](https://www.bloomberg.com/news/articles/2018-05-25/facebook-is-designing-its-own-chips-to-help-filter-live-videos)**
+> Facebook Inc. is working on designing computer-chips that are more energy-efficient at analyzing and filtering live video content, its chief artificial intelligence scientist Yann LeCun said.
 
-**[Setting benchmarks in machine learning](https://www.oreilly.com/ideas/setting-benchmarks-in-machine-learning)**
-> Dave Patterson and other industry leaders discuss how MLPerf will define an entire suite of benchmarks to measure performance of software, hardware, and cloud systems.
+**[Why AI Will Bring an Explosion of New Jobs](https://hackernoon.com/why-ai-will-bring-an-explosion-of-new-jobs-11dc203890b)**
+> What if it’s not the end of work but the beginning of a massive job boom unlike anything we’ve ever seen in history?
 
-**[The World’s Dominant Crypto-Mining Company Wants to Own AI](https://www.bloomberg.com/news/features/2018-05-17/china-s-crypto-chips-king-sets-his-sights-on-ai)**
-> In a rare interview, Bitmain’s Jihan Wu talks about his plans to take on Nvidia, Intel, and AMD.
+**[Skill shift: Automation and the future of the workforce](https://www.mckinsey.com/featured-insights/future-of-organizations-and-work/skill-shift-automation-and-the-future-of-the-workforce)**
+> Demand for technological, social and emotional, and higher cognitive skills will rise by 2030. How will workers and organizations adapt?
 
-**[HOW TECH CAN TURN DOCTORS INTO CLERICAL WORKERS](https://www.nytimes.com/interactive/2018/05/16/magazine/health-issue-what-we-lose-with-data-driven-medicine.html)**
-> THE THREAT THAT ELECTRONIC HEALTH RECORDS AND MACHINE LEARNING POSE TO PHYSICIANS’ CLINICAL JUDGMENT — AND THEIR WELL-BEING.
+**[LOTS OF LOBBIES AND ZERO ZOMBIES: HOW SELF-DRIVING CARS WILL RESHAPE CITIES](https://www.wired.com/story/self-driving-cars-cities/)**
+> some ideas for how urban planners of the future might reimagine those outdated layouts—and transform the city into a joyful mess of throughways and byways optimized not for cars but for people.
 
-**[To Build Truly Intelligent Machines, Teach Them Cause and Effect](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/)**
-> Judea Pearl, a pioneering figure in artificial intelligence, argues that AI has been stuck in a decades-long rut. His prescription for progress? Teach machines to understand the question why.
+**[Does the brain store information in discrete or analog form?](https://www.technologyreview.com/s/611165/does-the-brain-store-information-in-discrete-or-analog-form/)**
+> New evidence in favor of a discrete form of data storage could change the way we understand the brain and the devices we build to interface with it.
 
-**[How the Enlightenment Ends](https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/)**
-> Philosophically, intellectually—in every way—human society is unprepared for the rise of artificial intelligence.
+**[Basic instincts](http://science.sciencemag.org/content/360/6391/845.full)**
+> Some say artificial intelligence needs to learn like a child.
 
-**[Artificial intelligence will both disrupt and benefit the workplace, Stanford scholar says](https://news.stanford.edu/2018/05/17/artificial-intelligence-workplace/)**
-> Artificial intelligence offers both promise and peril as it revolutionizes the workplace, the economy and personal lives, says James Timbie of the Hoover Institution, who studies artificial intelligence and other technologies.
+**[Growing up with AI: How can families play and learn with their new smart toys and companions?](https://medium.com/mit-media-lab/growing-up-with-ai-how-can-families-play-and-learn-with-their-new-smart-toys-and-companions-fe9abcc6e152)**
+> what this experience will look like for today’s children, who are not just growing up with the web, but are also the first generation of kids to grow up with artificial intelligence (AI) in their daily lives.
 
-**[Employers are monitoring computers, toilet breaks – even emotions. Is your boss watching you?](https://www.theguardian.com/world/2018/may/14/is-your-boss-secretly-or-not-so-secretly-watching-you)**
-> From microchip implants to wristband trackers and sensors that can detect fatigue and depression, new technology is enabling employers to watch staff in more and more intrusive ways. How worried should we be?
+**[Deep Convolutional Neural Networks as Models of the Visual System: Q&A](https://neurdiness.wordpress.com/2018/05/17/deep-convolutional-neural-networks-as-models-of-the-visual-system-qa/)**
+> Q&A format to paint a fairly reasonable and accurate picture of the use of CNNs for modeling biological vision.
 
-**[Introduction to Recommender Systems in 2018](https://tryolabs.com/blog/introduction-to-recommender-systems/)**
-> In this blog post, we’ll describe the broad types of the most popular recommender systems and give insights into how they work, going through a few examples.
+**[Standardizing a Machine Learning Framework for Applied Research – PyTorch vs MXNet](http://www.borealisai.com/2018/02/16/standardizing-a-machine-learning-framework-for-applied-research/)**
+> Until now, the Machine Learning (ML) frameworks we’ve used at Borealis AI have varied according to individual preference. But as our applied team grows, we’re finding that a preference-based system has certain shortcomings that have led to inefficiencies and delays in our research projects. As a result, we identified two main arguments in favour of standardizing a single framework for the lab.
 
-**[Neural text generation: How to generate text using conditional language models](https://medium.com/phrasee/neural-text-generation-generating-text-using-conditional-language-models-a37b69c7cd4b)**
-> Here is a toy project: build a Twitter bot that generates dialog in the style of Simpsons characters. 
+**[Categorizing Listing Photos at Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3)**
+> Large-scale deep learning models are changing the way we think about images of homes on our platform.
 
-**[Two-sample t-test and robustness](https://www.johndcook.com/blog/2018/05/11/two-sample-t-test/)**
-> A two-sample t-test is intended to determine whether there’s evidence that two samples have come from distributions with different means. The test assumes that both samples come from normal distributions.
+**[“That’s Mental!” Using LDA Topic Modeling to Investigate the Discourse on Mental Health over Time](https://towardsdatascience.com/thats-mental-using-lda-topic-modeling-to-investigate-the-discourse-on-mental-health-over-time-11da252259c3)**
+> For this project I set out to investigate the contexts in which ‘mental health’ has been brought up over time. For this purpose, I collected ~30k New York Times articles from the 80s to present to analyze using topic modeling.
 
-**[TF-rex: Playing Google's T-rex game with TensorFlow](https://vdutor.github.io/blog/2018/05/07/TF-rex.html)**
-> The goal of this project is to play Google’s offline T-rex Dino game using Reinforcement Learning (RL). The RL algorithm is based on the Deep Q-Learning algorithm [1] and is implemented in TensorFlow (TF), hence the name TF-rex ;). Google’s offline game consists of a T-rex striving to dodge obstacles, such as cactuses and birds, and surviving as long as possible. The dino is able to perform three actions: “jumping”, “ducking” and “going forward”
+**[Russian Natural Language Processing](https://blog.primer.ai/technology/2018/05/22/Russian-Natural-Language-Processing.html)**
+> Is there really one NLP language model to rule them all?
+
+**[Into a Textual Heart of Darkness](https://towardsdatascience.com/into-a-textual-heart-of-darkness-39b3895ce21e)**
+> Going zero to not-quite-hero in NLP via hate speech classification
+
+**[Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)**
+> In this paper, we propose the Self-Attention Generative Adversarial Network (SAGAN) which allows attention-driven, long-range dependency modeling for image generation tasks. Traditional convolutional GANs generate high-resolution details as a function of only spatially local points in lower-resolution feature maps. In SAGAN, details can be generated using cues from all feature locations. Moreover, the discriminator can check that highly detailed features in distant portions of the image are consistent with each other. Furthermore, recent work has shown that generator conditioning affects GAN performance. Leveraging this insight, we apply spectral normalization to the GAN generator and find that this improves training dynamics. The proposed SAGAN achieves the state-of-the-art results, boosting the best published Inception score from 36.8 to 52.52 and reducing Frechet Inception distance from 27.62 to 18.65 on the challenging ImageNet dataset. Visualization of the attention layers shows that the generator leverages neighborhoods that correspond to object shapes rather than local regions of fixed shape.
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
@@ -122,3 +128,5 @@
 **[Weekly Digest May. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_2.md)**
 
 **[Weekly Digest May. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_3.md)**
+
+**[Weekly Digest May. 2018 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_4.md)**
