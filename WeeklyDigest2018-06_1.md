@@ -27,7 +27,7 @@
 **[IBM Researchers Explain Machine Learning Models By Exploring What Isn't There](https://www.forbes.com/sites/alexknapp/2018/05/25/ibm-researchers-explain-machine-learning-models-by-exploring-what-isnt-there/)**
 > To help get a better understanding of how machine learning algorithms arrive at their decisions, the IBM team created a system for "contrastive explanations"–looking for information that was missing in order to better understand how a machine learning model arrived at its conclusion.
 
-**[Microsoft is creating an oracle for catching biased AI algorithms](As more people use artificial intelligence, they will need tools that detect unfairness in the underlying algorithms.)**
+**[Microsoft is creating an oracle for catching biased AI algorithms](https://www.technologyreview.com/s/611138/microsoft-is-creating-an-oracle-for-catching-biased-ai-algorithms/)**
 > Microsoft is building a tool to automatically identify bias in a range of different AI algorithms. It is the boldest effort yet to automate the detection of unfairness that may creep into machine learning—and it could help businesses make use of AI without inadvertently discriminating against certain people.
 
 **[Machine Un-Learning: Why Forgetting Might Be the Key to AI](https://hackernoon.com/machine-un-learning-why-forgetting-might-be-the-key-to-ai-406445177a80)**
