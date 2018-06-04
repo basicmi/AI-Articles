@@ -3,7 +3,7 @@
 **[World’s most valuable AI start-up SenseTime raises US$620 million to spearhead China tech ambitions](http://www.scmp.com/tech/start-ups/article/2148563/worlds-most-valuable-ai-start-sensetime-raises-us620-million)**
 > China has made the development of artificial intelligence and other advanced technologies a core pillar of its efforts to reform its economy and secure leadership in what has been dubbed a fourth industrial revolution
 
-**[FDA permits marketing of artificial intelligence algorithm for aiding providers in detecting wrist fractures](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm608833.htm)
+**[FDA permits marketing of artificial intelligence algorithm for aiding providers in detecting wrist fractures](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm608833.htm)**
 > 
 
 **[ARM Details "Project Trillium" Machine Learning Processor Architecture](https://www.anandtech.com/show/12791/arm-details-project-trillium-mlp-architecture)**
