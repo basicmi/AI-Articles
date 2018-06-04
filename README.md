@@ -1,52 +1,37 @@
 # AI Articles of the week
 
-**[Europe, not the U.S., is now the most powerful regulator of Silicon Valley](https://www.washingtonpost.com/amphtml/business/technology/europe-not-the-us-is-now-the-most-powerful-regulator-of-silicon-valley/2018/05/25/f7dfb600-604f-11e8-8c93-8cf33c21da8d_story.html?noredirect=on&utm_term=.27c8371188b8&__twitter_impression=true)**
-> Europe implemented a sweeping overhaul of digital-privacy laws on Friday that has reshaped how technology companies handle customer data, creating a de-facto global standard that gives Americans new protections and the nation’s technology companies new headaches.
+**[World’s most valuable AI start-up SenseTime raises US$620 million to spearhead China tech ambitions](http://www.scmp.com/tech/start-ups/article/2148563/worlds-most-valuable-ai-start-sensetime-raises-us620-million)**
+> China has made the development of artificial intelligence and other advanced technologies a core pillar of its efforts to reform its economy and secure leadership in what has been dubbed a fourth industrial revolution
 
-**[Navigating the risks of artificial intelligence and machine learning in low-income countries](https://techcrunch.com/2018/05/24/navigating-the-risks-of-artificial-intelligence-and-machine-learning-in-low-income-countries/)**
-> Based on ongoing research and interviews with aid workers and technology firms, we’ve learned five basic things to keep in mind when applying AI and ML in low-income countries
+**[FDA permits marketing of artificial intelligence algorithm for aiding providers in detecting wrist fractures](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm608833.htm)
+> 
 
-**[Facebook Is Designing Its Own Chips to Help Filter Live Videos](https://www.bloomberg.com/news/articles/2018-05-25/facebook-is-designing-its-own-chips-to-help-filter-live-videos)**
-> Facebook Inc. is working on designing computer-chips that are more energy-efficient at analyzing and filtering live video content, its chief artificial intelligence scientist Yann LeCun said.
+**[ARM Details "Project Trillium" Machine Learning Processor Architecture](https://www.anandtech.com/show/12791/arm-details-project-trillium-mlp-architecture)**
+> Today Arm details more of the architecture of what Arm now seems to more consistently call their “machine learning processor” or MLP from here on now. The MLP IP started off a blank sheet in terms of architecture implementation and the team consists of engineers pulled off from the CPU and GPU teams.
 
-**[Why AI Will Bring an Explosion of New Jobs](https://hackernoon.com/why-ai-will-bring-an-explosion-of-new-jobs-11dc203890b)**
-> What if it’s not the end of work but the beginning of a massive job boom unlike anything we’ve ever seen in history?
+**[Move Slowly, and Don’t Break Things](https://medium.com/future-crunch/move-slowly-and-dont-break-things-693f00601b19)**
+> As we make the move from digital to cognitive, the tech industry should be thinking a lot harder about putting safety first
 
-**[Skill shift: Automation and the future of the workforce](https://www.mckinsey.com/featured-insights/future-of-organizations-and-work/skill-shift-automation-and-the-future-of-the-workforce)**
-> Demand for technological, social and emotional, and higher cognitive skills will rise by 2030. How will workers and organizations adapt?
+**[WHILE WE REMAIN](https://wilsonquarterly.com/quarterly/living-with-artificial-intelligence/while-we-remain/)**
+> The greatest threat that humanity faces from artificial intelligence is not killer robots, but rather, our lack of willingness to analyze, name, and live to the values we want society to have today.
 
-**[LOTS OF LOBBIES AND ZERO ZOMBIES: HOW SELF-DRIVING CARS WILL RESHAPE CITIES](https://www.wired.com/story/self-driving-cars-cities/)**
-> some ideas for how urban planners of the future might reimagine those outdated layouts—and transform the city into a joyful mess of throughways and byways optimized not for cars but for people.
+**[AI Design Guidelines](https://medium.com/design-ibm/ai-design-guidelines-e06f7e92d864)**
+> A listing of the latest publications on best practices for UX and conversation design using AI
 
-**[Does the brain store information in discrete or analog form?](https://www.technologyreview.com/s/611165/does-the-brain-store-information-in-discrete-or-analog-form/)**
-> New evidence in favor of a discrete form of data storage could change the way we understand the brain and the devices we build to interface with it.
+**[Machine Learning vs Machine Reasoning: Know the Difference](https://edgylabs.com/machine-learning-vs-machine-reasoning-know-the-difference)**
+> Today, Machine Learning systems can learn by themselves from preset data. The next step in AI evolution towards human-level intelligence is machine reasoning, or the ability to apply prior knowledge to new situations.
 
-**[Basic instincts](http://science.sciencemag.org/content/360/6391/845.full)**
-> Some say artificial intelligence needs to learn like a child.
+**[Facebook VP & Chief AI Scientist LeCun on Advancing AI](https://www.bloomberg.com/news/videos/2018-05-29/facebook-vp-chief-ai-scientist-lecun-on-advancing-ai-video)**
+> Facebook Vice President and Chief AI Scientist Yann LeCun speaks about the future of artificial intelligence on the third anniversary of the opening of the company's Paris AI lab with Bloomberg's Jeremy Kahn at Bloomberg's Sooner Than You Think in Paris. (Source: Bloomberg)
 
-**[Growing up with AI: How can families play and learn with their new smart toys and companions?](https://medium.com/mit-media-lab/growing-up-with-ai-how-can-families-play-and-learn-with-their-new-smart-toys-and-companions-fe9abcc6e152)**
-> what this experience will look like for today’s children, who are not just growing up with the web, but are also the first generation of kids to grow up with artificial intelligence (AI) in their daily lives.
+**[IBM Researchers Explain Machine Learning Models By Exploring What Isn't There](https://www.forbes.com/sites/alexknapp/2018/05/25/ibm-researchers-explain-machine-learning-models-by-exploring-what-isnt-there/)**
+> To help get a better understanding of how machine learning algorithms arrive at their decisions, the IBM team created a system for "contrastive explanations"–looking for information that was missing in order to better understand how a machine learning model arrived at its conclusion.
 
-**[Deep Convolutional Neural Networks as Models of the Visual System: Q&A](https://neurdiness.wordpress.com/2018/05/17/deep-convolutional-neural-networks-as-models-of-the-visual-system-qa/)**
-> Q&A format to paint a fairly reasonable and accurate picture of the use of CNNs for modeling biological vision.
+**[Microsoft is creating an oracle for catching biased AI algorithms](As more people use artificial intelligence, they will need tools that detect unfairness in the underlying algorithms.)**
+> Microsoft is building a tool to automatically identify bias in a range of different AI algorithms. It is the boldest effort yet to automate the detection of unfairness that may creep into machine learning—and it could help businesses make use of AI without inadvertently discriminating against certain people.
 
-**[Standardizing a Machine Learning Framework for Applied Research – PyTorch vs MXNet](http://www.borealisai.com/2018/02/16/standardizing-a-machine-learning-framework-for-applied-research/)**
-> Until now, the Machine Learning (ML) frameworks we’ve used at Borealis AI have varied according to individual preference. But as our applied team grows, we’re finding that a preference-based system has certain shortcomings that have led to inefficiencies and delays in our research projects. As a result, we identified two main arguments in favour of standardizing a single framework for the lab.
-
-**[Categorizing Listing Photos at Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3)**
-> Large-scale deep learning models are changing the way we think about images of homes on our platform.
-
-**[“That’s Mental!” Using LDA Topic Modeling to Investigate the Discourse on Mental Health over Time](https://towardsdatascience.com/thats-mental-using-lda-topic-modeling-to-investigate-the-discourse-on-mental-health-over-time-11da252259c3)**
-> For this project I set out to investigate the contexts in which ‘mental health’ has been brought up over time. For this purpose, I collected ~30k New York Times articles from the 80s to present to analyze using topic modeling.
-
-**[Russian Natural Language Processing](https://blog.primer.ai/technology/2018/05/22/Russian-Natural-Language-Processing.html)**
-> Is there really one NLP language model to rule them all?
-
-**[Into a Textual Heart of Darkness](https://towardsdatascience.com/into-a-textual-heart-of-darkness-39b3895ce21e)**
-> Going zero to not-quite-hero in NLP via hate speech classification
-
-**[Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)**
-> In this paper, we propose the Self-Attention Generative Adversarial Network (SAGAN) which allows attention-driven, long-range dependency modeling for image generation tasks. Traditional convolutional GANs generate high-resolution details as a function of only spatially local points in lower-resolution feature maps. In SAGAN, details can be generated using cues from all feature locations. Moreover, the discriminator can check that highly detailed features in distant portions of the image are consistent with each other. Furthermore, recent work has shown that generator conditioning affects GAN performance. Leveraging this insight, we apply spectral normalization to the GAN generator and find that this improves training dynamics. The proposed SAGAN achieves the state-of-the-art results, boosting the best published Inception score from 36.8 to 52.52 and reducing Frechet Inception distance from 27.62 to 18.65 on the challenging ImageNet dataset. Visualization of the attention layers shows that the generator leverages neighborhoods that correspond to object shapes rather than local regions of fixed shape.
+**[Machine Un-Learning: Why Forgetting Might Be the Key to AI](https://hackernoon.com/machine-un-learning-why-forgetting-might-be-the-key-to-ai-406445177a80)**
+> For humans, forgetting is more than just a failure to remember; it’s an active process that helps the brain take in new information and make decisions more effectively. Now, data scientists are applying neuroscience principles to improve machine learning, convinced that human brains may hold the key to unlocking Turing complete artificial intelligence.
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
@@ -130,3 +115,5 @@
 **[Weekly Digest May. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_3.md)**
 
 **[Weekly Digest May. 2018 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_4.md)**
+
+**[Weekly Digest May. 2018 \#5](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_5.md)**
