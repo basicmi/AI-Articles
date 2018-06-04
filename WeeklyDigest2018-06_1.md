@@ -15,7 +15,7 @@
 **[AI Design Guidelines](https://medium.com/design-ibm/ai-design-guidelines-e06f7e92d864)**
 > A listing of the latest publications on best practices for UX and conversation design using AI
 
-**[FDA permits marketing of artificial intelligence algorithm for aiding providers in detecting wrist fractures](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm608833.htm)
+**[FDA permits marketing of artificial intelligence algorithm for aiding providers in detecting wrist fractures](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm608833.htm)**
 > 
 
 **[Machine Learning vs Machine Reasoning: Know the Difference](https://edgylabs.com/machine-learning-vs-machine-reasoning-know-the-difference)**
