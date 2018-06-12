@@ -1,37 +1,31 @@
 # AI Articles of the week
 
-**[World’s most valuable AI start-up SenseTime raises US$620 million to spearhead China tech ambitions](http://www.scmp.com/tech/start-ups/article/2148563/worlds-most-valuable-ai-start-sensetime-raises-us620-million)**
-> China has made the development of artificial intelligence and other advanced technologies a core pillar of its efforts to reform its economy and secure leadership in what has been dubbed a fourth industrial revolution
+**[John Hennessy and David Patterson Deliver Turing Lecture at ISCA 2018](https://www.acm.org/hennessy-patterson-turing-lecture)**
+> Titled “A New Golden Age for Computer Architecture: Domain-Specific Hardware/Software Co-Design, Enhanced Security, Open Instruction Sets, and Agile Chip Development,” the talk covers recent developments and future directions in computer architecture.
 
-**[FDA permits marketing of artificial intelligence algorithm for aiding providers in detecting wrist fractures](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm608833.htm)**
-> 
+**[AI at Google: our principles](https://www.blog.google/topics/ai/ai-principles/)**
+> Google announced its new set of AI principles, and the company pledged not to use its technology for weaponry, surveillance that violates international norms, or pursuits that violate human rights. 
 
-**[ARM Details "Project Trillium" Machine Learning Processor Architecture](https://www.anandtech.com/show/12791/arm-details-project-trillium-mlp-architecture)**
-> Today Arm details more of the architecture of what Arm now seems to more consistently call their “machine learning processor” or MLP from here on now. The MLP IP started off a blank sheet in terms of architecture implementation and the team consists of engineers pulled off from the CPU and GPU teams.
+**[How Instagram’s algorithm works](https://techcrunch.com/2018/06/01/how-instagram-feed-works/)**
+> Yet Instagram has never explained exactly how the algorithm chooses what to show you until today. The Facebook -owned company assembled a group of reporters at its under-construction new San Francisco office to take the lid off the Instagram feed ranking algorithm.
 
-**[Move Slowly, and Don’t Break Things](https://medium.com/future-crunch/move-slowly-and-dont-break-things-693f00601b19)**
-> As we make the move from digital to cognitive, the tech industry should be thinking a lot harder about putting safety first
+**[The world’s most powerful supercomputer is tailor made for the AI era](https://www.technologyreview.com/s/611077/the-worlds-most-powerful-supercomputer-is-tailor-made-for-the-ai-era/)**
+> The technology used to build America’s new Summit machine will also help us make the leap to exascale computing.
 
-**[WHILE WE REMAIN](https://wilsonquarterly.com/quarterly/living-with-artificial-intelligence/while-we-remain/)**
-> The greatest threat that humanity faces from artificial intelligence is not killer robots, but rather, our lack of willingness to analyze, name, and live to the values we want society to have today.
+**[AI is acquiring a sense of smell that can detect illnesses in human breath](https://theconversation.com/ai-is-acquiring-a-sense-of-smell-that-can-detect-illnesses-in-human-breath-97627)**
+> Artificial intelligence (AI) is best known for its ability to see (as in driverless cars) and listen (as in Alexa and other home assistants). From now on, it may also smell. 
 
-**[AI Design Guidelines](https://medium.com/design-ibm/ai-design-guidelines-e06f7e92d864)**
-> A listing of the latest publications on best practices for UX and conversation design using AI
+**[Maps of the brain](http://www.lateralmag.com/articles/maps-of-the-brain)**
+> A CENTURY OF CORTICAL CARTOGRAPHY HAS HELPED NEUROLOGISTS UNDERSTAND HOW THE HUMAN BRAIN PERCEIVES AND INTERPRETS OUR COMPLEX SURROUNDINGS.
 
-**[Machine Learning vs Machine Reasoning: Know the Difference](https://edgylabs.com/machine-learning-vs-machine-reasoning-know-the-difference)**
-> Today, Machine Learning systems can learn by themselves from preset data. The next step in AI evolution towards human-level intelligence is machine reasoning, or the ability to apply prior knowledge to new situations.
+**[UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)**
+> In this blog post, I will explore important work in deep learning for object detection. I will introduce how those methods evolved over time and compare their differences and similarities. By showing innovations and limitations of each method and how later methods progress to solve previous problems, you will see — which is quite interesting — that research gets improved each time by just a small but elegant adjustment.
 
-**[Facebook VP & Chief AI Scientist LeCun on Advancing AI](https://www.bloomberg.com/news/videos/2018-05-29/facebook-vp-chief-ai-scientist-lecun-on-advancing-ai-video)**
-> Facebook Vice President and Chief AI Scientist Yann LeCun speaks about the future of artificial intelligence on the third anniversary of the opening of the company's Paris AI lab with Bloomberg's Jeremy Kahn at Bloomberg's Sooner Than You Think in Paris. (Source: Bloomberg)
+**[Attacks against machine learning — an overview](https://elie.net/blog/ai/attacks-against-machine-learning-an-overview)**
+> This blog post survey the attacks techniques that target AI (artificial intelligence) systems and how to protect against them.
 
-**[IBM Researchers Explain Machine Learning Models By Exploring What Isn't There](https://www.forbes.com/sites/alexknapp/2018/05/25/ibm-researchers-explain-machine-learning-models-by-exploring-what-isnt-there/)**
-> To help get a better understanding of how machine learning algorithms arrive at their decisions, the IBM team created a system for "contrastive explanations"–looking for information that was missing in order to better understand how a machine learning model arrived at its conclusion.
-
-**[Microsoft is creating an oracle for catching biased AI algorithms](https://www.technologyreview.com/s/611138/microsoft-is-creating-an-oracle-for-catching-biased-ai-algorithms/)**
-> Microsoft is building a tool to automatically identify bias in a range of different AI algorithms. It is the boldest effort yet to automate the detection of unfairness that may creep into machine learning—and it could help businesses make use of AI without inadvertently discriminating against certain people.
-
-**[Machine Un-Learning: Why Forgetting Might Be the Key to AI](https://hackernoon.com/machine-un-learning-why-forgetting-might-be-the-key-to-ai-406445177a80)**
-> For humans, forgetting is more than just a failure to remember; it’s an active process that helps the brain take in new information and make decisions more effectively. Now, data scientists are applying neuroscience principles to improve machine learning, convinced that human brains may hold the key to unlocking Turing complete artificial intelligence.
+**[Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)**
+> First part of the series focusss on Facebook Sentence Embedding
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
@@ -117,3 +111,5 @@
 **[Weekly Digest May. 2018 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_4.md)**
 
 **[Weekly Digest May. 2018 \#5](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_5.md)**
+
+**[Weekly Digest Jun. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_1.md)**
