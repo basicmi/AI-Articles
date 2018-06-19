@@ -1,31 +1,34 @@
 # AI Articles of the week
 
-**[John Hennessy and David Patterson Deliver Turing Lecture at ISCA 2018](https://www.acm.org/hennessy-patterson-turing-lecture)**
-> Titled “A New Golden Age for Computer Architecture: Domain-Specific Hardware/Software Co-Design, Enhanced Security, Open Instruction Sets, and Agile Chip Development,” the talk covers recent developments and future directions in computer architecture.
+**[The Cutting Edge of AI — Part 1](https://medium.com/@arijaMGavrilov/the-cutting-edge-of-ai-part-1-205bae6accdf)**
+> Notes from the day one of Exponential View talks and panels at CogX Festival, 11–12 June, London
 
-**[AI at Google: our principles](https://www.blog.google/topics/ai/ai-principles/)**
-> Google announced its new set of AI principles, and the company pledged not to use its technology for weaponry, surveillance that violates international norms, or pursuits that violate human rights. 
+**[Why the Future of Machine Learning is Tiny](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/)**
+>  I don’t know the details of what the future will bring, but I know ML on tiny, cheap battery powered chips is coming and will open the door for some amazing new applications!
 
-**[How Instagram’s algorithm works](https://techcrunch.com/2018/06/01/how-instagram-feed-works/)**
-> Yet Instagram has never explained exactly how the algorithm chooses what to show you until today. The Facebook -owned company assembled a group of reporters at its under-construction new San Francisco office to take the lid off the Instagram feed ranking algorithm.
+**[AI could get 100 times more energy-efficient with IBM’s new artificial synapses](https://www.technologyreview.com/s/611390/ai-could-get-100-times-more-energy-efficient-with-ibms-new-artificial-synapses/)**
+> Copying the features of a neural network in silicon might make machine learning more usable on small devices like smartphones.
 
-**[The world’s most powerful supercomputer is tailor made for the AI era](https://www.technologyreview.com/s/611077/the-worlds-most-powerful-supercomputer-is-tailor-made-for-the-ai-era/)**
-> The technology used to build America’s new Summit machine will also help us make the leap to exascale computing.
+**[Data science vs. statistics: two cultures?](https://link.springer.com/article/10.1007/s42081-018-0009-3)**
+> Data science is the business of learning from data, which is traditionally the business of statistics. Data science, however, is often understood as a broader, task-driven and computationally-oriented version of statistics. Both the term data science and the broader idea it conveys have origins in statistics and are a reaction to a narrower view of data analysis. Expanding upon the views of a number of statisticians, this paper encourages a big-tent view of data analysis. We examine how evolving approaches to modern data analysis relate to the existing discipline of statistics (e.g. exploratory analysis, machine learning, reproducibility, computation, communication and the role of theory). Finally, we discuss what these trends mean for the future of statistics by highlighting promising directions for communication, education and research.
 
-**[AI is acquiring a sense of smell that can detect illnesses in human breath](https://theconversation.com/ai-is-acquiring-a-sense-of-smell-that-can-detect-illnesses-in-human-breath-97627)**
-> Artificial intelligence (AI) is best known for its ability to see (as in driverless cars) and listen (as in Alexa and other home assistants). From now on, it may also smell. 
+**[Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/)**
+> Our approach is a combination of two existing ideas: transformers and unsupervised pre-training. 
 
-**[Maps of the brain](http://www.lateralmag.com/articles/maps-of-the-brain)**
-> A CENTURY OF CORTICAL CARTOGRAPHY HAS HELPED NEUROLOGISTS UNDERSTAND HOW THE HUMAN BRAIN PERCEIVES AND INTERPRETS OUR COMPLEX SURROUNDINGS.
+**[Machine Learning as a Service: Part 1](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2)**
+> Sentiment analysis: 10 applications and 4 services
 
-**[UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)**
-> In this blog post, I will explore important work in deep learning for object detection. I will introduce how those methods evolved over time and compare their differences and similarities. By showing innovations and limitations of each method and how later methods progress to solve previous problems, you will see — which is quite interesting — that research gets improved each time by just a small but elegant adjustment.
+**[Physicist Max Tegmark on the promise and pitfalls of artificial intelligence](https://venturebeat.com/2018/06/10/physicist-max-tegmark-on-the-promise-and-pitfalls-of-artificial-intelligence/)**
+> Tegmark recently spoke about AI’s potential — and its dangers — at IPsoft’s Digital Workforce Summit in New York City. After the keynote address, we spoke via phone about the challenges around AI, especially as they relate to autonomous weapons and defense systems like the Pentagon’s controversial Project Maven program.
 
-**[Attacks against machine learning — an overview](https://elie.net/blog/ai/attacks-against-machine-learning-an-overview)**
-> This blog post survey the attacks techniques that target AI (artificial intelligence) systems and how to protect against them.
+**[How To Become A Centaur](https://jods.mitpress.mit.edu/pub/issue3-case)**
+> The old story of AI is about human brains working against silicon brains. The new story of IA will be about human brains working with silicon brains. As it turns out, most of the world is the opposite of a chess game: Non-zero-sum — both players can win.
 
-**[Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)**
-> First part of the series focusss on Facebook Sentence Embedding
+**[Why did the neural network cross the road?](http://aiweirdness.com/post/174691534037/why-did-the-neural-network-cross-the-road)**
+> Can a machine learning algorithm learn to tell a joke? 
+
+**[AI Nationalism](https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism)**
+> For the past 9 months I have been presenting versions of this talk to AI researchers, investors, politicians and policy makers. I felt it was time to share these ideas with a wider audience. Thanks to the Ditchley conference on Machine Learning in 2017 for giving me a fantastic platform to get early feedback on my ideas. Thanks also to Nathan Benaich, Jack Clark, Matt Clifford, Jeff Ding, Paul Graham, Michael Page, Nick Srnicek, Yancey Strickler and Michelle You for helpful conversations and feedback on this piece.
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
@@ -113,3 +116,5 @@
 **[Weekly Digest May. 2018 \#5](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-05_5.md)**
 
 **[Weekly Digest Jun. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_1.md)**
+
+**[Weekly Digest Jun. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_2.md)**
