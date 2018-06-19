@@ -26,3 +26,6 @@
 
 **[Why did the neural network cross the road?](http://aiweirdness.com/post/174691534037/why-did-the-neural-network-cross-the-road)**
 > Can a machine learning algorithm learn to tell a joke? 
+
+**[AI Nationalism](https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism)**
+> For the past 9 months I have been presenting versions of this talk to AI researchers, investors, politicians and policy makers. I felt it was time to share these ideas with a wider audience. Thanks to the Ditchley conference on Machine Learning in 2017 for giving me a fantastic platform to get early feedback on my ideas. Thanks also to Nathan Benaich, Jack Clark, Matt Clifford, Jeff Ding, Paul Graham, Michael Page, Nick Srnicek, Yancey Strickler and Michelle You for helpful conversations and feedback on this piece.
