@@ -1,34 +1,43 @@
 # AI Articles of the week
 
-**[The Cutting Edge of AI — Part 1](https://medium.com/@arijaMGavrilov/the-cutting-edge-of-ai-part-1-205bae6accdf)**
-> Notes from the day one of Exponential View talks and panels at CogX Festival, 11–12 June, London
+**[The Cutting Edge of AI — Part 2](https://medium.com/@arijaMGavrilov/the-cutting-edge-of-ai-part-2-d46e2a3e2339)**
+> Notes from day two of Exponential View talks and panels at CogX Festival, 11–12 June, London
 
-**[Why the Future of Machine Learning is Tiny](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/)**
->  I don’t know the details of what the future will bring, but I know ML on tiny, cheap battery powered chips is coming and will open the door for some amazing new applications!
+**[This AI program could beat you in an argument—but it doesn’t know what it’s saying](https://www.technologyreview.com/s/611487/this-ai-program-could-beat-you-in-an-argumentbut-it-doesnt-know-what-its-saying/)**
+> The latest human-versus-machine matchup involves an argumentative AI system.
 
-**[AI could get 100 times more energy-efficient with IBM’s new artificial synapses](https://www.technologyreview.com/s/611390/ai-could-get-100-times-more-energy-efficient-with-ibms-new-artificial-synapses/)**
-> Copying the features of a neural network in silicon might make machine learning more usable on small devices like smartphones.
+**[Adobe is using machine learning to make it easier to spot Photoshopped images](https://www.theverge.com/2018/6/22/17487764/adobe-photoshopped-fakes-edit-spotted-using-machine-learning-ai)**
+> New research uses AI to automate traditional digital forensics
 
-**[Data science vs. statistics: two cultures?](https://link.springer.com/article/10.1007/s42081-018-0009-3)**
-> Data science is the business of learning from data, which is traditionally the business of statistics. Data science, however, is often understood as a broader, task-driven and computationally-oriented version of statistics. Both the term data science and the broader idea it conveys have origins in statistics and are a reaction to a narrower view of data analysis. Expanding upon the views of a number of statisticians, this paper encourages a big-tent view of data analysis. We examine how evolving approaches to modern data analysis relate to the existing discipline of statistics (e.g. exploratory analysis, machine learning, reproducibility, computation, communication and the role of theory). Finally, we discuss what these trends mean for the future of statistics by highlighting promising directions for communication, education and research.
+**[Exploring Tensorflow for Poets, or, Building a Pottery Classifier](https://electricarchaeology.ca/2018/06/14/exploring-tensorflow-for-poets-or-building-a-pottery-classifier/)**
+> In [our recent paper](https://journal.caa-international.org/articles/10.5334/jcaa.8/), ‘Fleshing Out the Bones’ we used the trained ‘Inception 3’ model as a way of determining clusters of images that we then studied for clues and hints: why did the machine cluster them this way? What are the common features?
 
-**[Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/)**
-> Our approach is a combination of two existing ideas: transformers and unsupervised pre-training. 
+**[Google Deep Mind’s Bogus AI Patent Filings](http://multiverseaccordingtoben.blogspot.com/2018/06/google-deep-minds-bogus-ai-patent.html)**
+>  politically weird stuff related to Google Deep Mind
 
-**[Machine Learning as a Service: Part 1](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2)**
-> Sentiment analysis: 10 applications and 4 services
+**[Is There a Smarter Path to Artificial Intelligence? Some Experts Hope So](https://mobile.nytimes.com/2018/06/20/technology/deep-learning-artificial-intelligence.html)**
+> Benjamin Grosof is the chief scientist at Kyndi, a Silicon Valley start-up that is using a decades-old programming language to develop software that can generate facts, concepts and inferences from small amounts of data.
 
-**[Physicist Max Tegmark on the promise and pitfalls of artificial intelligence](https://venturebeat.com/2018/06/10/physicist-max-tegmark-on-the-promise-and-pitfalls-of-artificial-intelligence/)**
-> Tegmark recently spoke about AI’s potential — and its dangers — at IPsoft’s Digital Workforce Summit in New York City. After the keynote address, we spoke via phone about the challenges around AI, especially as they relate to autonomous weapons and defense systems like the Pentagon’s controversial Project Maven program.
+**[Facebook open sources DensePose](https://research.fb.com/facebook-open-sources-densepose/)**
+> Facebook AI Research (FAIR) [open sourced DensePose](http://densepose.org/), our real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body.
 
-**[How To Become A Centaur](https://jods.mitpress.mit.edu/pub/issue3-case)**
-> The old story of AI is about human brains working against silicon brains. The new story of IA will be about human brains working with silicon brains. As it turns out, most of the world is the opposite of a chess game: Non-zero-sum — both players can win.
+**[Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)**
+> As machine learning infiltrates society, scientists are trying to help ward off injustice.
 
-**[Why did the neural network cross the road?](http://aiweirdness.com/post/174691534037/why-did-the-neural-network-cross-the-road)**
-> Can a machine learning algorithm learn to tell a joke? 
+**[Food Discovery with Uber Eats: Building a Query Understanding Engine](https://eng.uber.com/uber-eats-query-understanding/)**
+> At Uber Eats, we strive to help eaters find the exact food they want as effortlessly as possible.
 
-**[AI Nationalism](https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism)**
-> For the past 9 months I have been presenting versions of this talk to AI researchers, investors, politicians and policy makers. I felt it was time to share these ideas with a wider audience. Thanks to the Ditchley conference on Machine Learning in 2017 for giving me a fantastic platform to get early feedback on my ideas. Thanks also to Nathan Benaich, Jack Clark, Matt Clifford, Jeff Ding, Paul Graham, Michael Page, Nick Srnicek, Yancey Strickler and Michelle You for helpful conversations and feedback on this piece.
+**[Metacar](https://www.metacar-project.com/)**
+> A reinforcement learning environment for self-driving cars in the browser.
+
+**[Rebooting AI - Postulates](https://blog.piekniewski.info/2018/06/20/rebooting-ai-postulates/)**
+> Since there is now more attention to what I have to offer,  I decided to write down in a condensed form what I think is wrong with our approach to AI and what could we fix. 
+
+**[Alibaba v. Tencent: The Battle for Supremacy in China](http://fortune.com/longform/alibaba-tencent-china-internet/)**
+> Jack Ma of Alibaba and Pony Ma of Tencent have built tech titans that dominate China's digital economy. Is the world big enough for both of them?
+
+**[The Unbearable Awkwardness of Automation](https://www.theatlantic.com/technology/archive/2018/06/the-unbearable-awkwardness-of-automation/562670/)**
+> The machine age is changing the nature of work. In the process, it is also transforming buildings, and making them less hospitable for human use.
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
@@ -118,3 +127,5 @@
 **[Weekly Digest Jun. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_1.md)**
 
 **[Weekly Digest Jun. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_2.md)**
+
+**[Weekly Digest Jun. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_3.md)**
