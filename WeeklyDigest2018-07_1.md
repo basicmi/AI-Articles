@@ -21,3 +21,9 @@
 **[India’s mess of complexity is just what AI needs](https://www.technologyreview.com/s/611478/indias-mess-of-complexity-is-just-what-ai-needs/)**
 > The country’s diversity of scripts, dialects, dress, and culture is a challenge that will make artificial intelligence more resilient.
 
+**[The Future of Map-Making is Open and Powered by Sensors and AI](http://blog.improve-osm.org/en/2018/06/the-future-of-map-making-is-open-and-powered-by-sensors-and-ai/)**
+> The tools of digital map-making today look nothing like those we had even a decade ago. Driven by a mix of grassroots energy and passion combined with innovations in technology, we have seen a rapid evolution marked by three inflection points: the dawn of consumer GPS, availability of high-resolution aerial imagery at scale, and lastly a shift to large scale AI powered map-making tools in which we find ourselves today.
+
+**[Facial recognition software is not ready for use by law enforcement](https://techcrunch.com/2018/06/25/facial-recognition-software-is-not-ready-for-use-by-law-enforcement/)**
+> Recent news of Amazon’s engagement with law enforcement to provide facial recognition surveillance (branded “Rekognition”), along with the almost unbelievable news of China’s use of the technology, means that the technology industry needs to address the darker, more offensive side of some of its more spectacular advancements.
+
