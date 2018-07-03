@@ -27,3 +27,8 @@
 **[Facial recognition software is not ready for use by law enforcement](https://techcrunch.com/2018/06/25/facial-recognition-software-is-not-ready-for-use-by-law-enforcement/)**
 > Recent news of Amazon’s engagement with law enforcement to provide facial recognition surveillance (branded “Rekognition”), along with the almost unbelievable news of China’s use of the technology, means that the technology industry needs to address the darker, more offensive side of some of its more spectacular advancements.
 
+**[Add Constrained Optimization To Your Toolbelt](https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/)**
+> This post is an introduction to constrained optimization aimed at data scientists and developers fluent in Python, but without any background in operations research or applied math. We’ll demonstrate how optimization modeling can be applied to real problems at Stitch Fix. At the end of this article, you should be able to start modeling your own business problems.
+
+**[Travel Time Optimization With Machine Learning And Genetic Algorithm](https://towardsdatascience.com/travel-time-optimization-with-machine-learning-and-genetic-algorithm-71b40a3a4c2)**
+> What is the relationship between machine learning and optimization? — On the one hand, mathematical optimization is used in machine learning during model training, when we are trying to minimize the cost of errors between our model and our data points. On the other hand, what happens when machine learning is used to solve optimization problems?
