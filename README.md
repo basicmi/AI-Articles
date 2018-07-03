@@ -123,3 +123,5 @@
 **[Weekly Digest Jun. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_2.md)**
 
 **[Weekly Digest Jun. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_3.md)**
+
+**[Weekly Digest Jun. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_4.md)**
