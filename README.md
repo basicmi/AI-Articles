@@ -1,43 +1,37 @@
 # AI Articles of the week
 
-**[The Cutting Edge of AI — Part 2](https://medium.com/@arijaMGavrilov/the-cutting-edge-of-ai-part-2-d46e2a3e2339)**
-> Notes from day two of Exponential View talks and panels at CogX Festival, 11–12 June, London
+**[Great Power, Great Responsibility: The 2018 Big Data & AI Landscape](http://mattturck.com/bigdata2018/)**
+> It’s been an exciting, but complex year in the data world.
 
-**[This AI program could beat you in an argument—but it doesn’t know what it’s saying](https://www.technologyreview.com/s/611487/this-ai-program-could-beat-you-in-an-argumentbut-it-doesnt-know-what-its-saying/)**
-> The latest human-versus-machine matchup involves an argumentative AI system.
+**[OpenAI Five](https://blog.openai.com/openai-five/)**
+> Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2. While today we play with restrictions, we aim to beat a team of top professionals at The International in August subject only to a limited set of heroes.
 
-**[Adobe is using machine learning to make it easier to spot Photoshopped images](https://www.theverge.com/2018/6/22/17487764/adobe-photoshopped-fakes-edit-spotted-using-machine-learning-ai)**
-> New research uses AI to automate traditional digital forensics
+**[Ways to think about machine learning](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)**
+> I don't think, though, that we yet have a settled sense of quite what machine learning means - what it will mean for tech companies or for companies in the broader economy, how to think structurally about what new things it could enable, or what machine learning means for all the rest of us, and what important problems it might actually be able to solve. 
 
-**[Exploring Tensorflow for Poets, or, Building a Pottery Classifier](https://electricarchaeology.ca/2018/06/14/exploring-tensorflow-for-poets-or-building-a-pottery-classifier/)**
-> In [our recent paper](https://journal.caa-international.org/articles/10.5334/jcaa.8/), ‘Fleshing Out the Bones’ we used the trained ‘Inception 3’ model as a way of determining clusters of images that we then studied for clues and hints: why did the machine cluster them this way? What are the common features?
+**[In Army of None, a field guide to the coming world of autonomous warfare](https://techcrunch.com/2018/06/23/in-army-of-none-a-field-guide-to-the-coming-world-of-autonomous-warfare/)**
+>  In Army of None, Scharre argues that the challenges around just the definitions of these machines will take enormous effort to work out between nations, let alone handling their effects. It’s a sobering, thoughtful, if at times protracted look at this critical topic.
 
-**[Google Deep Mind’s Bogus AI Patent Filings](http://multiverseaccordingtoben.blogspot.com/2018/06/google-deep-minds-bogus-ai-patent.html)**
->  politically weird stuff related to Google Deep Mind
+**[The Road to Autonomous Vehicle Adoption](https://designmind.frogdesign.com/2018/06/road-autonomous-vehicle-adoption/)**
+> Consumer adoption of AVs is the next big hurdle for those in the Automotive industry. What lessons can we learn from other emerging catagories?
 
-**[Is There a Smarter Path to Artificial Intelligence? Some Experts Hope So](https://mobile.nytimes.com/2018/06/20/technology/deep-learning-artificial-intelligence.html)**
-> Benjamin Grosof is the chief scientist at Kyndi, a Silicon Valley start-up that is using a decades-old programming language to develop software that can generate facts, concepts and inferences from small amounts of data.
+**[Pentagon’s AI Surge On Track, Despite Google Protest](https://foreignpolicy.com/2018/06/29/google-protest-wont-stop-pentagons-a-i-revolution/)**
+> In the long term, large government contracts and cutting-edge projects will be hard for tech companies to resist.
 
-**[Facebook open sources DensePose](https://research.fb.com/facebook-open-sources-densepose/)**
-> Facebook AI Research (FAIR) [open sourced DensePose](http://densepose.org/), our real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body.
+**[India’s mess of complexity is just what AI needs](https://www.technologyreview.com/s/611478/indias-mess-of-complexity-is-just-what-ai-needs/)**
+> The country’s diversity of scripts, dialects, dress, and culture is a challenge that will make artificial intelligence more resilient.
 
-**[Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)**
-> As machine learning infiltrates society, scientists are trying to help ward off injustice.
+**[The Future of Map-Making is Open and Powered by Sensors and AI](http://blog.improve-osm.org/en/2018/06/the-future-of-map-making-is-open-and-powered-by-sensors-and-ai/)**
+> The tools of digital map-making today look nothing like those we had even a decade ago. Driven by a mix of grassroots energy and passion combined with innovations in technology, we have seen a rapid evolution marked by three inflection points: the dawn of consumer GPS, availability of high-resolution aerial imagery at scale, and lastly a shift to large scale AI powered map-making tools in which we find ourselves today.
 
-**[Food Discovery with Uber Eats: Building a Query Understanding Engine](https://eng.uber.com/uber-eats-query-understanding/)**
-> At Uber Eats, we strive to help eaters find the exact food they want as effortlessly as possible.
+**[Facial recognition software is not ready for use by law enforcement](https://techcrunch.com/2018/06/25/facial-recognition-software-is-not-ready-for-use-by-law-enforcement/)**
+> Recent news of Amazon’s engagement with law enforcement to provide facial recognition surveillance (branded “Rekognition”), along with the almost unbelievable news of China’s use of the technology, means that the technology industry needs to address the darker, more offensive side of some of its more spectacular advancements.
 
-**[Metacar](https://www.metacar-project.com/)**
-> A reinforcement learning environment for self-driving cars in the browser.
+**[Add Constrained Optimization To Your Toolbelt](https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/)**
+> This post is an introduction to constrained optimization aimed at data scientists and developers fluent in Python, but without any background in operations research or applied math. We’ll demonstrate how optimization modeling can be applied to real problems at Stitch Fix. At the end of this article, you should be able to start modeling your own business problems.
 
-**[Rebooting AI - Postulates](https://blog.piekniewski.info/2018/06/20/rebooting-ai-postulates/)**
-> Since there is now more attention to what I have to offer,  I decided to write down in a condensed form what I think is wrong with our approach to AI and what could we fix. 
-
-**[Alibaba v. Tencent: The Battle for Supremacy in China](http://fortune.com/longform/alibaba-tencent-china-internet/)**
-> Jack Ma of Alibaba and Pony Ma of Tencent have built tech titans that dominate China's digital economy. Is the world big enough for both of them?
-
-**[The Unbearable Awkwardness of Automation](https://www.theatlantic.com/technology/archive/2018/06/the-unbearable-awkwardness-of-automation/562670/)**
-> The machine age is changing the nature of work. In the process, it is also transforming buildings, and making them less hospitable for human use.
+**[Travel Time Optimization With Machine Learning And Genetic Algorithm](https://towardsdatascience.com/travel-time-optimization-with-machine-learning-and-genetic-algorithm-71b40a3a4c2)**
+> What is the relationship between machine learning and optimization? — On the one hand, mathematical optimization is used in machine learning during model training, when we are trying to minimize the cost of errors between our model and our data points. On the other hand, what happens when machine learning is used to solve optimization problems?
 
 **[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
