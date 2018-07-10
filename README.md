@@ -1,40 +1,34 @@
 # AI Articles of the week
 
-**[Great Power, Great Responsibility: The 2018 Big Data & AI Landscape](http://mattturck.com/bigdata2018/)**
-> It’s been an exciting, but complex year in the data world.
+**[A List of AI Chip/IP](https://basicmi.github.io/Deep-Learning-Processor-List/)**
+> Latest updates
 
-**[OpenAI Five](https://blog.openai.com/openai-five/)**
-> Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2. While today we play with restrictions, we aim to beat a team of top professionals at The International in August subject only to a limited set of heroes.
+**[An Overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd)**
+> The race to become the global leader in artificial intelligence (AI) has officially begun. In the past fifteen months, Canada, Japan, Singapore, China, the UAE, Finland, Denmark, France, the UK, the EU Commission, South Korea, and India have all released strategies to promote the use and development of AI. 
 
-**[Ways to think about machine learning](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)**
-> I don't think, though, that we yet have a settled sense of quite what machine learning means - what it will mean for tech companies or for companies in the broader economy, how to think structurally about what new things it could enable, or what machine learning means for all the rest of us, and what important problems it might actually be able to solve. 
+**[Baidu Accelerator Rises in AI](https://www.eetimes.com/document.asp?doc_id=1333449)**
+> China’s Baidu followed in Google’s footsteps this week, announcing it has developed its own deep learning accelerator. The move adds yet another significant player to a long list in AI hardware, but details of the chip and when it will be used remain unclear.
 
-**[In Army of None, a field guide to the coming world of autonomous warfare](https://techcrunch.com/2018/06/23/in-army-of-none-a-field-guide-to-the-coming-world-of-autonomous-warfare/)**
->  In Army of None, Scharre argues that the challenges around just the definitions of these machines will take enormous effort to work out between nations, let alone handling their effects. It’s a sobering, thoughtful, if at times protracted look at this critical topic.
+**[Tracking the Progress in Natural Language Processing](http://ruder.io/tracking-progress-nlp/)**
+> As an alternative, I have created a [GitHub repository](https://github.com/sebastianruder/NLP-progress) that keeps track of the datasets and the current state-of-the-art for the most common tasks in NLP. The repository is kept as simple as possible to make maintenance and contribution easy. If I missed your favourite task or dataset or your new state-of-the-art result or if I made any error, you can simply submit a pull request.
 
-**[The Road to Autonomous Vehicle Adoption](https://designmind.frogdesign.com/2018/06/road-autonomous-vehicle-adoption/)**
-> Consumer adoption of AVs is the next big hurdle for those in the Automotive industry. What lessons can we learn from other emerging catagories?
+**[No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)**
+> This purpose of this post isn’t to argue against an AI winter, however. It is also not to argue that one academic group deserves the credit for deep learning over another; rather, it is to make the case that credit is due; that the developments seen go beyond big computers and nicer datasets; that machine learning, with the recent success in deep neural networks and related work, represents the world’s foremost frontier of technological progress.
 
-**[Pentagon’s AI Surge On Track, Despite Google Protest](https://foreignpolicy.com/2018/06/29/google-protest-wont-stop-pentagons-a-i-revolution/)**
-> In the long term, large government contracts and cutting-edge projects will be hard for tech companies to resist.
+**[Tsinghua's Approach to Military-Civil Fusion in Artificial Intelligence](https://www.battlefieldsingularity.com/musings-1/tsinghua-s-approach-to-military-civil-fusion-in-artificial-intelligence)**
+> What does military-civil fusion (军民融合) in AI look like in action? I’ve translated an article by a vice president of Tsinghua University, often characterized as "China's MIT," which describes its commitment to supporting China’s national strategy for military-civil fusion, while advancing an "AI superpower strategy" (人工智能强国战略). 
 
-**[India’s mess of complexity is just what AI needs](https://www.technologyreview.com/s/611478/indias-mess-of-complexity-is-just-what-ai-needs/)**
-> The country’s diversity of scripts, dialects, dress, and culture is a challenge that will make artificial intelligence more resilient.
+**[Capture the Flag: the emergence of complex cooperative agents](https://deepmind.com/blog/capture-the-flag/)**
+> Mastering the strategy, tactical understanding, and team play involved in multiplayer video games represents a critical challenge for AI research. Now, through new developments in reinforcement learning, our agents have achieved human-level performance in Quake III Arena Capture the Flag, a complex multi-agent environment and one of the canonical 3D first-person multiplayer games. These agents demonstrate the ability to team up with both artificial agents and human players.
 
-**[The Future of Map-Making is Open and Powered by Sensors and AI](http://blog.improve-osm.org/en/2018/06/the-future-of-map-making-is-open-and-powered-by-sensors-and-ai/)**
-> The tools of digital map-making today look nothing like those we had even a decade ago. Driven by a mix of grassroots energy and passion combined with innovations in technology, we have seen a rapid evolution marked by three inflection points: the dawn of consumer GPS, availability of high-resolution aerial imagery at scale, and lastly a shift to large scale AI powered map-making tools in which we find ourselves today.
+**[An Introduction to Biomedical Image Analysis with TensorFlow and DLTK](https://medium.com/tensorflow/an-introduction-to-biomedical-image-analysis-with-tensorflow-and-dltk-2c25304e7c13)**
+> [DLTK](https://dltk.github.io/), the Deep Learning Toolkit for Medical Imaging extends TensorFlow to enable deep learning on biomedical images. It provides specialty ops and functions, implementations of models, tutorials (as used in this blog) and code examples for typical applications.
 
-**[Facial recognition software is not ready for use by law enforcement](https://techcrunch.com/2018/06/25/facial-recognition-software-is-not-ready-for-use-by-law-enforcement/)**
-> Recent news of Amazon’s engagement with law enforcement to provide facial recognition surveillance (branded “Rekognition”), along with the almost unbelievable news of China’s use of the technology, means that the technology industry needs to address the darker, more offensive side of some of its more spectacular advancements.
+**[It’s easier than you think to craft AI tools without typing a line of code](https://www.theverge.com/2018/6/12/17452742/deep-learning-ai-learn-lobe-made-easy-coding)**
+> A lot of companies are trying to make it easier to use artificial intelligence, but few are making it as simple as [Lobe](http://lobe.ai/).
 
-**[Add Constrained Optimization To Your Toolbelt](https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/)**
-> This post is an introduction to constrained optimization aimed at data scientists and developers fluent in Python, but without any background in operations research or applied math. We’ll demonstrate how optimization modeling can be applied to real problems at Stitch Fix. At the end of this article, you should be able to start modeling your own business problems.
-
-**[Travel Time Optimization With Machine Learning And Genetic Algorithm](https://towardsdatascience.com/travel-time-optimization-with-machine-learning-and-genetic-algorithm-71b40a3a4c2)**
-> What is the relationship between machine learning and optimization? — On the one hand, mathematical optimization is used in machine learning during model training, when we are trying to minimize the cost of errors between our model and our data points. On the other hand, what happens when machine learning is used to solve optimization problems?
-
-**[A List of Chip/IP for Deep Learning (keep updating)](https://basicmi.github.io/Deep-Learning-Processor-List/)**
-> Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
+**[Are we close to having machines solve TopCoder problems?](https://medium.com/near-ai/are-we-close-to-having-machines-solve-topcoder-problems-cc86d33c4324)**
+> We’re working on teaching machines to program. A particularly exciting sub-project of that is teaching machines to solve competitive programming problems.
 
 **[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
 
@@ -125,3 +119,5 @@
 **[Weekly Digest Jun. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_3.md)**
 
 **[Weekly Digest Jun. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_4.md)**
+
+**[Weekly Digest Jun. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-07_1.md)**
