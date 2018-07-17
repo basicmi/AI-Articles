@@ -1,34 +1,42 @@
 # AI Articles of the week
 
+# AI Articles of the week
+
+**[Why businesses fail at machine learning](https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db)**
+> I’d like to let you in on a secret: when people say ‘machine learning’ it sounds like there’s only one discipline here. There are two, and if businesses don’t understand the difference, they can experience a world of trouble.
+
+**[Facial recognition technology: The need for public regulation and corporate responsibility](https://blogs.microsoft.com/on-the-issues/2018/07/13/facial-recognition-technology-the-need-for-public-regulation-and-corporate-responsibility/)**
+> Facial recognition technology raises issues that go to the heart of fundamental human rights protections like privacy and freedom of expression. These issues heighten responsibility for tech companies that create these products. In our view, they also call for thoughtful government regulation and for the development of norms around acceptable uses. In a democratic republic, there is no substitute for decision making by our elected representatives regarding the issues that require the balancing of public safety with the essence of our democratic freedoms. Facial recognition will require the public and private sectors alike to step up – and to act.
+
+**[Seedbank — discover machine learning examples](https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57)**
+> we’re launching [Seedbank](http://tools.google.com/seedbank), a place to discover interactive machine learning examples which you can run from your browser, no set-up required. 
+
+**[Medical AI Safety: We have a problem.](https://lukeoakdenrayner.wordpress.com/2018/07/11/medical-ai-safety-we-have-a-problem/)**
+> For the first time ever, AI systems could actually be responsible for medical disasters.
+
+**[VTA: An Open, Customizable Deep Learning Acceleration Stack](https://tvm.ai/2018/07/12/vta-release-announcement.html)**
+> We are excited to announce the launch of the Versatile Tensor Accelerator (VTA, pronounced vita), an open, generic, and customizable deep learning accelerator design. 
+
+**[NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/)**
+> Big changes are underway in the world of Natural Language Processing (NLP). The long reign of word vectors as NLP’s core representation technique has seen an exciting new line of challengers emerge: [ELMo](https://arxiv.org/abs/1802.05365), [ULMFiT](https://arxiv.org/abs/1801.06146), and the [OpenAI transformer](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf). These works [made](https://blog.openai.com/language-unsupervised/) [headlines](https://techcrunch.com/2018/06/15/machines-learn-language-better-by-using-a-deep-understanding-of-words/) by demonstrating that pretrained language models can be used to achieve state-of-the-art results on a wide range of NLP tasks. Such methods herald a watershed moment: they may have the same wide-ranging impact on NLP as pretrained ImageNet models had on computer vision.
+
+**[Hardware Accelerators for Machine Learning (CS 217)](https://cs217.github.io/)**
+> This course provides in-depth coverage of the architectural techniques used to design accelerators for training and inference in machine learning systems. 
+
+**[Text Generation using a RNN](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/text_generation.ipynb)**
+> This notebook demonstrates how to generate text using an RNN using tf.keras and eager execution. If you like, you can write a similar model using less code. Here, we show a lower-level impementation that's useful to understand as prework before diving in to deeper examples in a similar, like Neural Machine Translation with Attention.
+
+**[What Image Classifiers Can Do About Unknown Objects](https://petewarden.com/2018/07/06/what-image-classifiers-can-do-about-unknown-objects/)**
+> 
+
+**[From shallow to deep learning in fraud](https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743)**
+> A Research Scientist’s journey through hand-coded regressors, pickled trees, and attentive neural networks
+
+**[Why Most of Us Fail to Grasp Coming Exponential Gains in AI]()**
+> By now, most of us are familiar with Moore’s Law, the famous maxim that the development of computing power follows an exponential curve, doubling in price-performance (that is, speed per unit cost) every 18 months or so. When it comes to applying Moore’s Law to their own business strategies, however, even visionary thinkers frequently suffer from a giant “AI blind spot.”
+
 **[A List of AI Chip/IP](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Latest updates
-
-**[An Overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd)**
-> The race to become the global leader in artificial intelligence (AI) has officially begun. In the past fifteen months, Canada, Japan, Singapore, China, the UAE, Finland, Denmark, France, the UK, the EU Commission, South Korea, and India have all released strategies to promote the use and development of AI. 
-
-**[Baidu Accelerator Rises in AI](https://www.eetimes.com/document.asp?doc_id=1333449)**
-> China’s Baidu followed in Google’s footsteps this week, announcing it has developed its own deep learning accelerator. The move adds yet another significant player to a long list in AI hardware, but details of the chip and when it will be used remain unclear.
-
-**[Tracking the Progress in Natural Language Processing](http://ruder.io/tracking-progress-nlp/)**
-> As an alternative, I have created a [GitHub repository](https://github.com/sebastianruder/NLP-progress) that keeps track of the datasets and the current state-of-the-art for the most common tasks in NLP. The repository is kept as simple as possible to make maintenance and contribution easy. If I missed your favourite task or dataset or your new state-of-the-art result or if I made any error, you can simply submit a pull request.
-
-**[No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)**
-> This purpose of this post isn’t to argue against an AI winter, however. It is also not to argue that one academic group deserves the credit for deep learning over another; rather, it is to make the case that credit is due; that the developments seen go beyond big computers and nicer datasets; that machine learning, with the recent success in deep neural networks and related work, represents the world’s foremost frontier of technological progress.
-
-**[Tsinghua's Approach to Military-Civil Fusion in Artificial Intelligence](https://www.battlefieldsingularity.com/musings-1/tsinghua-s-approach-to-military-civil-fusion-in-artificial-intelligence)**
-> What does military-civil fusion (军民融合) in AI look like in action? I’ve translated an article by a vice president of Tsinghua University, often characterized as "China's MIT," which describes its commitment to supporting China’s national strategy for military-civil fusion, while advancing an "AI superpower strategy" (人工智能强国战略). 
-
-**[Capture the Flag: the emergence of complex cooperative agents](https://deepmind.com/blog/capture-the-flag/)**
-> Mastering the strategy, tactical understanding, and team play involved in multiplayer video games represents a critical challenge for AI research. Now, through new developments in reinforcement learning, our agents have achieved human-level performance in Quake III Arena Capture the Flag, a complex multi-agent environment and one of the canonical 3D first-person multiplayer games. These agents demonstrate the ability to team up with both artificial agents and human players.
-
-**[An Introduction to Biomedical Image Analysis with TensorFlow and DLTK](https://medium.com/tensorflow/an-introduction-to-biomedical-image-analysis-with-tensorflow-and-dltk-2c25304e7c13)**
-> [DLTK](https://dltk.github.io/), the Deep Learning Toolkit for Medical Imaging extends TensorFlow to enable deep learning on biomedical images. It provides specialty ops and functions, implementations of models, tutorials (as used in this blog) and code examples for typical applications.
-
-**[It’s easier than you think to craft AI tools without typing a line of code](https://www.theverge.com/2018/6/12/17452742/deep-learning-ai-learn-lobe-made-easy-coding)**
-> A lot of companies are trying to make it easier to use artificial intelligence, but few are making it as simple as [Lobe](http://lobe.ai/).
-
-**[Are we close to having machines solve TopCoder problems?](https://medium.com/near-ai/are-we-close-to-having-machines-solve-topcoder-problems-cc86d33c4324)**
-> We’re working on teaching machines to program. A particularly exciting sub-project of that is teaching machines to solve competitive programming problems.
 
 **[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
 
@@ -118,6 +126,8 @@
 
 **[Weekly Digest Jun. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_3.md)**
 
-**[Weekly Digest Jun. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_4.md)**
+**[Weekly Digest Jun. 2018 \#4](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-06_4.md)**
 
-**[Weekly Digest Jun. 2018 \#3](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-07_1.md)**
+**[Weekly Digest Jul. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-07_1.md)**
+
+**[Weekly Digest Jul. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-07_2.md)**
