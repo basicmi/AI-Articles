@@ -1,7 +1,5 @@
 # AI Articles of the week
 
-# AI Articles of the week
-
 **[Why businesses fail at machine learning](https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db)**
 > I’d like to let you in on a secret: when people say ‘machine learning’ it sounds like there’s only one discipline here. There are two, and if businesses don’t understand the difference, they can experience a world of trouble.
 
