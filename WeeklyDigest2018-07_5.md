@@ -25,7 +25,7 @@
 > We’re in a period of human-computer interaction history where the widespread availability of machine learning allows us to build unprecedented new interactions. You don’t have to be an ML researcher to get in on the action, either — software like the Rasa Stack brings state-of-the-art research into a usable product. Pair that with an awesome communication stack from Twilio, and your software can interact with the world in entirely new ways.
 
 **['The discourse is unhinged': how the media gets AI alarmingly wrong](https://www.theguardian.com/technology/2018/jul/25/ai-artificial-intelligence-social-media-bots-wrong)**
-> 
+> Social media has allowed self-proclaimed ‘AI influencers’ who do nothing more than paraphrase Elon Musk to cash in on this hype with low-quality pieces. The result is dangerous
 
 **[Algorithm and Blues: The Tyranny of the Coming Smart-Tech Utopia](https://blogs.scientificamerican.com/observations/algorithm-and-blues-the-tyranny-of-the-coming-smart-tech-utopia/)**
-> Social media has allowed self-proclaimed ‘AI influencers’ who do nothing more than paraphrase Elon Musk to cash in on this hype with low-quality pieces. The result is dangerous
+> Why optimizing the world for efficiency, productivity and happiness is bad for humanity
