@@ -1,40 +1,37 @@
 # AI Articles of the week
 
-**[Why businesses fail at machine learning](https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db)**
-> I’d like to let you in on a secret: when people say ‘machine learning’ it sounds like there’s only one discipline here. There are two, and if businesses don’t understand the difference, they can experience a world of trouble.
+**[Google is adding new automated machine learning tools and bringing its AI software to call centers](https://www.theverge.com/2018/7/24/17605320/google-machine-learning-ai)**
+> Google’s AutoML Vision is going into public beta while new natural language and translation tools are now available
 
-**[Facial recognition technology: The need for public regulation and corporate responsibility](https://blogs.microsoft.com/on-the-issues/2018/07/13/facial-recognition-technology-the-need-for-public-regulation-and-corporate-responsibility/)**
-> Facial recognition technology raises issues that go to the heart of fundamental human rights protections like privacy and freedom of expression. These issues heighten responsibility for tech companies that create these products. In our view, they also call for thoughtful government regulation and for the development of norms around acceptable uses. In a democratic republic, there is no substitute for decision making by our elected representatives regarding the issues that require the balancing of public safety with the essence of our democratic freedoms. Facial recognition will require the public and private sectors alike to step up – and to act.
+**[What do machine learning practitioners actually do?](http://www.fast.ai/2018/07/12/auto-ml-1/)**
+> This post is part 1 of a series. [Part 2](http://www.fast.ai/2018/07/16/auto-ml2/) is an opinionated introduction to AutoML and neural architecture search, and [Part 3](http://www.fast.ai/2018/07/23/auto-ml-3/) looks at Google’s AutoML in particular.
 
-**[Seedbank — discover machine learning examples](https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57)**
-> we’re launching [Seedbank](http://tools.google.com/seedbank), a place to discover interactive machine learning examples which you can run from your browser, no set-up required. 
+**[Why Germany did not defeat Brazil in the final, or Data Science lessons from the World Cup](https://www.kdnuggets.com/2018/07/worldcup-data-science-lessons.html)**
+> We review World Cup predictions (all failed), examine what makes such events difficult to predict, and suggest 3 golden rules to determine when you can trust the predictions.
 
-**[Medical AI Safety: We have a problem.](https://lukeoakdenrayner.wordpress.com/2018/07/11/medical-ai-safety-we-have-a-problem/)**
-> For the first time ever, AI systems could actually be responsible for medical disasters.
+**[Software beats animal tests at predicting toxicity of chemicals](https://www.nature.com/articles/d41586-018-05664-2)**
+> Machine learning on mountain of safety data improves automated assessments.
 
-**[VTA: An Open, Customizable Deep Learning Acceleration Stack](https://tvm.ai/2018/07/12/vta-release-announcement.html)**
-> We are excited to announce the launch of the Versatile Tensor Accelerator (VTA, pronounced vita), an open, generic, and customizable deep learning accelerator design. 
+**[Building your own Duplex AI agent using Rasa and Twilio](https://medium.com/rasa-blog/building-your-own-duplex-ai-agent-using-rasa-and-twilio-bbd23c80ed30)**
+> We’re in a period of human-computer interaction history where the widespread availability of machine learning allows us to build unprecedented new interactions. You don’t have to be an ML researcher to get in on the action, either — software like the Rasa Stack brings state-of-the-art research into a usable product. Pair that with an awesome communication stack from Twilio, and your software can interact with the world in entirely new ways.
 
-**[NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/)**
-> Big changes are underway in the world of Natural Language Processing (NLP). The long reign of word vectors as NLP’s core representation technique has seen an exciting new line of challengers emerge: [ELMo](https://arxiv.org/abs/1802.05365), [ULMFiT](https://arxiv.org/abs/1801.06146), and the [OpenAI transformer](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf). These works [made](https://blog.openai.com/language-unsupervised/) [headlines](https://techcrunch.com/2018/06/15/machines-learn-language-better-by-using-a-deep-understanding-of-words/) by demonstrating that pretrained language models can be used to achieve state-of-the-art results on a wide range of NLP tasks. Such methods herald a watershed moment: they may have the same wide-ranging impact on NLP as pretrained ImageNet models had on computer vision.
+**[Artificial intelligence has learned to probe the minds of other computers](http://www.sciencemag.org/news/2018/07/computer-programs-can-learn-what-other-programs-are-thinking)**
+> Now, computer scientists have created an artificial intelligence (AI) that can probe the “minds” of other computers and predict their actions, the first step to fluid collaboration among machines—and between machines and people.
 
-**[Hardware Accelerators for Machine Learning (CS 217)](https://cs217.github.io/)**
-> This course provides in-depth coverage of the architectural techniques used to design accelerators for training and inference in machine learning systems. 
+**[Google’s Edge TPU](https://cloud.google.com/edge-tpu/)**
+> Google’s purpose-built ASIC designed to run inference at the edge.
 
-**[Text Generation using a RNN](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/text_generation.ipynb)**
-> This notebook demonstrates how to generate text using an RNN using tf.keras and eager execution. If you like, you can write a similar model using less code. Here, we show a lower-level impementation that's useful to understand as prework before diving in to deeper examples in a similar, like Neural Machine Translation with Attention.
+**[Building your own Duplex AI agent using Rasa and Twilio](https://medium.com/rasa-blog/building-your-own-duplex-ai-agent-using-rasa-and-twilio-bbd23c80ed30)**
+> We’re in a period of human-computer interaction history where the widespread availability of machine learning allows us to build unprecedented new interactions. You don’t have to be an ML researcher to get in on the action, either — software like the Rasa Stack brings state-of-the-art research into a usable product. Pair that with an awesome communication stack from Twilio, and your software can interact with the world in entirely new ways.
 
-**[What Image Classifiers Can Do About Unknown Objects](https://petewarden.com/2018/07/06/what-image-classifiers-can-do-about-unknown-objects/)**
-> 
+**['The discourse is unhinged': how the media gets AI alarmingly wrong](https://www.theguardian.com/technology/2018/jul/25/ai-artificial-intelligence-social-media-bots-wrong)**
+> Social media has allowed self-proclaimed ‘AI influencers’ who do nothing more than paraphrase Elon Musk to cash in on this hype with low-quality pieces. The result is dangerous
 
-**[From shallow to deep learning in fraud](https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743)**
-> A Research Scientist’s journey through hand-coded regressors, pickled trees, and attentive neural networks
-
-**[Why Most of Us Fail to Grasp Coming Exponential Gains in AI]()**
-> By now, most of us are familiar with Moore’s Law, the famous maxim that the development of computing power follows an exponential curve, doubling in price-performance (that is, speed per unit cost) every 18 months or so. When it comes to applying Moore’s Law to their own business strategies, however, even visionary thinkers frequently suffer from a giant “AI blind spot.”
+**[Algorithm and Blues: The Tyranny of the Coming Smart-Tech Utopia](https://blogs.scientificamerican.com/observations/algorithm-and-blues-the-tyranny-of-the-coming-smart-tech-utopia/)**
+> Why optimizing the world for efficiency, productivity and happiness is bad for humanity
 
 **[A List of AI Chip/IP](https://basicmi.github.io/Deep-Learning-Processor-List/)**
-> Latest updates
+> Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
 
 **[Weekly Digest Aug. 2017 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2017-08_2.md)**
 
@@ -129,3 +126,5 @@
 **[Weekly Digest Jul. 2018 \#1](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-07_1.md)**
 
 **[Weekly Digest Jul. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-07_2.md)**
+
+**[Weekly Digest Jul. 2018 \#2](https://github.com/basicmi/Machine-Learning-Articles/blob/master/WeeklyDigest2018-07_3.md)**
