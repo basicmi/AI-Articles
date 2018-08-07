@@ -1,34 +1,43 @@
 # AI Articles of the week
 
-**[Google is adding new automated machine learning tools and bringing its AI software to call centers](https://www.theverge.com/2018/7/24/17605320/google-machine-learning-ai)**
-> Google’s AutoML Vision is going into public beta while new natural language and translation tools are now available
+**[Natural Language Processing is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)**
+> How computers understand Human Language
 
-**[What do machine learning practitioners actually do?](http://www.fast.ai/2018/07/12/auto-ml-1/)**
-> This post is part 1 of a series. [Part 2](http://www.fast.ai/2018/07/16/auto-ml2/) is an opinionated introduction to AutoML and neural architecture search, and [Part 3](http://www.fast.ai/2018/07/23/auto-ml-3/) looks at Google’s AutoML in particular.
+**[Program Synthesis in 2017-18]()**
+> ...this post — a high-level overview of the recent ideas and representative papers in program synthesis as of mid-2018.
 
-**[Why Germany did not defeat Brazil in the final, or Data Science lessons from the World Cup](https://www.kdnuggets.com/2018/07/worldcup-data-science-lessons.html)**
-> We review World Cup predictions (all failed), examine what makes such events difficult to predict, and suggest 3 golden rules to determine when you can trust the predictions.
+**[How decision trees work](https://brohrer.github.io/how_decision_trees_work.html)**
+> Decision trees are one of my favorite models. They are simple, and they are powerful. In fact most high performing Kaggle entries are a combination of XGBoost, which is variant of decision tree, and some very clever feature engineering.
 
-**[Software beats animal tests at predicting toxicity of chemicals](https://www.nature.com/articles/d41586-018-05664-2)**
-> Machine learning on mountain of safety data improves automated assessments.
+**[Ten Techniques Learned From fast.ai](https://blog.floydhub.com/ten-techniques-from-fast-ai/)**
+> Right now, Jeremy Howard – the co-founder of fast.ai – currently holds the 105th highest score for the plant seedling classification contest on Kaggle, but he's dropping fast. Why? His own students are beating him. And their names can now be found across the tops of leaderboards all over Kaggle.
 
-**[Building your own Duplex AI agent using Rasa and Twilio](https://medium.com/rasa-blog/building-your-own-duplex-ai-agent-using-rasa-and-twilio-bbd23c80ed30)**
-> We’re in a period of human-computer interaction history where the widespread availability of machine learning allows us to build unprecedented new interactions. You don’t have to be an ML researcher to get in on the action, either — software like the Rasa Stack brings state-of-the-art research into a usable product. Pair that with an awesome communication stack from Twilio, and your software can interact with the world in entirely new ways.
+**[Using Uncertainty to Interpret your Model](https://engineering.taboola.com/using-uncertainty-interpret-model/)**
+> As deep neural networks (DNN) become more powerful, their complexity increases. This complexity introduces new challenges, including model interpretability.
 
-**[Artificial intelligence has learned to probe the minds of other computers](http://www.sciencemag.org/news/2018/07/computer-programs-can-learn-what-other-programs-are-thinking)**
-> Now, computer scientists have created an artificial intelligence (AI) that can probe the “minds” of other computers and predict their actions, the first step to fluid collaboration among machines—and between machines and people.
+**[When Recurrent Models Don't Need to be Recurrent](http://www.offconvex.org/2018/07/27/approximating-recurrent/)**
+> We discuss several proposed answers to this question and highlight our [recent work](https://arxiv.org/abs/1805.10369) that offers an explanation in terms of a fundamental stability property.
 
-**[Google’s Edge TPU](https://cloud.google.com/edge-tpu/)**
-> Google’s purpose-built ASIC designed to run inference at the edge.
+**[L1: Tensor Studio](https://github.com/mlajtos/L1)**
+> [L1: Tensor Studio](https://mlajtos.github.io/L1/latest/) is a live-programming environment for differentiable linear algebra. A playground for tensors.
 
-**[Building your own Duplex AI agent using Rasa and Twilio](https://medium.com/rasa-blog/building-your-own-duplex-ai-agent-using-rasa-and-twilio-bbd23c80ed30)**
-> We’re in a period of human-computer interaction history where the widespread availability of machine learning allows us to build unprecedented new interactions. You don’t have to be an ML researcher to get in on the action, either — software like the Rasa Stack brings state-of-the-art research into a usable product. Pair that with an awesome communication stack from Twilio, and your software can interact with the world in entirely new ways.
+**[Good First Impressions According to Data Science](https://medium.com/datadriveninvestor/good-first-impressions-according-to-data-science-499d4225044d)**
+> Making a good first impression is hard. I made a model that can predict how good of an impression you are making based on a video clip submission.
 
-**['The discourse is unhinged': how the media gets AI alarmingly wrong](https://www.theguardian.com/technology/2018/jul/25/ai-artificial-intelligence-social-media-bots-wrong)**
-> Social media has allowed self-proclaimed ‘AI influencers’ who do nothing more than paraphrase Elon Musk to cash in on this hype with low-quality pieces. The result is dangerous
+**[Embrace the noise: A case study of text annotation for medical imaging](https://lighttag.io/blog/embrace-the-noise/)**
+> In this post we’ll discuss the recent paper [TextRay: Mining Clinical Reports to Gain a Broad Understanding of Chest X-rays](https://arxiv.org/abs/1806.02121) focusing on the best practices the paper exemplifies with regards to labeling text data for NLP. 
 
-**[Algorithm and Blues: The Tyranny of the Coming Smart-Tech Utopia](https://blogs.scientificamerican.com/observations/algorithm-and-blues-the-tyranny-of-the-coming-smart-tech-utopia/)**
-> Why optimizing the world for efficiency, productivity and happiness is bad for humanity
+**[Want Less-Biased Decisions? Use Algorithms.](https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms)**
+> And that is the most relevant question for practitioners and policy makers: How do the bias and performance of algorithms compare with the status quo? Rather than simply asking whether algorithms are flawed, we should be asking how these flaws compare with those of human beings.
+
+**[Data's day of reckoning](https://www.oreilly.com/ideas/datas-day-of-reckoning)**
+> We can build a future we want to live in, or we can build a nightmare. The choice is up to us.
+
+**[Evolutionary algorithm outperforms deep-learning machines at video games](https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/)**
+> Neural networks have garnered all the headlines, but a much more powerful approach is waiting in the wings.
+
+**[DESPITE PLEDGING OPENNESS, COMPANIES RUSH TO PATENT AI TECH](https://www.wired.com/story/despite-pledging-openness-companies-rush-to-patent-ai-tech/)**
+> 
 
 **[A List of AI Chip/IP](https://basicmi.github.io/Deep-Learning-Processor-List/)**
 > Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration of AI/ML/DL was recognized in academia and industry. This year, we saw more and more players, including world’s top semiconductor companies as well as a number of startups, even tech giants Google, have jumped into the race. I believe that it could be very interesting to look at them together. So, I build this list of AI/ML/DL ICs and IPs on Github and keep updating. If you have any suggestion or new information, please let me know.
